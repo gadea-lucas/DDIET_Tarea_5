@@ -1,0 +1,2154 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: https://ogp.me/ns#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=1024" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=3eBYbvwWMw">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=3eBYbvwWMw">
+<link rel="icon" type="image/png" sizes="194x194" href="/favicon-194x194.png?v=3eBYbvwWMw">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png?v=3eBYbvwWMw">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=3eBYbvwWMw">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any"/>
+<link rel="manifest" href="/site.webmanifest?v=3eBYbvwWMw">
+<link rel="shortcut icon" href="/favicon.ico?v=3eBYbvwWMw">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="stylesheet" href="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/style.css" />
+<link rel="pingback" href="https://www.pequerecetas.com/xmlrpc.php" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MCPHJM2');</script>
+<!-- End Google Tag Manager -->
+<script>window.ssmCustomTargetings = { skin: 1};</script>
+ <script async src="https://ssm.codes/smart-tag/pequerecetas.js"></script>
+<!-- DFP -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+googletag.defineSlot('/1133183/pr_destacado', [154, 210], 'pr-dfp-destacado-001-0').addService(googletag.pubads());
+//googletag.defineSlot('/1133183/Layer_Pequerecetas', [1, 1], 'div-gpt-ad-1563181683152-0').addService(googletag.pubads());
+//googletag.defineSlot('/1133183/pr_sidebar', [[160, 600], [300, 600], [300, 250], [120, 600]], 'pr-dfp-sidebar-001-0').addService(googletag.pubads());
+//googletag.defineSlot('/1133183/pr_leaderboard', [[970, 90], [728, 90]], 'pr-dfp-leaderboard-001-0').addService(googletag.pubads());
+//googletag.defineSlot('/1133183/pr_sidebar_2', [[300, 250], [120, 600], [160, 600], [300, 600]], 'pr-dfp-sidebar-002-0').addService(googletag.pubads());
+//googletag.defineSlot('/1133183/pr_contentbanner', [[300, 250], [300, 600], [160, 600], [120, 600]], 'pr-dfp-post-001-0').addService(googletag.pubads());
+//googletag.defineSlot('/1133183/pr_contentbanner_2', [[300, 250], [300, 600], [160, 600], [120, 600]], 'pr-dfp-post-002-0').addService(googletag.pubads());
+//googletag.defineSlot('/1133183/pr_contentbanner_3', [[300, 250], [300, 600], [160, 600], [120, 600]], 'pr-dfp-post-003-0').addService(googletag.pubads());
+//googletag.defineSlot('/1133183/pr_contentbanner_4', [[300, 250], [300, 600], [160, 600], [120, 600]], 'pr-dfp-post-004-0').addService(googletag.pubads());
+//googletag.defineSlot('/1133183/Pequerecetas_In-Text', [[640, 375], [300, 250], [1, 1]],'div-gpt-ad-1427278132944-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+	});
+</script>
+<!-- END DFP -->
+<!--- Adsense Auto -->
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0718707014668818"
+     crossorigin="anonymous"></script>
+<!--- End Adsense Auto --> 
+<!-- Seedtag -->
+<script async src="https://t.seedtag.com/t/8902-5221-01.js"></script>
+<!-- End Seedtag -->
+<!-- Taboola -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/kidealia/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<!-- End Taboola -->
+<!-- Cookieless Teads-->
+<script>
+  window.teads_analytics = window.teads_analytics || {};
+  window.teads_analytics.analytics_tag_id = "PUB_12891";
+  window.teads_analytics.share = window.teads_analytics.share || function() {
+    ;(window.teads_analytics.shared_data = window.teads_analytics.shared_data || []).push(arguments)
+  };
+</script>
+<script async src="https://a.teads.tv/analytics/tag.js"></script>
+<!-- End Cookieless Teads-->
+
+
+
+
+
+<link rel="preload" as="font" href="/wp-content/plugins/wptouch-pro/themes/foundation/modules/wptouch-icons/font/wptouch-icons.woff?64777116" data-wpacu-preload-font="1" crossorigin>
+
+<!-- Optimización en motores de búsqueda por Rank Math PRO -  https://rankmath.com/ -->
+<title>La tortilla de patatas española perfecta (jugosa, alta, y esponjosa) - PequeRecetas</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cuprum&#038;ver=6.0.7&#038;family=Nunito&#038;ver=6.0.7&#038;family=Source+Sans+Pro&#038;ver=6.0.7&#038;family=Roboto&#038;ver=6.0.7&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cuprum&#038;ver=6.0.7&#038;family=Nunito&#038;ver=6.0.7&#038;family=Source+Sans+Pro&#038;ver=6.0.7&#038;family=Roboto&#038;ver=6.0.7&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cuprum&#038;ver=6.0.7&#038;family=Nunito&#038;ver=6.0.7&#038;family=Source+Sans+Pro&#038;ver=6.0.7&#038;family=Roboto&#038;ver=6.0.7&#038;display=swap" /></noscript>
+<link rel="preload" as="font" href="https://www.pequerecetas.com/wp-content/plugins/wptouch-pro/themes/foundation/modules/wptouch-icons/font/wptouch-icons.woff?64777116" crossorigin>
+<meta name="description" content="La tortilla de patatas es uno de los iconos de la gastronomía española. Aprende a hacer la mejor tortilla de patatas en 3 pasos fáciles."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.pequerecetas.com/receta/tortilla-de-patatas/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="La tortilla de patatas española perfecta (jugosa, alta, y esponjosa) - PequeRecetas" />
+<meta property="og:description" content="La tortilla de patatas es uno de los iconos de la gastronomía española. Aprende a hacer la mejor tortilla de patatas en 3 pasos fáciles." />
+<meta property="og:url" content="https://www.pequerecetas.com/receta/tortilla-de-patatas/" />
+<meta property="og:site_name" content="Recetas de cocina fácil para toda la familia - Pequerecetas" />
+<meta property="article:publisher" content="https://www.facebook.com/pequerecetas/" />
+<meta property="article:tag" content="Cocinando entre Olivos" />
+<meta property="article:section" content="Recetas de cocina casera fáciles" />
+<meta property="og:updated_time" content="2023-04-24T16:43:42+02:00" />
+<meta property="og:image" content="https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg" />
+<meta property="og:image:secure_url" content="https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="900" />
+<meta property="og:image:alt" content="Tortilla de patatas" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2020-06-04T10:36:43+02:00" />
+<meta property="article:modified_time" content="2023-04-24T16:43:42+02:00" />
+<meta property="og:video" content="https://www.youtube.com/embed/umprdaHXMnQ" />
+<meta property="video:duration" content="198" />
+<meta property="ya:ovs:upload_date" content="2013-11-10" />
+<meta property="ya:ovs:allow_embed" content="true" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="La tortilla de patatas española perfecta (jugosa, alta, y esponjosa) - PequeRecetas" />
+<meta name="twitter:description" content="La tortilla de patatas es uno de los iconos de la gastronomía española. Aprende a hacer la mejor tortilla de patatas en 3 pasos fáciles." />
+<meta name="twitter:site" content="@pequerecetas" />
+<meta name="twitter:creator" content="@pequerecetas" />
+<meta name="twitter:image" content="https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://www.pequerecetas.com/#person","name":"Pequerecetas","sameAs":["https://www.facebook.com/pequerecetas/","https://twitter.com/pequerecetas","https://www.instagram.com/pequerecetas/","https://www.pinterest.com/pequerecetas/","https://www.youtube.com/pequerecetas/"]},{"@type":"WebSite","@id":"https://www.pequerecetas.com/#website","url":"https://www.pequerecetas.com","name":"Recetas de cocina f\u00e1cil para toda la familia - Pequerecetas","publisher":{"@id":"https://www.pequerecetas.com/#person"},"inLanguage":"es"},{"@type":"ImageObject","@id":"https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg","url":"https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg","width":"600","height":"900","caption":"Tortilla de patatas","inLanguage":"es"},{"@type":"BreadcrumbList","@id":"https://www.pequerecetas.com/receta/tortilla-de-patatas/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://www.pequerecetas.com","name":"Portada"}},{"@type":"ListItem","position":"2","item":{"@id":"https://www.pequerecetas.com/receta/","name":"Recetas"}},{"@type":"ListItem","position":"3","item":{"@id":"https://www.pequerecetas.com/receta/tortilla-de-patatas/","name":"La tortilla de patatas espa\u00f1ola perfecta (jugosa, alta, y esponjosa)"}}]},{"@type":"WebPage","@id":"https://www.pequerecetas.com/receta/tortilla-de-patatas/#webpage","url":"https://www.pequerecetas.com/receta/tortilla-de-patatas/","name":"La tortilla de patatas espa\u00f1ola perfecta (jugosa, alta, y esponjosa) - PequeRecetas","datePublished":"2020-06-04T10:36:43+02:00","dateModified":"2023-04-24T16:43:42+02:00","isPartOf":{"@id":"https://www.pequerecetas.com/#website"},"primaryImageOfPage":{"@id":"https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg"},"inLanguage":"es","breadcrumb":{"@id":"https://www.pequerecetas.com/receta/tortilla-de-patatas/#breadcrumb"}},{"@type":"Person","@id":"https://www.pequerecetas.com/autor/anamaria/","name":"Ana Mar\u00eda","url":"https://www.pequerecetas.com/autor/anamaria/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/dcd26c333d06a6b752150ad9a9987b3f?s=96&amp;r=g","url":"https://secure.gravatar.com/avatar/dcd26c333d06a6b752150ad9a9987b3f?s=96&amp;r=g","caption":"Ana Mar\u00eda","inLanguage":"es"},"sameAs":["https://cocinandoentreolivos.com/"]},{"headline":"La tortilla de patatas espa\u00f1ola perfecta (jugosa, alta, y esponjosa) - PequeRecetas","description":"La tortilla de patatas es uno de los iconos de la gastronom\u00eda espa\u00f1ola. Aprende a hacer la mejor tortilla de patatas en 3 pasos f\u00e1ciles.","datePublished":"2020-06-04T10:36:43+02:00","dateModified":"2023-04-24T16:43:42+02:00","image":{"@id":"https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg"},"author":{"@id":"https://www.pequerecetas.com/autor/anamaria/","name":"Ana Mar\u00eda"},"@type":"Article","name":"La tortilla de patatas espa\u00f1ola perfecta (jugosa, alta, y esponjosa) - PequeRecetas","@id":"https://www.pequerecetas.com/receta/tortilla-de-patatas/#schema-1211513","isPartOf":{"@id":"https://www.pequerecetas.com/receta/tortilla-de-patatas/#webpage"},"publisher":{"@id":"https://www.pequerecetas.com/#person"},"inLanguage":"es","mainEntityOfPage":{"@id":"https://www.pequerecetas.com/receta/tortilla-de-patatas/#webpage"}},{"@type":"VideoObject","name":"C\u00d3MO HACER TORTILLA DE PATATAS PASO A PASO | RECETA F\u00c1CIL | PEQUERECETAS","description":"M\u00e1s recetas en http://www.pequerecetas.comPuedes encontrar la receta en texto de esta tortilla de patatas en http://www.pequerecetas.com/receta/tortilla-de-p...","uploadDate":"2013-11-10","thumbnailUrl":"https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg","embedUrl":"https://www.youtube.com/embed/umprdaHXMnQ","duration":"PT3M18S","width":"1280","height":"720","isFamilyFriendly":"True","@id":"https://www.pequerecetas.com/receta/tortilla-de-patatas/#schema-1211514","isPartOf":{"@id":"https://www.pequerecetas.com/receta/tortilla-de-patatas/#webpage"},"publisher":{"@id":"https://www.pequerecetas.com/#person"},"inLanguage":"es","mainEntityOfPage":{"@id":"https://www.pequerecetas.com/receta/tortilla-de-patatas/#webpage"}}]}</script>
+<!-- /Plugin Rank Math WordPress SEO -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//www.google-analytics.com' />
+<link rel='dns-prefetch' href='//youtube.com' />
+<link rel='dns-prefetch' href='//api.pinterest.com' />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//platform.instagram.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//ssm.codes' />
+<link rel='dns-prefetch' href='//cdn.taboola.com' />
+<link rel='dns-prefetch' href='//s.richaudience.com' />
+<link rel='dns-prefetch' href='//t.seedtag.com' />
+<link rel='dns-prefetch' href='//at.teads.tv' />
+<link rel='dns-prefetch' href='//a.teads.tv' />
+<link rel='dns-prefetch' href='//static.videoo.tv' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="PequeRecetas &raquo; Comentario La tortilla de patatas española perfecta (jugosa, alta, y esponjosa) del feed" href="https://www.pequerecetas.com/receta/tortilla-de-patatas/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.pequerecetas.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.7' type='text/css' media='all' />
+<style id='rank-math-toc-block-style-inline-css' type='text/css'>
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") " ";counter-increment:item}
+
+</style>
+<style id='acf-recipe-block-style-inline-css' type='text/css'>
+.recipe-card{
+	padding: 0.625em 0;
+	margin: 2em 0 0;
+	background-color:#FFF;
+}
+.ingredientes_container{
+	margin: 0px;
+    background-color: #fff;
+    position: relative;
+    color: #736458;
+    margin: 0px;
+    padding: 10px 10px 5px 10px;
+}
+.ingredientes_header{
+	border-bottom: 1px dotted #fd845a;
+    padding:10px;
+    color: #fd845a;
+}
+.ingredientes_lista {
+	display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100%, 1fr)); /* see notes below */
+ 	grid-gap: 1em;
+    gap: 0.1rem;
+    line-height: normal;
+    list-style-type: disc;
+    margin: 0 0 1em 1em;
+}
+.ingredientes {
+ 	font-size: 1rem;
+    padding: 5px 20px 0px 0px;
+    text-transform: none;
+    letter-spacing: 0.015625em;
+    line-height: 1.529em;
+    font-size: 18px;
+    font-style:italic;
+    font-weight:400;
+    color:#3a3a3a;
+    word-break: break-word;
+}
+.ingredientes_title{
+	padding: 20px 20px 5px 15px;
+	margin:0px;
+}
+.ingredientes_lista>li{
+	position: relative;
+    line-height: 1.95em;
+    padding: 0 0 0.14rem 1rem;
+    margin: 0px;
+	grid-column: 1 / auto;
+	border-bottom:1px dotted #ddd;	
+	display: list-item;
+	list-style-position: outside;
+}
+.ingredientes_lista>li::before{	
+}
+.ingredientes_lista>li::marker {
+  color: #447215;
+  content: '✓';
+  margin-left: 1rem; /* same as padding-left set on li */
+  width: 1rem; /* same as padding-left set on li */
+}
+.ingredientes:last-of-type {
+    border-bottom: 0px;
+}
+.ingredientes-caption {
+    display: block;
+    font-size: 75%;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    opacity: .8;
+}
+.dashicons-clock{
+	color: #fd845a;
+    font-size: 15px;
+}
+
+.pasos_container{
+	padding: 0.625em 0;
+	background-color:#FFF;
+	margin-bottom:1.5em;
+}
+.instrucciones_container{
+    position: relative;
+	margin: .5em 0 .5em;
+    text-align: left;
+    width: 100%;
+    padding: 10px 0px 5px 0px;
+}
+.instrucciones_header{
+    border-bottom: 1px dotted #FF5868;
+    padding: 10px;
+}
+.instrucciones_lista {
+    line-height: normal;
+    list-style: none;
+    margin: 0 !important;
+    counter-reset: count;
+}
+
+.instrucciones_pasos {
+    display: block;
+    font-size: 18px;
+    border-bottom: 1px dotted #82c3d1;
+}
+li.instrucciones_pasos ul {
+	margin:15px 15px 15px 20px;
+}
+li.instrucciones_pasos ul li{
+	border-bottom:1px dotted #ddd;
+	padding-top:calc(15px/2);
+	padding-bottom:calc(15px/2);
+	padding-left:10px;
+	background:none;
+	display: list-item;
+	list-style-position: outside;
+}
+.instrucciones_pasos ul li:last-of-type{
+	border-bottom:none;
+}
+.instrucciones_pasos ul li::before{
+
+}
+li.instrucciones_pasos ul li::marker {
+  color: #447215;
+  content: '✓';
+  margin-left: 10px; /* same as padding-left set on li */
+  width: 10px; /* same as padding-left set on li */
+}
+
+.instrucciones_pasos p{
+	margin-bottom:1em;
+}
+.instrucciones_lista>li{
+	position: relative;
+    line-height: 1.8;
+    list-style: none;
+    min-height: 44px;
+    padding: 0px !important;
+    margin: 0 0 1rem;
+    background:none !important;
+    }
+.instrucciones_lista>li h3{
+	
+}
+.instrucciones_lista>li::before{
+    position: absolute;
+    top: 5px;
+    left: 0;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto Condensed",sans-serif;
+    text-transform: uppercase;
+    vertical-align: middle;
+    padding: 0;
+    background: #259740;
+ 	color: white;
+  	width: 1.2em;
+  	height: 1.2em;
+  	border-radius: 50%;
+  	display: inline-grid;
+  	place-items: center;
+ 	line-height: 1.2em;
+}
+.instrucciones_pasos:last-of-type {
+    border-bottom: 0px;
+}
+.instrucciones_pasos_imagen{
+	margin: 1em 0em 1em 0em;
+	margin-bottom: 1.5em;
+    max-width: 100%;
+	display: block;
+}
+.instrucciones_pasos_imagen img{
+	max-width: 100%;
+	height:auto;;
+}
+.instrucciones_pasos_title{
+	display: block;
+	margin-left:0em;
+	font-size:25px;
+}
+span.instrucciones_pasos_title > h3, span.instrucciones_pasos_title h3, .instrucciones_pasos_title h3 {
+	font-size: 25px;
+}
+.instrucciones-caption {
+    display: block;
+    font-size: 75%;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    opacity: .8;
+}
+.recipe_data_container{
+	padding: 13px 5px 13px 5px;
+	margin: 20px 0;
+    border-style: dotted;
+    border-width: 1px 0px 1px 0px;
+    border-color: #a5b3c1;
+}
+.recipe_data_container ul{
+    display:flex;
+    align-items: flex-start;
+    margin: 0;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+.recipe_data_container ul li{
+	margin-right: calc(15px/2);
+    margin-left: calc(15px/2);
+    list-style-type: none; 
+    display:flex;
+}
+.recipe_data_container--text{
+	color:#54595f;
+	font-size: 0.8rem;
+    font-style: italic;
+}
+.recipe_data_container--icon{
+	line-height:1;
+	padding: 2px 5px;
+}
+.dashicons-clock{
+	color: #fd845a;
+    font-size: 15px;
+}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='simple-cpt-css'  href='https://www.pequerecetas.com/wp-content/plugins/simple-cpt/public/css/simple-cpt-public.css?ver=1.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-pro-slider-base-css'  href='https://www.pequerecetas.com/wp-content/plugins/slider-pro/css/slider/advanced-slider-base.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-pro-skin-minimal-small-css'  href='https://www.pequerecetas.com/wp-content/plugins/slider-pro-assets/skins/slider/minimal-small/minimal-small.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-email-css'  href='https://www.pequerecetas.com/wp-content/plugins/wp-email/email-css.css?ver=2.69.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-postratings-css'  href='https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/postratings-css.css?ver=1.91.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://www.pequerecetas.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+
+
+
+
+<link rel='stylesheet' id='Pequerecetas_v7-css'  href='https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/grid12.css?ver=6.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='aawp-css'  href='https://www.pequerecetas.com/wp-content/plugins/aawp/assets/dist/css/main.css?ver=3.40.0' type='text/css' media='all' />
+<script   type='text/javascript' src='https://www.pequerecetas.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script   type='text/javascript' src='https://www.pequerecetas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script   type='text/javascript' src='https://www.pequerecetas.com/wp-content/plugins/simple-cpt/public/js/simple-cpt-public.js?ver=1.0.4' id='simple-cpt-js'></script>
+<link rel="https://api.w.org/" href="https://www.pequerecetas.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.pequerecetas.com/wp-json/wp/v2/recetas/12769" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.pequerecetas.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.pequerecetas.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.7" />
+<link rel='shortlink' href='https://www.pequerecetas.com/?p=12769' />
+<link rel="alternate" type="application/json+oembed" href="https://www.pequerecetas.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pequerecetas.com%2Freceta%2Ftortilla-de-patatas%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.pequerecetas.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pequerecetas.com%2Freceta%2Ftortilla-de-patatas%2F&#038;format=xml" />
+<style type="text/css">.aawp .aawp-tb__row--highlight{background-color:#ead3a6;}.aawp .aawp-tb__row--highlight{color:#000000;}.aawp .aawp-tb__row--highlight a{color:#000000;}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style><link rel="icon" href="https://www.pequerecetas.com/wp-content/uploads/2020/05/cropped-favicon-pequerecetas-144x144.png" sizes="32x32" />
+<link rel="icon" href="https://www.pequerecetas.com/wp-content/uploads/2020/05/cropped-favicon-pequerecetas-310x310.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.pequerecetas.com/wp-content/uploads/2020/05/cropped-favicon-pequerecetas-310x310.png" />
+<meta name="msapplication-TileImage" content="https://www.pequerecetas.com/wp-content/uploads/2020/05/cropped-favicon-pequerecetas-310x310.png" />
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><script type="text/javascript" src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/js/jquery.placeheld.js"></script>
+</head>
+<body class="recetas-template-default single single-recetas postid-12769 aawp-custom">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCPHJM2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="all">
+<div id="wrapper">
+<div id="header-pequerecetas">
+	<div id="menu">
+	<ul>
+		<li><a href="https://www.pequerecetas.com" class="item1"><span>Recetas para beb&eacute;s y ni&ntilde;os</span></a></li>
+		<li><a href="https://www.pequerecetas.com/recetas-bebes/" class="item2" title="Recetas para beb&eacute;s"><span>Recetas para beb&eacute;s</span></a></li>
+		<li><a href="https://www.pequerecetas.com/recetas-ninos/" class="item3" title="Recetas para ni&ntilde;os"><span>Recetas para ni&ntilde;os</span></a></li>
+		<li><a href="https://www.pequerecetas.com/recetas-familiares/" class="item4" title="Recetas familiares"><span>Recetas familiares</span></a></li>
+		<li><a href="https://www.pequerecetas.com/recetas-cenas-rapidas/" class="item5" title="Recetas para cenas r&aacute;pidas"><span>Recetas para cenas r&aacute;pidas</span></a></li>
+		<li><a href="https://www.pequerecetas.com/recetas-fiestas-infantiles/" class="item6" title="Recetas para fiestas infantiles"><span>Recetas para fiestas infantiles</span></a></li>
+		<li><a href="https://www.pequerecetas.com/menus-semanales-para-ninos/" class="item7" title="Men&uacute;s semanales para ni&ntilde;os"><span>Men&uacute;s semanales para ni&ntilde;os</span></a></li>
+		<li><a href="https://www.pequerecetas.com/alimentacion/" class="item8" title="Alimentaci&oacute;n"><span>Alimentacion para bebes y ni&ntilde;os y alimentaci&oacute;n infantil</span></a></li>
+	</ul>
+	</div>
+		<div class="logo"><span><a href="https://www.pequerecetas.com">Recetas para ni&ntilde;os y toda la familia</a></span></div>
+	 
+</div>
+<div id="wrap-submenu">
+<div id="submenu">
+	<ul class="menu_especiales">
+	<li><a href="https://www.pequerecetas.com/recetas-semana-santa-pascua/"><span>Recetas de Semana Santa y Pascua</span></a></li>
+	<li><a href="https://www.pequerecetas.com/recetas-thermomix/"><span>Recetas Thermomix</span></a></li>
+	<li><a href="https://www.pequerecetas.com/newsletter/"><span>Suscribete al Newsletter</span></a></li>
+	</ul>
+</div>
+</div>
+
+	 <div id="container">
+<div id="container2">
+<div id="index">
+	<div id="bannersuperior">
+	<div id="banner728">
+		<div id='pr-dfp-leaderboard-001-0'>
+		
+		</div>	
+	</div>	
+</div>
+	<div id="seccion0">
+	<div id="caja0">
+	<ul class="sub_caja_0">
+		 <li>
+            <!-- /1133183/pr_destacado -->
+            <div id='pr-dfp-destacado-001-0' style='width: 154px; height: 210px;'>
+            <script>
+                googletag.cmd.push(function() { googletag.display('pr-dfp-destacado-001-0'); });
+            </script>
+            </div>
+        </li>   
+		<li>
+	<div>	
+			<a href="https://www.pequerecetas.com/receta/torrijas-en-freidora-de-aire/" rel="bookmark" title="Torrijas en freidora de aire">
+	<img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" alt="Torrijas en freidora de aire" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2023/03/torrijas-freidora-aire-5625-150x150.jpg"/><noscript><img width="150" height="150" src="https://www.pequerecetas.com/wp-content/uploads/2023/03/torrijas-freidora-aire-5625-150x150.jpg" alt="Torrijas en freidora de aire"/></noscript>	
+	</a>
+	 
+	</div>
+	<div class="sub_caja_0_bottom">
+	<div class="sub_caja_0_title">
+	<h3> <a href="https://www.pequerecetas.com/receta/torrijas-en-freidora-de-aire/" title="Torrijas en freidora de aire" rel="bookmark">Torrijas en freidora de aire</a></h3>
+	</div>
+	</div>
+	</li>
+	   
+		<li>
+	<div>	
+			<a href="https://www.pequerecetas.com/receta/bunuelos-de-cuaresma-caseros-receta-semana-santa/" rel="bookmark" title="Buñuelos de Cuaresma caseros (receta típica de Semana Santa)">
+	<picture>
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2021/02/bunuelos-de-cuaresma-receta-150x150.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20150%20150&#039;%3E%3C/svg%3E"/>
+<img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20150%20150&#039;%3E%3C/svg%3E" alt="Buñuelos de Cuaresma caseros (receta típica de Semana Santa)" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2021/02/bunuelos-de-cuaresma-receta-150x150.jpg"/>
+</picture>
+<noscript><picture>
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/uploads/2021/02/bunuelos-de-cuaresma-receta-150x150.jpg.webp"/>
+<img width="150" height="150" src="https://www.pequerecetas.com/wp-content/uploads/2021/02/bunuelos-de-cuaresma-receta-150x150.jpg" alt="Buñuelos de Cuaresma caseros (receta típica de Semana Santa)"/>
+</picture>
+</noscript>	
+	</a>
+	 
+	</div>
+	<div class="sub_caja_0_bottom">
+	<div class="sub_caja_0_title">
+	<h3> <a href="https://www.pequerecetas.com/receta/bunuelos-de-cuaresma-caseros-receta-semana-santa/" title="Buñuelos de Cuaresma caseros (receta típica de Semana Santa)" rel="bookmark">Buñuelos de Cuaresma caseros (receta típica de Semana Santa)</a></h3>
+	</div>
+	</div>
+	</li>
+	   
+		<li>
+	<div>	
+			<a href="https://www.pequerecetas.com/receta/menu-diario-para-bebes-de-6-a-9-meses/" rel="bookmark" title="Menú diario para bebés de 6 a 9 meses">
+	<picture>
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2010/03/menu-diario-bebe-6-meses-150x150.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20150%20150&#039;%3E%3C/svg%3E"/>
+<img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20150%20150&#039;%3E%3C/svg%3E" alt="Menú diario para bebés de 6 a 9 meses" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2010/03/menu-diario-bebe-6-meses-150x150.jpg"/>
+</picture>
+<noscript><picture>
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/uploads/2010/03/menu-diario-bebe-6-meses-150x150.jpg.webp"/>
+<img width="150" height="150" src="https://www.pequerecetas.com/wp-content/uploads/2010/03/menu-diario-bebe-6-meses-150x150.jpg" alt="Menú diario para bebés de 6 a 9 meses"/>
+</picture>
+</noscript>	
+	</a>
+	 
+	</div>
+	<div class="sub_caja_0_bottom">
+	<div class="sub_caja_0_title">
+	<h3> <a href="https://www.pequerecetas.com/receta/menu-diario-para-bebes-de-6-a-9-meses/" title="Menú diario para bebés de 6 a 9 meses" rel="bookmark">Menú diario para bebés de 6 a 9 meses</a></h3>
+	</div>
+	</div>
+	</li>
+	   
+		<li>
+	<div>	
+			<a href="https://www.pequerecetas.com/receta/mantecado-aviles-bollo-de-pascua-asturias/" rel="bookmark" title="Mantecado de Avilés o Bollo de Pascua de Asturias, una deliciosa tradición de Semana Santa">
+	<img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" alt="Mantecado de Avilés o Bollo de Pascua de Asturias, una deliciosa tradición de Semana Santa" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2023/04/bollo-de-pascua-asturias-150x150.jpg"/><noscript><img width="150" height="150" src="https://www.pequerecetas.com/wp-content/uploads/2023/04/bollo-de-pascua-asturias-150x150.jpg" alt="Mantecado de Avilés o Bollo de Pascua de Asturias, una deliciosa tradición de Semana Santa"/></noscript>	
+	</a>
+	 
+	</div>
+	<div class="sub_caja_0_bottom">
+	<div class="sub_caja_0_title">
+	<h3> <a href="https://www.pequerecetas.com/receta/mantecado-aviles-bollo-de-pascua-asturias/" title="Mantecado de Avilés o Bollo de Pascua de Asturias, una deliciosa tradición de Semana Santa" rel="bookmark">Mantecado de Avilés o Bollo de Pascua de Asturias, una deliciosa tradición de Semana Santa</a></h3>
+	</div>
+	</div>
+	</li>
+	   
+		<li>
+	<div>	
+			<a href="https://www.pequerecetas.com/receta/como-hacer-flores-de-carnaval-receta-tradicional/" rel="bookmark" title="Cómo hacer Flores de Carnaval y Semana Santa (receta tradicional)">
+	<picture>
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2021/02/flores-de-carnaval-fritas-receta-tradicional-150x150.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20150%20150&#039;%3E%3C/svg%3E"/>
+<img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20150%20150&#039;%3E%3C/svg%3E" alt="Cómo hacer Flores de Carnaval y Semana Santa (receta tradicional)" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2021/02/flores-de-carnaval-fritas-receta-tradicional-150x150.jpg"/>
+</picture>
+<noscript><picture>
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/uploads/2021/02/flores-de-carnaval-fritas-receta-tradicional-150x150.jpg.webp"/>
+<img width="150" height="150" src="https://www.pequerecetas.com/wp-content/uploads/2021/02/flores-de-carnaval-fritas-receta-tradicional-150x150.jpg" alt="Cómo hacer Flores de Carnaval y Semana Santa (receta tradicional)"/>
+</picture>
+</noscript>	
+	</a>
+	 
+	</div>
+	<div class="sub_caja_0_bottom">
+	<div class="sub_caja_0_title">
+	<h3> <a href="https://www.pequerecetas.com/receta/como-hacer-flores-de-carnaval-receta-tradicional/" title="Cómo hacer Flores de Carnaval y Semana Santa (receta tradicional)" rel="bookmark">Cómo hacer Flores de Carnaval y Semana Santa (receta tradicional)</a></h3>
+	</div>
+	</div>
+	</li>
+	   
+		
+	</ul>
+	</div></div>  
+		<div class="breadcrumbs">
+		<nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="https://www.pequerecetas.com">Portada</a><span class="separator"> &raquo; </span><a href="https://www.pequerecetas.com/receta/">Recetas</a><span class="separator"> &raquo; </span><span class="last">La tortilla de patatas española perfecta (jugosa, alta, y esponjosa)</span></p></nav>	</div>
+	<div id="indexleft">
+	<div id="blog">
+	<div class="blog-post">
+		<div class="post">
+		<!-- google_ad_section_start -->
+			<h1><a href="https://www.pequerecetas.com/receta/tortilla-de-patatas/" title="La tortilla de patatas española perfecta (jugosa, alta, y esponjosa)">La tortilla de patatas española perfecta (jugosa, alta, y esponjosa)</a></h1>
+			<div class="bloginfo">
+				<span class="pinterest"><a  data-pin-config='beside' data-pin-do='buttonPin' class="pin-it-button" href="https://pinterest.com/pin/create/button/?url=https://www.pequerecetas.com/receta/tortilla-de-patatas/&media=https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg&description=La tortilla de patatas española perfecta (jugosa, alta, y esponjosa)">Pin It</a></span>
+				<span class="autor">Por <a href="https://www.pequerecetas.com/autor/anamaria/" title="Entradas de Ana María" rel="author">Ana María</a></span>
+				<span class="ratings"><div id="post-ratings-12769" class="post-ratings" data-nonce="83f1d8667f"><img width="17" height="16" id="rating_12769_1" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2017%2016'%3E%3C/svg%3E" alt="1 estrella" title="1 estrella" onmouseover="current_rating(12769, 1, '1 estrella');" onmouseout="ratings_off(4.5, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" data-lazy-src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_on.png" /><noscript><img width="17" height="16" id="rating_12769_1" src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_on.png" alt="1 estrella" title="1 estrella" onmouseover="current_rating(12769, 1, '1 estrella');" onmouseout="ratings_off(4.5, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /></noscript><img width="17" height="16" id="rating_12769_2" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2017%2016'%3E%3C/svg%3E" alt="2 estrellas" title="2 estrellas" onmouseover="current_rating(12769, 2, '2 estrellas');" onmouseout="ratings_off(4.5, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" data-lazy-src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_on.png" /><noscript><img width="17" height="16" id="rating_12769_2" src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_on.png" alt="2 estrellas" title="2 estrellas" onmouseover="current_rating(12769, 2, '2 estrellas');" onmouseout="ratings_off(4.5, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /></noscript><img width="17" height="16" id="rating_12769_3" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2017%2016'%3E%3C/svg%3E" alt="3 estrellas" title="3 estrellas" onmouseover="current_rating(12769, 3, '3 estrellas');" onmouseout="ratings_off(4.5, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" data-lazy-src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_on.png" /><noscript><img width="17" height="16" id="rating_12769_3" src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_on.png" alt="3 estrellas" title="3 estrellas" onmouseover="current_rating(12769, 3, '3 estrellas');" onmouseout="ratings_off(4.5, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /></noscript><img width="17" height="16" id="rating_12769_4" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2017%2016'%3E%3C/svg%3E" alt="4 estrellas" title="4 estrellas" onmouseover="current_rating(12769, 4, '4 estrellas');" onmouseout="ratings_off(4.5, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" data-lazy-src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_on.png" /><noscript><img width="17" height="16" id="rating_12769_4" src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_on.png" alt="4 estrellas" title="4 estrellas" onmouseover="current_rating(12769, 4, '4 estrellas');" onmouseout="ratings_off(4.5, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /></noscript><img width="17" height="16" id="rating_12769_5" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2017%2016'%3E%3C/svg%3E" alt="5 estrellas" title="5 estrellas" onmouseover="current_rating(12769, 5, '5 estrellas');" onmouseout="ratings_off(4.5, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" data-lazy-src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_half.png" /><noscript><img width="17" height="16" id="rating_12769_5" src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_half.png" alt="5 estrellas" title="5 estrellas" onmouseover="current_rating(12769, 5, '5 estrellas');" onmouseout="ratings_off(4.5, 5, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /></noscript> 
+| 326 votos</div><div id="post-ratings-12769-loading" class="post-ratings-loading"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E" width="16" height="16" class="post-ratings-image" data-lazy-src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/loading.gif" /><noscript><img src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/loading.gif" width="16" height="16" class="post-ratings-image" /></noscript>Cargando...</div>				</span>
+				
+			</div>
+			<div class="entry">
+				<picture class="wp-image-24745 singleimage wp-post-image" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg.webp 600w, https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas-233x350.jpg.webp 233w, https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas-480x720.jpg.webp 480w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20600%20900&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="900" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20600%20900&#039;%3E%3C/svg%3E" alt="Tortilla De Patatas" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg 600w, https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas-233x350.jpg 233w, https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas-480x720.jpg 480w" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg"/>
+</picture>
+<noscript><picture class="wp-image-24745 singleimage wp-post-image" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg.webp 600w, https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas-233x350.jpg.webp 233w, https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas-480x720.jpg.webp 480w" sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="900" src="https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg" alt="Tortilla De Patatas" srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas.jpg 600w, https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas-233x350.jpg 233w, https://www.pequerecetas.com/wp-content/uploads/2017/10/Tortilla-de-patatas-480x720.jpg 480w" sizes="(max-width: 600px) 100vw, 600px"/>
+</picture>
+</noscript>				<!-- <span> -->
+<p>La <strong>tortilla de patatas</strong> o <strong>tortilla española</strong> es uno de los platos por excelencia de la gastronomía española. Para hacerla sólo necesitamos tres ingredientes: <strong>huevos, patatas y un buen aceite</strong>. Gusta a mayores y pequeños y se prepara en casi todas las casas, y como todas las recetas populares cada uno prepara la <strong>tortilla de patatas</strong> a su manera: unos con cebolla, otros sin cebolla, jugosa, muy hecha&#8230;unos caliente recién hecha y otros fría.</p>
+
+
+
+<p>Hoy compartimos con vosotros cómo la preparamos siempre en casa; a veces le añadimos también pimiento verde en tiras que frío también a la vez. De todas formas siempre la <strong>tortilla de patatas</strong> está buenísima, acompañada de una deliciosa <a href="https://www.pequerecetas.com/recetas-ensaladas/">ensalada</a> tendremos un plato muy completo.</p>
+
+
+
+<p>¿Cuál es vuestro truco para hacer la mejor&nbsp;<strong>receta de&nbsp;</strong><strong>tortilla de patatas</strong>?</p>
+
+
+	
+<div class="recipe-card">
+<div id="toc_container" class="no_bullets"><p class="toc_title">INDICE DE CONTENIDOS</p><ul class="toc_list"><li><a href="#Receta_de_tortilla_de_patatas">Receta de tortilla de patatas</a><ul><li><a href="#Ingredientes">Ingredientes</a></li></ul></li><li><a href="#Como_hacer_tortilla_de_patata_espanola">Cómo hacer tortilla de patata española</a></li><li><a href="#Tortilla_de_patatas_con_o_sin_cebolla">Tortilla de patatas con o sin cebolla</a></li><li><a href="#Tortilla_de_patatas_jugosa_o_cuajada">Tortilla de patatas jugosa o cuajada</a><ul><li><a href="#Tortilla_de_patatas_jugosa">Tortilla de patatas jugosa</a></li><li><a href="#Tortilla_de_patatas_cuajada">Tortilla de patatas cuajada</a></li></ul></li><li><a href="#Como_dar_la_vuelta_a_la_tortilla_de_patatas">Cómo dar la vuelta a la tortilla de patatas</a></li><li><a href="#Trucos_para_hacer_una_tortilla_espanola_perfecta">Trucos para hacer una tortilla española perfecta</a><ul><li><a href="#Proporcion_patatashuevo_en_la_tortilla">Proporción patatas/huevo en la tortilla</a></li><li><a href="#Como_cortar_las_patatas">Cómo cortar las patatas</a></li><li><a href="#Temperatura_y_cantidad_del_aceite">Temperatura y cantidad del aceite</a></li><li><a href="#Que_otros_sabores_le_van_bien_a_la_tortilla_de_patatas">¿Qué otros sabores le van bien a la tortilla de patatas?</a></li><li><a href="#Que_patatas_son_mejores_para_hacer_tortilla_espanola">¿Qué patatas son mejores para hacer tortilla española?</a></li></ul></li><li><a href="#Otras_recetas_con_tortilla_de_patatas">Otras recetas con tortilla de patatas</a><ul><li><a href="#Tortilla_de_patatas_en_microondas">Tortilla de patatas en microondas</a></li><li><a href="#Tortilla_de_patatas_sin_huevo">Tortilla de patatas sin huevo</a></li><li><a href="#Tortilla_de_patatas_chips">Tortilla de patatas chips</a></li></ul></li></ul></div>
+<h2 span class="ingredientes_header"><span id="Receta_de_tortilla_de_patatas">
+	Receta de tortilla de patatas</span></h2>
+<h3 span class="ingredientes_title"><span id="Ingredientes">Ingredientes</span></h3>
+<div class="ingredientes_container">
+    <ul class="ingredientes_lista">
+       	    <li class="ingredientes">
+        5 huevos    </li>
+        <li class="ingredientes">
+        500 g de patatas    </li>
+        <li class="ingredientes">
+        1 cebolla (opcional)    </li>
+        <li class="ingredientes">
+        Sal    </li>
+        <li class="ingredientes">
+        Aceite de oliva virgen extra    </li>
+        </ul><div class='ad-contentbanner'>
+            <div id='pr-dfp-post-001-0'>
+             
+            </div></div>
+    </div> 
+</div>
+	<div class="pasos_container">
+	<h2 span class="instrucciones_header"><span id="Como_hacer_tortilla_de_patata_espanola">
+		Cómo hacer tortilla de patata española		</span></h2>
+	<div class="instrucciones_container">	
+	<ul class="instrucciones_lista">
+ 	    <li class="instrucciones_pasos">
+                        <span class="instrucciones_pasos_imagen"><picture title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-paso-a-paso.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20600%20401&#039;%3E%3C/svg%3E"/>
+<img width="600" height="401" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20600%20401&#039;%3E%3C/svg%3E" alt="Tortilla De Patatas Paso A Paso - La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa)" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-paso-a-paso.jpg"/>
+</picture>
+<noscript><picture title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-paso-a-paso.jpg.webp"/>
+<img width="600" height="401" src="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-paso-a-paso.jpg" alt="Tortilla De Patatas Paso A Paso - La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa)"/>
+</picture>
+</noscript></span>
+                </span>
+
+                <ul>
+<li>Pelamos y lavamos las patatas, las cortamos en rodajas finas al igual que la cebolla si la queremos añadir.</li>
+<li>Ponemos en una sartén y cubrimos de aceite de oliva virgen extra</li>
+<li>Dejamos que se pochen a fuego medio-suave hasta que comiencen a dorarse. Sabréis que las patatas están hechas cuando comiencen a romperse, con la paleta. Para que la tortilla esté jugosa es importante que las patatas se hagan bien y se confiten, porque no hay nada peor que una tortilla con las patatas medio crudas. Por lo tanto, paciencia con este paso.</li>
+</ul>
+     </li>
+        <li class="instrucciones_pasos">
+                        <span class="instrucciones_pasos_imagen"><img width="850" height="680" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20850%20680'%3E%3C/svg%3E" alt="Huevos Para Tortilla De Patatas - La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa)" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2020/06/huevos-para-tortilla-de-patatas.webp"><noscript><img width="850" height="680" src="https://www.pequerecetas.com/wp-content/uploads/2020/06/huevos-para-tortilla-de-patatas.webp" alt="Huevos Para Tortilla De Patatas - La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa)" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles"></noscript></span>
+                </span>
+
+                <ul>
+<li>Las sacamos de la sartén y escurrimos bien. Ponemos en un cuenco grande</li><div class='ad-contentbanner'><div id='div-gpt-ad-1427278132944-0'>
+             
+            </div></div>
+<li>Aparte batimos los huevos y los añadimos a las patatas y a la cebolla, añadimos un poco de sal y mezclamos.</li>
+<li>Dejamos un par de minutos que se mezclen bien.</li>
+<li>Aquí hay quien prefiere dejar las patatas enteras y quien prefiere machacarlas un poco con la paleta para que se mezclen bien con el huevo.</li>
+</ul>
+     </li>
+        <li class="instrucciones_pasos">
+                        <span class="instrucciones_pasos_imagen"><img width="850" height="680" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20850%20680'%3E%3C/svg%3E" alt="Como Cuajar Tortilla De Patatas - La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa)" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2022/10/como-cuajar-tortilla-de-patatas.webp"><noscript><img width="850" height="680" src="https://www.pequerecetas.com/wp-content/uploads/2022/10/como-cuajar-tortilla-de-patatas.webp" alt="Como Cuajar Tortilla De Patatas - La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa)" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles"></noscript></span>
+                </span>
+
+                <ul>
+<li>Ponemos en la sartén un par de cucharadas de aceite de oliva virgen extra y vertemos todo.</li>
+<li>Al principio rompemos un poco, como si fuéramos a hacer un revuelto, luego vamos dándole forma  por los bordes.</li>
+</ul>
+     </li>
+        <li class="instrucciones_pasos">
+                        <span class="instrucciones_pasos_imagen"><img width="850" height="680" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20850%20680'%3E%3C/svg%3E" alt="Como Dar La Vuelta A La Tortilla De Patatas - La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa)" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2022/10/como-dar-la-vuelta-a-la-tortilla-de-patatas.webp"><noscript><img width="850" height="680" src="https://www.pequerecetas.com/wp-content/uploads/2022/10/como-dar-la-vuelta-a-la-tortilla-de-patatas.webp" alt="Como Dar La Vuelta A La Tortilla De Patatas - La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa)" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles"></noscript></span>
+                </span>
+
+                <ul>
+<li>Cuando veamos que ya está cuajada por abajo ponemos un plato o una tapa encima de la sartén y le damos la vuelta rápidamente.</li>
+<li>Ponemos de nuevo la sartén en el fuego y deslizamos la tortilla desde el plato a la sartén.</li>
+<li>Dejamos unos minutos más mientras redondeamos los bordes con la espátula (2 o 3 si te gusta más cuajada, menos si te gusta jugosa) para que se termine de hacer y ya tenemos lista nuestra <strong>tortilla de patatas</strong>.</li>
+</ul>
+     </li>
+    	</ul> 
+	</div> 
+	</div>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org/",
+"@type": "Recipe",
+"name": "La tortilla de patatas española perfecta (jugosa, alta, y esponjosa)",
+"image": "https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-receta.jpg",
+"author": {
+"@type": "Person",
+"name": "Ana María"
+},
+"publisher": {
+"@type": "Organization",
+"@id": "https:/www.pequerecetas.com#organization",
+"url": "https://www.pequerecetas.com",
+"name": "Pequerecetas", 
+"sameAs": [
+                "https://www.facebook.com/pequerecetas",
+                "https://www.instagram.com/pequerecetas"
+          ]
+},
+"description": "La tortilla de patatas es uno de los iconos de la gastronomía española. Aprende a hacer la mejor tortilla de patatas en 3 pasos fáciles.",	
+"totalTime": "PT20M",
+"recipeYield": "4",
+"recipeCategory": "Comida, Cenas",
+"recipeCuisine": "Española",
+"keywords": "Dificultad baja,",
+"nutrition": {
+"calories": "kcal por 100g"
+},
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "326",
+"bestRating": "5",
+"worstRating": "1"
+},
+"recipeIngredient": ["5 huevos","500 g de patatas","1 cebolla (opcional)","Sal","Aceite de oliva virgen extra","5 huevos","500 g de patatas","1 cebolla (opcional)","Sal","Aceite de oliva virgen extra"] ,
+"datePublished": "2020-06-04T10:36:43+02:00",
+"dateModified": "2023-04-24T16:43:42+02:00",
+"recipeInstructions":["
+Pelamos y lavamos las patatas, las cortamos en rodajas finas al igual que la cebolla si la queremos añadir.
+Ponemos en una sartén y cubrimos de aceite de oliva virgen extra
+Dejamos que se pochen a fuego medio-suave hasta que comiencen a dorarse. Sabréis que las patatas están hechas cuando comiencen a romperse, con la paleta. Para que la tortilla esté jugosa es importante que las patatas se hagan bien y se confiten, porque no hay nada peor que una tortilla con las patatas medio crudas. Por lo tanto, paciencia con este paso.
+
+","
+Las sacamos de la sartén y escurrimos bien. Ponemos en un cuenco grande
+Aparte batimos los huevos y los añadimos a las patatas y a la cebolla, añadimos un poco de sal y mezclamos.
+Dejamos un par de minutos que se mezclen bien.
+Aquí hay quien prefiere dejar las patatas enteras y quien prefiere machacarlas un poco con la paleta para que se mezclen bien con el huevo.
+
+","
+Ponemos en la sartén un par de cucharadas de aceite de oliva virgen extra y vertemos todo.
+Al principio rompemos un poco, como si fuéramos a hacer un revuelto, luego vamos dándole forma  por los bordes.
+
+","
+Cuando veamos que ya está cuajada por abajo ponemos un plato o una tapa encima de la sartén y le damos la vuelta rápidamente.
+Ponemos de nuevo la sartén en el fuego y deslizamos la tortilla desde el plato a la sartén.
+Dejamos unos minutos más mientras redondeamos los bordes con la espátula (2 o 3 si te gusta más cuajada, menos si te gusta jugosa) para que se termine de hacer y ya tenemos lista nuestra tortilla de patatas.
+
+"]
+}
+</script>
+
+
+
+<p>Y si no os ha quedado cómo hacer una tortilla de patatas con estas explicaciones, os dejamos nuestro <a href="https://www.pequerecetas.com/videos/tortilla-de-patatas-en-video/"><strong>vídeo de tortilla de patatas con cebolla</strong></a>. ¡Así no habrá ninguna duda!</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="CÓMO HACER TORTILLA DE PATATAS PASO A PASO | RECETA FÁCIL | PEQUERECETAS" width="650" height="366" src="https://www.youtube.com/embed/umprdaHXMnQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Recordad que podéis subscribiros a nuestro <a href="https://www.youtube.com/user/PequeRecetas/" target="_blank" rel="noopener noreferrer">canal de YouTube</a> para no perderos ninguno de nuestros vídeos.</p>
+
+
+
+<h2><span id="Tortilla_de_patatas_con_o_sin_cebolla">Tortilla de patatas con o sin cebolla</span></h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img width="1200" height="960" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20960'%3E%3C/svg%3E" alt="Tortilla De Patatas Receta" class="wp-image-42510" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta.webp 1200w, https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta-310x248.webp 310w, https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta-480x384.webp 480w, https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta-768x614.webp 768w, https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta-700x560.webp 700w" data-lazy-sizes="(max-width: 1200px) 100vw, 1200px" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta.webp"><noscript><img width="1200" height="960" src="https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta.webp" alt="Tortilla De Patatas Receta" class="wp-image-42510" srcset="https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta.webp 1200w, https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta-310x248.webp 310w, https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta-480x384.webp 480w, https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta-768x614.webp 768w, https://www.pequerecetas.com/wp-content/uploads/2022/10/tortilla-patatas-receta-700x560.webp 700w" sizes="(max-width: 1200px) 100vw, 1200px" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles"></noscript></figure></div>
+
+
+<p>Nuestro primer dilema cuando nos enfrentamos a hacer una tortilla de patatas es decidir <strong>si la vamos a hacer con cebolla o no</strong>. </p>
+
+
+
+<p>A mi personalmente me gusta mucho más la <strong><a href="https://www.pequerecetas.com/receta/tortilla-de-patatas-con-cebolla/" data-type="recetas" data-id="15193">tortilla de patatas con cebolla</a></strong>, pero conozco muchos casos que literalmente &#8220;odian&#8221; la cebolla, por lo que en caso de que vayas a hacer tortilla de patatas para un grupo variado, es mejor que preguntes, o, ante la duda, prescindas de la cebolla o utilices cebolla en polvo, porque normalmente es la textura y no el sabor, lo que no suele gustar a los que tienen fobia la cebolla.</p>
+
+
+
+<p>Otra alternativa es hacerla añadiendo <strong>pimientos verdes</strong>, que también le dan un sabor muy especial.</p>
+
+
+
+<h2><span id="Tortilla_de_patatas_jugosa_o_cuajada">Tortilla de patatas jugosa o cuajada</span></h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img width="920" height="1150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20920%201150'%3E%3C/svg%3E" alt="Mejor Tortilla De Patatas Receta" class="wp-image-42515" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta.webp 920w, https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta-280x350.webp 280w, https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta-480x600.webp 480w, https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta-768x960.webp 768w, https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta-700x875.webp 700w" data-lazy-sizes="(max-width: 920px) 100vw, 920px" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta.webp"><noscript><img width="920" height="1150" src="https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta.webp" alt="Mejor Tortilla De Patatas Receta" class="wp-image-42515" srcset="https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta.webp 920w, https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta-280x350.webp 280w, https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta-480x600.webp 480w, https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta-768x960.webp 768w, https://www.pequerecetas.com/wp-content/uploads/2022/10/mejor-tortilla-de-patatas-receta-700x875.webp 700w" sizes="(max-width: 920px) 100vw, 920px" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles"></noscript></figure></div>
+
+
+<p>Aquí, como con la cebolla hay mucha división de opiniones. Hay quien prefiere la tortilla de patatas muy jugosa, con el huevo dentro apenas cuajado y quien la prefiere más cuajada. Te vamos a explicar cómo debes hacerla en cada caso:</p>
+
+
+
+<h3><span id="Tortilla_de_patatas_jugosa">Tortilla de patatas jugosa</span></h3>
+
+
+
+<p>En ambas opciones el paso de las patatas es el mismo, os recordamos de nuevo que deben estar muy blanditas y casi confitadas en el aceite. Para hacer la tortilla más jugosa por dentro es importante que, una vez mezclada con el huevo sigas los siguientes pasos:</p>
+
+
+
+<ul><li>Utiliza una <strong>sartén más pequeña y honda</strong>, ya que así te permitirá hacer una <strong>tortilla de mayor altura</strong>, sin que el calor de la sartén llegue al centro. Si utilizáramos una sartén más plana y amplia, el calor llegará por igual a la parte superior que al centro, cuajando el huevo inmediatamente, por lo tanto nuestro primer consejo va de nuevo dirigido a la sartén. Un ejemplo de una <strong>buena sartén para hacer tortillas jugosas</strong> puedes verla&gt; <a class="aawp-link" href="https://www.amazon.es/dp/B076QLPQWH?tag=pequerecetas-21&amp;linkCode=ogi&amp;th=1&amp;psc=1" title="aquí" target="_blank" rel="nofollow noopener sponsored" data-aawp-product-asin="B076QLPQWH" data-aawp-product-id="39673" data-aawp-tracking-id="pequerecetas-21" data-aawp-product-title="Quid Gastro Fun Sarten Doble Aluminio Estampado 24cm Negro" data-aawp-geotargeting="true" data-aawp-click-tracking="title" data-aawp-local-click-tracking="1">aquí</a></li><li>Una vez vuelques las patatas con el huevo, sube el fuego a buena temperatura para que se cuaje rápidamente el exterior, y en un minuto más o menos sigue los pasos para darle la vuelta, dejándola tan solo un minuto más por el otro lado.</li></ul>
+
+
+
+<h3><span id="Tortilla_de_patatas_cuajada">Tortilla de patatas cuajada</span></h3>
+
+
+
+<p>Por el contrario si quieres hacer la trotilla de patatas más cuajada, las instrucciones son las contrarias a las que damos arriba.</p>
+
+
+
+<ul><li>En este caso utiliza una sartén más plana y amplia, para que de esta forma el calor llegu bien a todas partes y el huevo se cuaje por igual. Un ejemplo de sartén para hacer tortillas de patatas cuajadas sería&nbsp;<a class="aawp-link" href="https://www.amazon.es/dp/B0056Y3ZH0?tag=pequerecetas-21&amp;linkCode=ogi&amp;th=1&amp;psc=1" title="esta sartén doble para tortillas" target="_blank" rel="nofollow noopener sponsored" data-aawp-product-asin="B0056Y3ZH0" data-aawp-product-id="39674" data-aawp-tracking-id="pequerecetas-21" data-aawp-product-title="IBILI - Sarten tortilla patatas indubasic 24 cms Aluminio Antiadherente Apto para induccion" data-aawp-geotargeting="true" data-aawp-click-tracking="title" data-aawp-local-click-tracking="1">esta sartén doble para tortillas</a> de 24 cm pero poco profunda.</li><li>Para cuajar más la tortilla pon el fuego medio para que el huevo se haga bien por dentro, y déjala 2-3 minutos por cada lado.</li></ul>
+
+
+
+<h2><span id="Como_dar_la_vuelta_a_la_tortilla_de_patatas">Cómo dar la vuelta a la tortilla de patatas</span></h2>
+
+
+
+<p>Sin duda cuando haces tu primera tortilla de patatas, una de las cosas que más miedo da es la temida vuelta a la tortilla. Pero si sigues unos pequeños consejos te convertirás en un auténtico profesional de la tortilla española:</p>
+
+
+
+<ul><li>Una de las cosas más importantes es que tu sartén sea antiadherente, porque por muy bien que la quieras voltear, si la tortilla se ha pegado a la sartén, será imposible que lo hagas bien. Por lo tanto, hazte con una buena <strong>sartén antiadherente</strong>, con el tamaño adecuado y las laterales más verticales, para que tu tortilla coja la forma perfecta y puedas hacerla más gordita si así te gustan más. También están las <strong>sartenes especiales para tortilla de patata</strong> que son dos y vienen con un gancho de seguridad para unirlas y dar la vuelta a la tortilla sin problema. Con ellas te convertirás en un maestro.</li></ul>
+
+
+
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--css-adjust-image-large"  data-aawp-product-asin="B084ZMN4TF" data-aawp-product-id="39422" data-aawp-tracking-id="pequerecetas-21" data-aawp-product-title="BRA Dupla Premiere - Sartén Doble para Tortilla de Patatas 20 cm de Diámetro Aluminio Fundido Triple Capa Antiadherente 100% sin PFOA Para todo Tipo de Cocinas" data-aawp-geotargeting="true" data-aawp-click-tracking="title" data-aawp-local-click-tracking="1">
+
+    
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link" href="https://www.amazon.es/dp/B084ZMN4TF?tag=pequerecetas-21&#038;linkCode=ogi&#038;th=1&#038;psc=1" title="BRA Dupla Premiere - Sartén Doble para Tortilla de Patatas, 20 cm de Diámetro, Aluminio Fundido,..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Bra Dupla Premiere - Sartén Doble Para Tortilla De Patatas, 20 Cm De Diámetro, Aluminio Fundido,..." title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles" data-lazy-src="https://www.pequerecetas.com/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGWUxWWlFkREJFWlV3dWFuQm58MTcwOTc1NTkxNQ="><noscript><img class="aawp-product__image" src="https://www.pequerecetas.com/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGWUxWWlFkREJFWlV3dWFuQm58MTcwOTc1NTkxNQ=" alt="Bra Dupla Premiere - Sartén Doble Para Tortilla De Patatas, 20 Cm De Diámetro, Aluminio Fundido,..." title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles"></noscript>
+        </a>
+
+                    <div class="aawp-product__rating">
+                <a class="aawp-star-rating aawp-star-rating--medium aawp-star-rating--v2" href="https://www.amazon.es/product-reviews/B084ZMN4TF?tag=pequerecetas-21" title="Opiniones en Amazon" rel="nofollow noopener sponsored" target="_blank"><span style="width: 90%;"></span></a>
+                                    <div class="aawp-product__reviews">4.024 Opiniones</div>
+                            </div>
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.es/dp/B084ZMN4TF?tag=pequerecetas-21&#038;linkCode=ogi&#038;th=1&#038;psc=1" title="BRA Dupla Premiere - Sartén Doble para Tortilla de Patatas, 20 cm de Diámetro, Aluminio Fundido,..." rel="nofollow noopener sponsored" target="_blank">
+            BRA Dupla Premiere &#8211; Sartén Doble para Tortilla de Patatas, 20 cm de Diámetro, Aluminio Fundido,&#8230;        </a>
+        <div class="aawp-product__description">
+            <ul><li>SARTÉN DOBLE PARA TORTILLAS: Prepara de forma cómoda y sencilla deliciosas tortillas de patata de&#8230;</li><li>ALUMINIO FUNDIDO: Con un espesor en la base de 5,5 mm, este material dota a Las sartenes de una&#8230;</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+            
+                            <span class="aawp-product__price aawp-product__price--current">53,99 €</span>
+            
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2016'%3E%3C/svg%3E" height="16" width="55" alt="Amazon Prime" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles" data-lazy-src="https://www.pequerecetas.com/wp-content/plugins/aawp/assets/img/icon-check-prime.svg"><noscript><img src="https://www.pequerecetas.com/wp-content/plugins/aawp/assets/img/icon-check-prime.svg" height="16" width="55" alt="Amazon Prime" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles"></noscript>        </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--green rounded shadow aawp-button--icon aawp-button--icon-amazon-white" href="https://www.amazon.es/dp/B084ZMN4TF?tag=pequerecetas-21&#038;linkCode=ogi&#038;th=1&#038;psc=1" title="VER EN AMAZON" target="_blank" rel="nofollow noopener sponsored">VER EN AMAZON</a>
+            </div>
+
+</div>
+
+    
+</div>
+
+
+
+<ul><li>Dicho esto, es importante asegurarte <strong>antes de girar la tortilla</strong> que se ha desprendido completamente del fondo. Para ello te recomiendo que vayas separándola y dándole forma con una espátula de silicona o madera por los laterales, para ayudar a que se vaya despegando el huevo y así darle una forma más redondeada. Además es aconsejable <strong>ir moviendo la sartén</strong> adelante y atrás, separándola un poco del fuego, hasta que comprobemos que el fondo se despega. Una vez veamos que nuestra tortilla se &#8220;desliza&#8221; por la sartén es el momento de voltearla.</li><li>Coge un plato llano mayor que el diámetro de la sartén que estés utilizando, <strong>apoya la palma de la mano con firmeza</strong> sobre él, y apretándolo sobre la sartén, gira ésta con rapidez y suavidad sobre el plato.</li><li><strong>Desliza con cuidado la tortilla de nuevo sobre la sartén</strong>, para lo que te puedes ayudar con una espátula, para cuajar el otro lado de la tortilla. Sigue entonces el mismo proceso de ir moviendo la sartén para saber en qué momento la puedes retirar del fuego. Para retirarla, sigue el mismo proceso con el plato que antes. En este caso resultará más sencillo ya que el huevo estará ya cuajado.</li></ul>
+
+
+
+<h2><span id="Trucos_para_hacer_una_tortilla_espanola_perfecta">Trucos para hacer una tortilla española perfecta</span></h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><picture class="wp-image-24744" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-espanola.jpg.webp 600w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20600%20400&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20600%20400&#039;%3E%3C/svg%3E" alt="Tortilla De Patatas Fácil" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-espanola.jpg 600w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-espanola-310x207.jpg 310w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-espanola-480x320.jpg 480w" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-espanola.jpg"/>
+</picture>
+<noscript><picture class="wp-image-24744" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-espanola.jpg.webp 600w" sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="400" src="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-espanola.jpg" alt="Tortilla De Patatas Fácil" srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-espanola.jpg 600w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-espanola-310x207.jpg 310w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-espanola-480x320.jpg 480w" sizes="(max-width: 600px) 100vw, 600px"/>
+</picture>
+</noscript></figure></div>
+
+
+<h3><span id="Proporcion_patatashuevo_en_la_tortilla">Proporción patatas/huevo en la tortilla</span></h3>
+
+
+
+<ul><li>Por cada 100 g de patatas, usaremos un huevo. Si te gusta más jugosa, puedes agregar un huevo extra. Si la prefieres más cuajada, usar un huevo menos.</li></ul>
+
+
+
+<h3><span id="Como_cortar_las_patatas">Cómo cortar las patatas</span></h3>
+
+
+
+<ul><li>Corta las patatas&nbsp;de manera que las rodajas tengan un espesor similar, para que se cocinen de manera uniforme. La&nbsp;<strong>cebolla córtala&nbsp;</strong><strong>en juliana</strong>, no muy fina, para que no se queme.</li></ul>
+
+
+
+<h3><span id="Temperatura_y_cantidad_del_aceite">Temperatura y cantidad del aceite</span></h3>
+
+
+
+<ul><li>Debes freír las patatas y las cebollas a fuego suave en <strong>abundante aceite</strong>, para que <strong>la cebolla no se ponga marrón</strong> y las patatas no se quemen por fuera y queden crudas por dentro, <strong>las patatas deben estar suaves y ligeramente doradas</strong>.</li></ul>
+
+
+
+<h3><span id="Que_otros_sabores_le_van_bien_a_la_tortilla_de_patatas">¿Qué otros sabores le van bien a la tortilla de patatas?</span></h3>
+
+
+
+<ul><li>Dale tu toque personal a la tortilla: a la receta tradicional puedes agregar chorizo, pimientos, gambas, guindilla&#8230;</li></ul>
+
+
+
+<h3><span id="Que_patatas_son_mejores_para_hacer_tortilla_espanola">¿Qué patatas son mejores para hacer tortilla española?</span></h3>
+
+
+
+<ul><li>Las mejores patatas para freír son las más compactas, como la<strong>&nbsp;<strong>Baraka</strong>, </strong>la<strong>&nbsp;<strong>Spunta,&nbsp;</strong></strong>la<strong>&nbsp;<strong>Agria&nbsp;</strong></strong>y la&nbsp;<strong><strong>Caesar</strong></strong>. En general para freír son mejores las patatas de carne amarilla, mientras que las de carne blanca son mejores para hacer purés por ejemplo. </li></ul>
+
+
+
+<p>Si tienes la <strong>Thermomix</strong>, te contamos cómo hacer la tortilla de patatas <a href="https://www.pequerecetas.com/receta/tortilla-de-patatas-thermomix/"><strong>aquí</strong></a>.</p>
+
+
+
+<h2><span id="Otras_recetas_con_tortilla_de_patatas">Otras recetas con tortilla de patatas</span></h2>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><picture class="wp-image-24746" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa.jpg.webp 600w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa-254x350.jpg.webp 254w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa-480x662.jpg.webp 480w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20600%20827&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="827" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20600%20827&#039;%3E%3C/svg%3E" alt="Cómo Hacer Tortilla De Patatas" data-lazy-srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa.jpg 600w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa-254x350.jpg 254w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa-480x662.jpg 480w" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-lazy-src="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa.jpg"/>
+</picture>
+<noscript><picture class="wp-image-24746" title="La Tortilla De Patatas Española Perfecta (Jugosa, Alta, Y Esponjosa) - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa.jpg.webp 600w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa-254x350.jpg.webp 254w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa-480x662.jpg.webp 480w" sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="827" src="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa.jpg" alt="Cómo Hacer Tortilla De Patatas" srcset="https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa.jpg 600w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa-254x350.jpg 254w, https://www.pequerecetas.com/wp-content/uploads/2017/10/tortilla-de-patatas-de-bolsa-480x662.jpg 480w" sizes="(max-width: 600px) 100vw, 600px"/>
+</picture>
+</noscript></figure></div>
+
+
+<p>Además de las variantes de la&nbsp;<strong>receta tradicional de tortilla de patatas&nbsp;</strong>que hemos visto, os traemos algunas opciones para quienes quieren ahorrar tiempo, y también para quien no puede disfrutar de una buena&nbsp;<strong>tortilla española&nbsp;</strong>por ser intolerante al huevo.</p>
+
+
+
+<h3><span id="Tortilla_de_patatas_en_microondas">Tortilla de patatas en microondas</span></h3>
+
+
+
+<p><strong>Para preparar una tortilla más ligera,&nbsp;</strong>ya que las patatas y la cebolla se cuecen en el microondas con apenas aceite, os sugerimos esta receta&gt;&nbsp;<strong><a href="https://www.pequerecetas.com/receta/tortilla-patatas-microondas/">Tortilla de patatas en microondas</a></strong></p>
+
+
+	<section class="post-inline-container">
+	<span class="post-inline-divider-separator">
+    	<span class="post-inline-divider-separator__text">Receta rápida</span>
+    </span>
+			<div class="post-inline">
+			<div class="post-inline-figure">
+				<a href="https://www.pequerecetas.com/receta/tortilla-patatas-microondas/">
+					<picture class="wp-image-15209 attachment-post-thumbnail size-post-thumbnail wp-post-image" loading="lazy" title="Tortilla De Patatas En Microondas - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/uploads/2010/03/tortilla-patatas-microondas1.jpg.webp 591w, https://www.pequerecetas.com/wp-content/uploads/2010/03/tortilla-patatas-microondas1-310x262.jpg.webp 310w, https://www.pequerecetas.com/wp-content/uploads/2010/03/tortilla-patatas-microondas1-480x406.jpg.webp 480w" sizes="(max-width: 591px) 100vw, 591px"/>
+<img width="591" height="500" src="https://www.pequerecetas.com/wp-content/uploads/2010/03/tortilla-patatas-microondas1.jpg" alt="Tortilla De Patatas Microondas" loading="lazy" srcset="https://www.pequerecetas.com/wp-content/uploads/2010/03/tortilla-patatas-microondas1.jpg 591w, https://www.pequerecetas.com/wp-content/uploads/2010/03/tortilla-patatas-microondas1-310x262.jpg 310w, https://www.pequerecetas.com/wp-content/uploads/2010/03/tortilla-patatas-microondas1-480x406.jpg 480w" sizes="(max-width: 591px) 100vw, 591px"/>
+</picture>
+<br />
+				</a>
+			</div>
+			<div class="post-inline-summary">
+				<div class="post-inline-taxonomy">
+					<a href="https://www.pequerecetas.com/receta/tortilla-patatas-microondas/" class="post-inline-taxonomy-anchor">
+						En PequeRecetas<br />
+					</a>
+				</div>	
+				<a href="https://www.pequerecetas.com/receta/tortilla-patatas-microondas/" class="post-inline-title">
+					Tortilla de patatas en microondas				</a>
+			</div>
+		</div>
+		</section>	
+
+
+
+<h3><span id="Tortilla_de_patatas_sin_huevo">Tortilla de patatas sin huevo</span></h3>
+
+
+
+<p>Si en casa hay&nbsp;<strong>intolerantes al huevo</strong>,&nbsp;también pueden disfrutar de una buena tortilla de patatas,&nbsp;con esta opción sin huevo, ¡pero igual de rica!&gt;&nbsp;<strong><a href="https://www.pequerecetas.com/receta/tortilla-patatas-sin-huevo/">Tortilla de patata sin huevo</a></strong></p>
+
+
+	<section class="post-inline-container">
+	<span class="post-inline-divider-separator">
+    	<span class="post-inline-divider-separator__text">Receta fácil</span>
+    </span>
+			<div class="post-inline">
+			<div class="post-inline-figure">
+				<a href="https://www.pequerecetas.com/receta/tortilla-patatas-sin-huevo/">
+					<picture class="wp-image-15208 attachment-post-thumbnail size-post-thumbnail wp-post-image" loading="lazy" title="Tortilla De Patatas Sin Huevo - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/uploads/2010/02/tortilla-de-patatas-sin-huevo1.jpg.webp 600w, https://www.pequerecetas.com/wp-content/uploads/2010/02/tortilla-de-patatas-sin-huevo1-310x257.jpg.webp 310w, https://www.pequerecetas.com/wp-content/uploads/2010/02/tortilla-de-patatas-sin-huevo1-480x398.jpg.webp 480w" sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="497" src="https://www.pequerecetas.com/wp-content/uploads/2010/02/tortilla-de-patatas-sin-huevo1-600x497.jpg" alt="Tortilla De Patatas Sin Huevo" loading="lazy" srcset="https://www.pequerecetas.com/wp-content/uploads/2010/02/tortilla-de-patatas-sin-huevo1.jpg 600w, https://www.pequerecetas.com/wp-content/uploads/2010/02/tortilla-de-patatas-sin-huevo1-310x257.jpg 310w, https://www.pequerecetas.com/wp-content/uploads/2010/02/tortilla-de-patatas-sin-huevo1-480x398.jpg 480w" sizes="(max-width: 600px) 100vw, 600px"/>
+</picture>
+<br />
+				</a>
+			</div>
+			<div class="post-inline-summary">
+				<div class="post-inline-taxonomy">
+					<a href="https://www.pequerecetas.com/receta/tortilla-patatas-sin-huevo/" class="post-inline-taxonomy-anchor">
+						En PequeRecetas<br />
+					</a>
+				</div>	
+				<a href="https://www.pequerecetas.com/receta/tortilla-patatas-sin-huevo/" class="post-inline-title">
+					Tortilla de patatas sin huevo				</a>
+			</div>
+		</div>
+		</section>	
+
+
+
+<h3><span id="Tortilla_de_patatas_chips">Tortilla de patatas chips</span></h3>
+
+
+
+<p>Y si te falta tiempo, aquí tienes una versión de urgencia, que no es igual que la clásica pero nos puede sacar de algún apuro: <strong><a href="https://www.pequerecetas.com/receta/tortilla-patatas-chips/">Tortilla de patatas chips</a></strong></p>
+
+
+	<section class="post-inline-container">
+	<span class="post-inline-divider-separator">
+    	<span class="post-inline-divider-separator__text">Receta fácil</span>
+    </span>
+			<div class="post-inline">
+			<div class="post-inline-figure">
+				<a href="https://www.pequerecetas.com/receta/tortilla-patatas-chips/">
+					<picture class="wp-image-19584 attachment-post-thumbnail size-post-thumbnail wp-post-image" loading="lazy" title="Tortilla De Patatas Chips De Bolsa (Receta Rápida Y Fácil) - Recetas De Cocina Casera Fáciles">
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/uploads/2015/01/tortilla-patatas-de-bolsa.jpg.webp 600w, https://www.pequerecetas.com/wp-content/uploads/2015/01/tortilla-patatas-de-bolsa-254x350.jpg.webp 254w, https://www.pequerecetas.com/wp-content/uploads/2015/01/tortilla-patatas-de-bolsa-480x662.jpg.webp 480w" sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="827" src="https://www.pequerecetas.com/wp-content/uploads/2015/01/tortilla-patatas-de-bolsa-600x827.jpg" alt="Tortilla-Patatas-De-Bolsa" loading="lazy" srcset="https://www.pequerecetas.com/wp-content/uploads/2015/01/tortilla-patatas-de-bolsa.jpg 600w, https://www.pequerecetas.com/wp-content/uploads/2015/01/tortilla-patatas-de-bolsa-254x350.jpg 254w, https://www.pequerecetas.com/wp-content/uploads/2015/01/tortilla-patatas-de-bolsa-480x662.jpg 480w" sizes="(max-width: 600px) 100vw, 600px"/>
+</picture>
+<br />
+				</a>
+			</div>
+			<div class="post-inline-summary">
+				<div class="post-inline-taxonomy">
+					<a href="https://www.pequerecetas.com/receta/tortilla-patatas-chips/" class="post-inline-taxonomy-anchor">
+						En PequeRecetas<br />
+					</a>
+				</div>	
+				<a href="https://www.pequerecetas.com/receta/tortilla-patatas-chips/" class="post-inline-title">
+					Tortilla de patatas chips de bolsa (receta rápida y fácil)				</a>
+			</div>
+		</div>
+		</section>	
+
+
+
+<p><strong>MIRA TAMBIÉN:&nbsp;&nbsp;<a href="https://www.pequerecetas.com/receta/recetas-olla-gm/">Cómo hacer tortilla de patatas en Olla MG</a></strong></p>
+
+
+
+<p>Y si vas al campo o de excursión también te puede interesar saber cómo se hace el acompañamiento perfecto de la tortilla de patatas, los <strong><a href="https://www.pequerecetas.com/receta/como-hacer-filetes-empanados/">filetes empanados</a></strong>, ¿sabías que empanar bien un filete tiene más misterio de lo que parece&#8230;?</p>
+
+
+	<section class="post-inline-container">
+	<span class="post-inline-divider-separator">
+    	<span class="post-inline-divider-separator__text">Receta fácil</span>
+    </span>
+			<div class="post-inline">
+			<div class="post-inline-figure">
+				<a href="https://www.pequerecetas.com/receta/como-hacer-filetes-empanados/">
+					<img width="600" height="856" src="https://www.pequerecetas.com/wp-content/uploads/2017/01/filetes-de-pollo-empanados-600x856.jpg" class="wp-image-44717 attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Filetes Empanados Receta" loading="lazy" title="Cómo Hacer Filetes Empanados Perfectos - Recetas De Cocina Casera Fáciles"><br />
+				</a>
+			</div>
+			<div class="post-inline-summary">
+				<div class="post-inline-taxonomy">
+					<a href="https://www.pequerecetas.com/receta/como-hacer-filetes-empanados/" class="post-inline-taxonomy-anchor">
+						En PequeRecetas<br />
+					</a>
+				</div>	
+				<a href="https://www.pequerecetas.com/receta/como-hacer-filetes-empanados/" class="post-inline-title">
+					Cómo hacer filetes empanados perfectos				</a>
+			</div>
+		</div>
+		</section>	
+<p class="aawp-disclaimer"><em><span style="color: #999999; font-size: 10pt;">Algunos enlaces aquí publicados son de afiliados. No obstante los artículos recomendados responden a una decisión de criterio del equipo de Pequerecetas, no existiendo ningún incentivo por parte de las marcas.</span></em></p> <!-- </span>  -->
+			</div>			
+			<!-- google_ad_section_end -->
+            
+            <div id="taboola-below-article-thumbnails"></div>
+            <script type="text/javascript">
+              window._taboola = window._taboola || [];
+              _taboola.push({
+                mode: 'alternating-thumbnails-a',
+                container: 'taboola-below-article-thumbnails',
+                placement: 'Below Article Thumbnails',
+                target_type: 'mix'
+              });
+            </script>     
+            <script>
+  			// A global queue for all Taboola commands on the page
+  			window._taboola = window._taboola || [];
+  
+ 			_taboola.push({flush: true});
+			</script>
+		
+	
+	  		<div id="bio_autor_post">
+			<span class="autor_foto"><picture title="Ana María">
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/authors/15b.jpg.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%2043%2060&#039;%3E%3C/svg%3E"/>
+<img width="43" height="60" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%2043%2060&#039;%3E%3C/svg%3E" alt="Ana María" data-lazy-src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/authors/15b.jpg"/>
+</picture>
+<noscript><picture title="Ana María">
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/authors/15b.jpg.webp"/>
+<img width="43" height="60" src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/authors/15b.jpg" alt="Ana María"/>
+</picture>
+</noscript></span>
+			<span class="descripcion"><h4><a href="https://www.pequerecetas.com/autor/anamaria/" title="Entradas de Ana María" rel="author">Ana María</a></h4>
+			<p>Ana María es madre de 2 niños. Sus recetas son deliciosa cocina casera que invita a comer ... y sus platos siempre son bien recibidos, porque con sus imágenes paso a paso, cualquiera puede atreverse a cocinar. Colabora en <a href="https://www.pequerecetas.com">Pequerecetas</a> y también puedes seguirla en su blog <a href="https://www.cocinandoentreolivos.com">Cocinando entre Olivos</a>.</p></span>
+		</div>	<div class="social_icons">
+				
+	</div>	
+	<div class="comments-template">
+			
+<!-- You can start editing here. -->
+
+	<div>
+	<h3 id="comments"><span>48 comentarios sobre</span> &#8220;La tortilla de patatas española perfecta (jugosa, alta, y esponjosa)&#8221;</h3>
+	</div>
+<ol id="commentlist">		<!-- cforms adjustment: changed to match cforms>global settings config -->
+
+ 
+	<span class="count">
+		1	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-44539">
+	<div class="comentarios">
+	<p>yo primero pocho la cebolla un poco y le pongo una yema sola por cada dos huevos que uso&#8230; además le echo una pizquita de levadura en polvo&#8230; buenísima&#8230;</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Isabel &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		2	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-44540">
+	<div class="comentarios">
+	<p>Así mismo la hago yo, y les encanta en casa!</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de palotes &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		3	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-44549">
+	<div class="comentarios">
+	<p>si cuando estais friendo la patata la ROMPEIS con la espumadera y haceis trcitos pequeños. de mimo</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de ana &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		4	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-44551">
+	<div class="comentarios">
+	<p>No bato mucho el huevo. Cuando añado la patata frita, la estrujo un poco con el tenedor, para que se mezcle bien con el huevo. Alguna vez le añado un chorrito de leche.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Magüi &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		5	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-44552">
+	<div class="comentarios">
+	<p>Una tía mía bate antes las claras aparte. Le sale deliciosa.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Magüi &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		6	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-44554">
+	<div class="comentarios">
+	<p>Hago dos trotillas finitas y entre una y otra  les pongo jamón york y queso en lonchas, estando aún calientes para que se derritan,</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de pepita &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		7	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-44580">
+	<div class="comentarios">
+	<p>En la receta, en la parte de ingredientes, has olvidado poner la cebolla&#8230;&#8230;. o es tortilla de patatas sin cebolla ???? Aunque en las imagines si se ve la cebolla.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de ANA &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		8	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-44598">
+	<div class="comentarios">
+	<p>Si en vez de freir la patata la haces al vapor en el microondas y luego cuajas la tortilla al horno, queda riquisima y mucho más sana. Igual también se puede hacer todo el proceso de la forma tradicional y cuajarla en el horno en un molde. Queda muuuuy original!</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Rosae &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		9	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-44600">
+	<div class="comentarios">
+	<p>yo hago las tortillas pero con mazorcas desgranadas y tambien con platanos maduritos quedan deliciosos</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de ana &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		10	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-44620">
+	<div class="comentarios">
+	<p>es facil rica y nutritiva es una manera distinta de comer patatas a mi bebe le encantan</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de sol herera &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		11	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-44872">
+	<div class="comentarios">
+	<p>esta muy buena! gracias es de mucha ayuda</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de angelica &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		12	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-44887">
+	<div class="comentarios">
+	<p>La habéis probado guisada??<br />
+Cuando ya tenéis hecha la tortilla (a poder ser que no quede muy pasad), en la sartén hacéis un pequeño pisto con : una cucharada de aceite, echáis un poco de cebolla, un poco de pimiento rojo y verde y un par de ajitos todo bien picado. Dejáis pochar y cuando esté pochado añadís un tomate también picado y removéis. Echad una cucharadita de pimentón y añadis agua. Cuando comience a hervir introducís la tortilla para que se guise dentro y coja el gusto&#8230;está buenísima!!!</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Laura &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		13	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-45155">
+	<div class="comentarios">
+	<p>Pues yo la preparo con patatas fritas de bolsa.. si si.. las chips de toda la vida&#8230;<br />
+Mas rápido y limpio.. y queda igual de rica!<br />
+Bato 5 ó 6 huevos y lo mezclo con una bolsa de patatas (si son de las que estan fritas en aceite de oliva mejor)<br />
+Mientras se pone blanda la patata parto cebolla juliana y la frio a fuego fuertecito para que se ponga oscurita.<br />
+Mezclo la cebolla con el huevo y las patatas y muevo de vez en cuando para que el huevo ablande todas las patatas..<br />
+Pruebo el punto de sal y añado si es necesario y si la patata ha chupado casi todo el huevo añado un chorreón de leche.<br />
+El restos es igual y que cada una le de el punto que le gusta.</p>
+<p>OTRAS VARIANTES: Probar con patatas de sabores (jamón jamón, york y queso, paprika, etc&#8230;)</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Almudena &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		14	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-45172">
+	<div class="comentarios">
+	<p>Almudena, tu opción me parece superdivertida. Creo que la probaré este finde, que tengo invitados&#8230;</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Ailema &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		15	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-45701">
+	<div class="comentarios">
+	<p>me encanto</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de liliana &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		16	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-45732">
+	<div class="comentarios">
+	<p>Esta buenisima la receta la ensayare a ver como me queda y les cuento.<br />
+Gracias</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Enelia Romero Valencia &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		17	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-46377">
+	<div class="comentarios">
+	<p>Esa es la famosa receta del Bulli de Ferran Adrià, tortilla de patatas chips&#8230;.<br />
+La he hecho en casa y la verdad esque está muy buena, además si te ayudan los niños lo pasas geniall&#8230;</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Laura &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		18	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-47745">
+	<div class="comentarios">
+	<p>Puedes decirme por favor, cuales son los puerro y las patatas.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Marlen Rivera &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		19	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-48143">
+	<div class="comentarios">
+	<p>yo le echo un poco de calabacin y asi se lo comen sin enterarse</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de emar &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		20	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-48242">
+	<div class="comentarios">
+	<p>Pues nosotros en nuestro blog hemos hecho una tortilla redonda (con forma esférica) que para los niños puede ir muy bien!<br />
+<a href="http://cookingabsurder.com/tortibolas-de-dragon-receta-para-hacer-tortilla-de-patatas-esferica/" rel="nofollow ugc">http://cookingabsurder.com/tortibolas-de-dragon-receta-para-hacer-tortilla-de-patatas-esferica/</a></p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Snitchka &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		21	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-48267">
+	<div class="comentarios">
+	<p>Hola voy a darle hoy de almorzar tortilla de papas,después les cuento si lo comió o no!!!</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Alejandra &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		22	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-48292">
+	<div class="comentarios">
+	<p>lo hize y quedo riquisimaaa aca comiendo con mi peque se lo esta devorando todo jejeje grax por la receta</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de cintia &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		23	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-48303">
+	<div class="comentarios">
+	<p>super!!! me encantan las recetas faciles de preparar, ya que son igual de deliciosas!!!</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de fancy &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		24	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-48304">
+	<div class="comentarios">
+	<p>ahora  mismo hare la tortilla de patatas y luego les cuento como me fue!!</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de fancy &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		25	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-53575">
+	<div class="comentarios">
+	<p>Buenísima pero mucho mas rica con trocitos de chorizo 🙂</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Rocio &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		26	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-53856">
+	<div class="comentarios">
+	<p>las cebollas no son muy fuertes para niños de un año???</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Bianca Bernal &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		27	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-53896">
+	<div class="comentarios">
+	<p>me fascina esta receta y facil de preparar pero tambien se podria coser la papa no fritarla?</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de francy helena diaz castillo &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		28	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-57406">
+	<div class="comentarios">
+	<p>ya las hice y me quedaron riquisimas</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de jessica massiel garcia &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		29	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-100255">
+	<div class="comentarios">
+	<p>estan que te muere</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de belen esteban &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		30	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-113430">
+	<div class="comentarios">
+	<p>¡ riquísima ! ¡Me ha salido muy bien y a mis niños les ha gustado. Para repetir. Gracias</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Marisa &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		31	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-114132">
+	<div class="comentarios">
+	<p>esta muy bien explicado lo he hecho y me ha salido buenisima.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de amara &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		32	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-142097">
+	<div class="comentarios">
+	<p>muy deli gracias por la rceeta</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de carmen &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		33	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-142635">
+	<div class="comentarios">
+	<p>La tortilla de patatas con cebolla, por supuesto. Y las patatas junto a la cebolla fritas en abundante aceite. De levadura nada, no hace falta y que quede jugosa por dentro, sin que salga el huevo ni que esté hecha una esponja, es darle el punto y sale perfecta. Te salió con muy buena pinta y mejor sabría 🙂</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Helytras &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		34	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-147221">
+	<div class="comentarios">
+	<p>Si le pones nata o leche ala batida de huevos sale mas buena y esponjosa.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de felisa &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		35	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-147873">
+	<div class="comentarios">
+	<p>Me encantan las recetas, os agradeceria me enviarais todas las novedades</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Maria Luisa &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		36	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-149618">
+	<div class="comentarios">
+	<p>ya la he hecho y es riquisima.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Inés Milagros &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		37	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-175553">
+	<div class="comentarios">
+	<p>Es un placer encontrar tantas recetas fáciles y muy ricas! Muy agradecida&#8230;.saludos!</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Silvia &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		38	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-175554">
+	<div class="comentarios">
+	<p>Muchas gracias por tantas recetas fáciles y ricas!!! Una solución&#8230;..saludos</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Silvia &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		39	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-194536">
+	<div class="comentarios">
+	<p>Antes de nada, enhorabuena por el blog, está genial.<br />
+soy un apasioando de las tortillas de patatas, por eso te quiero presentar otras opciones como la tortilla de patatas con morcilla de Burgos y pimientos de piquillo. Mi favorita. Espero quete guste</p>
+<p><a href="https://www.gastronomicspain.com/blog/es/5-tipos-tortilla-de-patatas-probar/" rel="nofollow ugc">https://www.gastronomicspain.com/blog/es/5-tipos-tortilla-de-patatas-probar/</a></p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de <a href="https://www.GastronomicSpain.com/es/" rel="external nofollow ugc" class="url">Antonio</a> &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		40	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-196390">
+	<div class="comentarios">
+	<p>muy receta es muy facil y practica para hacerla y leencanta a mis hijos</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de <a href="https://www.superpadres.mx" rel="external nofollow ugc" class="url">efrain</a> &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		41	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-196489">
+	<div class="comentarios">
+	<p>Exelente para el desayuno de mis hijos de verdad muy buena receta gracias.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de <a href="https://www.superpadres.mx/" rel="external nofollow ugc" class="url">Cristopher</a> &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		42	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-205765">
+	<div class="comentarios">
+	<p>La tortilla de patata es con patata como su propio nombre indica y no con cebolla, ya que diriamos tortilla de patata con cebolla. Hablar sobre esta cuestión me parece tan atrasadaaa</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de miguel &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		43	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-260302">
+	<div class="comentarios">
+	<p>Muchas gracias por la receta, es prácticamente como yo la preparo. Pero yo cortó la patata diferente. A nosotros nos gusta con cebolla? le da un toque dulce muy bueno. Un saludo.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de <a href="https://www.aprendiendoacomersano.com/" rel="external nofollow ugc" class="url">Yasmina</a> &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		44	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-276659">
+	<div class="comentarios">
+	<p>Miguel, de toda la vida la tortilla de patatas ha llevado cebolla, aunque digamos tortilla de patatas. Verdad q al cocido le llamas cocido madrileño y no cocido con garbanzos, patatas etc.. Y decimos paella y no paella con langostinos, sofrito, arroz etc.. Igual q sabemos q una ensalada lleva lechuga, tomate y cebolla.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de Cristina &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		45	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-278435">
+	<div class="comentarios">
+	<p>hola chicos</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de <a href="http://4%205657756" rel="external nofollow ugc" class="url">ana</a> &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		46	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-279067">
+	<div class="comentarios">
+	<p>Yo le echo una lata de atún pequeña y está muy buena también, lo del plato mayor que la sartén no es seguro pues se puede ir al suelo, que sea 1 centímetro más pequeño no falla.</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de <a href="http://Veloz9" rel="external nofollow ugc" class="url">Fernando</a> &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		47	</span> 
+	
+	<li class="comment even thread-even depth-1" id="comment-282843">
+	<div class="comentarios">
+	<p>no esta mal la receta pero se puede mejorar</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de eva &#8212;</div>
+	</li>
+	
+	
+ 
+	<span class="count">
+		48	</span> 
+	
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-291620">
+	<div class="comentarios">
+	<p>Hola!, antes de nada gracias!. Me ha quedado una tortilla riquísima. En mi caso he añadido un huevo más y ha quedado al punto, la he dejado algo más de tiempo para que se tueste mejor y no quede babilla. Gracias por el aporte 🙂</p>
+
+	</div>
+	
+	<div class="commentmetadata">Comentario de <a href="https://expatmarket.co/" rel="external nofollow ugc" class="url">SpanishFood</a> &#8212;</div>
+	</li>
+	
+	
+</ol>
+
+
+
+
+
+
+
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Deja una respuesta</h3><form action="https://www.pequerecetas.com/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Tu dirección de correo electrónico no será publicada.</span> <span class="required-field-message" aria-hidden="true">Los campos obligatorios están marcados con <span class="required" aria-hidden="true">*</span></span></p><p class="comment-form-comment"><label for="comment">Comentario <span class="required" aria-hidden="true">*</span></label> <textarea autocomplete="new-password"  id="a39840d45b"  name="a39840d45b"   cols="45" rows="8" maxlength="65525" required="required"></textarea><textarea id="comment" aria-label="hp-comment" aria-hidden="true" name="comment" autocomplete="new-password" style="padding:0 !important;clip:rect(1px, 1px, 1px, 1px) !important;position:absolute !important;white-space:nowrap !important;height:1px !important;width:1px !important;overflow:hidden !important;" tabindex="-1"></textarea><script data-noptimize>document.getElementById("comment").setAttribute( "id", "af06748024deec5e1fe960c56637288c" );document.getElementById("a39840d45b").setAttribute( "id", "comment" );</script></p><p class="pprivacy"><label for="pprivacy"><input type="checkbox" style="width:30px" name="privacy" value="Privacidad Aceptada" class="privacyBox" aria-req="true">He leido y acepto <a target="blank" href="https://www.pequerecetas.com/politica-privacidad/">la politica de privacidad</a></label><p><p><details>
+  <summary>Antes de enviar la solicitud debes leer la informaci&oacute;n b&aacute;sica sobre protecci&oacute;n de datos <strong>aqu&iacute;</strong></summary>
+  <p>Kidealia Media SL te informa de que los datos de caracter personal que nos proporciones rellenando el presente formulario seran tratados por Kidealia Media SL como responsable de esta web. La finalidad de la recogida y tratamiento de los datos personales que te solicitamos es para gestionar la solicitud que realizas en este formulario de contacto. Legitimacion: Consentimiento del interesado. </p></br> <p>Como usuario e interesado te informamos que los datos que nos facilitas estaran ubicados en los servidores de Cyberneticos Hosting SL (proveedor de hosting de Kidealia Media SL) dentro de la UE. Ver pol&iacute;tica de privacidad de <a href="https://www.cyberneticos.com/avisoslegales.php">Cyberneticos</a>. El no introducir los datos de caracter personal que aparecen en el formulario como obligatorios podra tener como consecuencia que no podamos atender tu solicitud. Podras ejercer tus derechos de acceso, rectificacion, limitacion y suprimir los datos en info@kidealia.es asi como el derecho a presentar una reclamacion ante una autoridad de control. Puedes consultar la informacion adicional y detallada sobre Proteccion de Datos en nuestra pagina web: pequerecetas.com, asi como nuestra <a href="/politica-privacidad/">politica de privacidad</a>.</p>
+</details></p><p class="comment-form-author"><label for="author">Nombre <span class="required" aria-hidden="true">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required" /></p>
+<p class="comment-form-email"><label for="email">Correo electrónico <span class="required" aria-hidden="true">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required" /></p>
+<p class="comment-form-url"><label for="url">Web</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Guarda mi nombre, correo electrónico y web en este navegador para la próxima vez que comente.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Publicar el comentario" /> <input type='hidden' name='comment_post_ID' value='12769' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	
+
+	</div>	
+		
+	</div><!-- FIN DEL POST -->
+	</div> <!-- FIN DEL BLOG-POST -->
+	</div> <!-- FIN DEL BLOG -->
+	</div> <!-- FIN DEL INDEXLEFT -->
+	<div id="indexright">
+<div id="sidebar">
+						
+				<div id="redes-sociales">
+				<ul>
+                <li><a href="https://www.facebook.com/pequerecetas/" target="_blank"><picture>
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_facebook.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%2054%2060&#039;%3E%3C/svg%3E"/>
+<img width="54" height="60" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%2054%2060&#039;%3E%3C/svg%3E" alt="facebook" data-lazy-src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_facebook.png"/>
+</picture>
+<noscript><picture>
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_facebook.png.webp"/>
+<img width="54" height="60" src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_facebook.png" alt="facebook"/>
+</picture>
+</noscript></a></li>
+				<li><a href="https://www.twitter.com/pequerecetas/" target="_blank"><picture>
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_twitter.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%2054%2060&#039;%3E%3C/svg%3E"/>
+<img width="54" height="60" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%2054%2060&#039;%3E%3C/svg%3E" alt="twitter" data-lazy-src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_twitter.png"/>
+</picture>
+<noscript><picture>
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_twitter.png.webp"/>
+<img width="54" height="60" src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_twitter.png" alt="twitter"/>
+</picture>
+</noscript></a></li>
+				<li><a href="https://www.pinterest.com/pequerecetas/" target="_blank"><picture>
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_pinterest.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%2054%2060&#039;%3E%3C/svg%3E"/>
+<img width="54" height="60" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%2054%2060&#039;%3E%3C/svg%3E" alt="pinterest" data-lazy-src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_pinterest.png"/>
+</picture>
+<noscript><picture>
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_pinterest.png.webp"/>
+<img width="54" height="60" src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_pinterest.png" alt="pinterest"/>
+</picture>
+</noscript></a></li>
+				<li><a href="https://www.youtube.com/pequerecetas/" target="_blank"><picture>
+<source type="image/webp" data-lazy-srcset="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_youtube.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%2054%2060&#039;%3E%3C/svg%3E"/>
+<img width="54" height="60" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%2054%2060&#039;%3E%3C/svg%3E" alt="youtube" data-lazy-src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_youtube.png"/>
+</picture>
+<noscript><picture>
+<source type="image/webp" srcset="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_youtube.png.webp"/>
+<img width="54" height="60" src="https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/images/btn_youtube.png" alt="youtube"/>
+</picture>
+</noscript></a></li>
+				</ul>
+				</div>		
+								
+							
+				
+				<div class="publicidad">
+				<!-- /1133183/pr_sidebar -->
+				<div id='pr-dfp-sidebar-001-0'>
+  				
+				</div>
+				</div>				
+			     		      
+								<div id="menulateral">
+				<div id="search2">
+					<form method="get" id="searchform" action="https://www.pequerecetas.com">
+<script type="text/javascript">
+/* Enable the use of the $ sign, even if jQuery is in compatibility mode
+    This method of invoking jQuery also makes sure the document is ready before
+    doing anything. */
+jQuery(function( $ ) {
+    $( '#s').placeHeld();
+});
+</script>
+   <input class="txtField2" placeholder="Introduce un ingrediente o receta..." type="text" value="" name="s" id="s"/>
+   <input  type="submit" id="searchsubmit" class="btnSearch2" value=""/>
+</form>
+
+
+				</div>
+				<ul class="mlizq">
+				<li><h4>Por edades</h4></li>
+				<ul>
+				<li><a href="https://www.pequerecetas.com/recetas-bebes-6-meses/">A partir de 6 meses</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-bebes-9-meses/">A partir de 9 meses</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-ninos-1-ano/">A partir de 1 a&ntilde;o</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-familiares/">Recetas familiares</a></li>
+				</ul>
+				<li><h4>Recetas diarias</h4></li>
+				<ul>
+				<li><a href="https://www.pequerecetas.com/menus-semanales-para-ninos/">Men&uacute;s semanales</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-desayunos/">Desayunos</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-aperitivos-tapas/">Aperitivos y tapas</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-comida/">Comidas</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-postres/">Postres</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-meriendas/">Meriendas</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-cenas-rapidas/">Cenas r&aacute;pidas</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-bebidas/">Bebidas</a></li>
+				</ul>
+				<li><h4>Recetas especiales</h4>	</li>
+				<ul>				
+				<li><a href="https://www.pequerecetas.com/recetas-celiacos/">Recetas para celiacos</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-sin-leche/">Recetas sin leche</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-sin-huevo/">Recetas sin huevo</a></li>
+				</ul>
+				<li><h4>Por ocasiones</h4>	</li>				
+				<ul>
+				<li><a href="https://www.pequerecetas.com/recetas-fiestas-cumpleanos/">Fiestas y cumplea&ntilde;os</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-carnaval/">Recetas de Carnaval</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-navidad/">Recetas de Navidad</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-halloween/">Recetas de Halloween</a></li>
+				</ul>
+				</ul>
+				<ul class="mlder">
+				<li><h4>Por categoria</h4></li>
+				<ul>
+				<li><a href="https://www.pequerecetas.com/recetas-arroz/">Arroz</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-carne/">Carnes</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-cremas-pures/">Cremas y Pur&eacute;s</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-dulces/">Dulces</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-ensaladas/">Ensaladas</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-frutas/">Frutas</a></li>				
+				<li><a href="https://www.pequerecetas.com/recetas-huevos/">Huevos</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-legumbres/">Legumbres</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-pan/">Pan y masas</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-pasta/">Pasta</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-patatas/">Patatas</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-pescado/">Pescado</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-pollo/">Pollo</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-sandwiches/">Sandwiches</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-sopas/">Sopas</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-tartas/">Tartas</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-verduras/">Verduras</a></li>
+				</ul>
+				<li><h4>Por t&eacute;cnica</h4></li>
+				<ul>
+				<li><a href="https://www.pequerecetas.com/recetas-thermomix/">Thermomix</a></li>
+				<li><a href="https://www.pequerecetas.com/recetas-olla-express/">Olla express</a></li>	
+				<li><a href="https://www.pequerecetas.com/recetas-guisos/">Guisos</a></li>				
+				<li><a href="https://www.pequerecetas.com/recetas-microondas/">Microondas</a></li>
+				</ul>
+				</ul>
+				</div>		
+			
+						<!-- /1133183/pr_sidebar_2 -->
+			<div id='pr-dfp-sidebar-002-0'>
+  				
+			</div>
+									</div>
+</div>
+	</div> <!-- FIN DEL INDEX -->
+		<div id="menuinferior">
+	<div id="menuinferior_wrapper">
+	<h3>Lo m&aacute;s buscado</h3>
+	<ul id="mi1">
+	<li><h4>Por categor&iacute;a</h4></li>
+	<li><a href="https://www.pequerecetas.com/recetas-postres/">Recetas de postres</a></li>
+	<li><a href="https://www.pequerecetas.com/recetas-pollo/">Recetas de pollo</a></li>
+	<li><a href="https://www.pequerecetas.com/recetas-arroz/">Recetas de arroz</a></li>
+	<li><a href="https://www.pequerecetas.com/recetas-ensaladas/">Recetas de ensaladas</a></li>
+	<li><a href="https://www.pequerecetas.com/recetas-pescado/">Recetas de pescado</a></li>
+	<li><a href="https://www.pequerecetas.com/recetas-bizcochos/">Recetas de bizcochos</a></li>
+	</ul>
+	<ul id="mi2">
+	<li><h4>Las m&aacute;s buscadas</h4></li>
+	<li><a href="https://www.pequerecetas.com/receta/crema-de-calabaza/">Crema de calabaza</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/pollo-al-horno/">Pollo al horno</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/croquetas-caseras/">Croquetas</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/crema-calabacin/">Crema de calabacin</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/albondigas-en-salsa/">Albondigas en salsa</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/berenjenas-rellenas-receta/">Berenjenas rellenas</a></li>
+	</ul>
+	<ul id="mi3">
+	<li><h4>Cenas r&aacute;pidas</h4></li>
+	<li><a href="https://www.pequerecetas.com/receta/pastel-de-verduras/">Pastel de verduras</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/ensalada-pasta/">Ensalada de pasta</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/hamburguesa-casera/">Hamburguesas caseras</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/ensaladilla-rusa/">Ensaladilla rusa</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/tortilla-de-patatas/">Tortilla de patatas</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/pure-de-patatas-casero/">Puré de patatas</a></li>
+	</ul>
+	<ul id="mi4">
+	<li><h4>Reposter&iacute;a y dulces</h4></li>
+	<li><a href="https://www.pequerecetas.com/receta/bizcocho-de-yogur/">Bizcocho de yogur</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/brownie/">Brownies</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/tarta-de-queso-6-recetas/">Tarta de queso</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/bizcocho-de-chocolate/">Bizcocho de chocolate</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/tarta-de-manzana-recetas/">Tarta de manzana</a></li>
+	<li><a href="https://www.pequerecetas.com/receta/tarta-tres-chocolates/">Tarta tres chocolates</a></li>
+	</ul>
+	<ul id="mi5">
+	<li><h4>Alimentación</h4></li>
+	<li><a href="https://www.pequerecetas.com/alimentacion/alimentos/quinoa-que-es-preparacion/">Quinoa</a></li>
+	<li><a href="https://www.pequerecetas.com/alimentacion/alimentos/jengibre-propiedades-recetas/">Jengibre</a></li>
+	<li><a href="https://www.pequerecetas.com/alimentacion/semillas-de-chia/">Semillas de Chía</a></li>
+	<li><a href="https://www.pequerecetas.com/alimentacion/kiwi/">Kiwi</a></li>
+	<li><a href="https://www.pequerecetas.com/alimentacion/curcuma/">Curcuma</a></li>
+	<li><a href="https://www.pequerecetas.com/alimentacion/maca-andina-propiedades/">Maca andina</a></li>
+	</ul>
+	</div>
+	</div>
+	</div> <!-- FIN DEL CONTAINER2 -->
+	</div> <!-- FIN DEL CONTAINER -->
+<div id="footer">
+<div id="menu_footer">
+	<ul><li> @Copyright 2024, Kidealia Media SL</li></ul>
+	<ul>
+		<li><a href="https://www.pequerecetas.com/contacto/" class="contacto" title="&iquest;Tienes algo que decirnos? &iexcl;Escribenos!"><span>Contacto</span></a></li>
+		<li><a href="https://www.pequerecetas.com/publicidad/" class="publi" title="&iquest;Quieres anunciarte con nosotros?"><span>Publicidad</span></a></li>
+		<li><a href="https://www.pequerecetas.com/politica-privacidad/" class="politica"><span>Política de Privacidad y Aviso Legal</span></a></li>
+		<li><a href="https://www.pequerecetas.com/politica-de-cookies/" class="cookies"><span>Política de Cookies</span></a></li>
+		<li><a href="https://www.pequerecetas.com/condiciones-uso/" class="condiciones"><span>Condiciones de uso</span></a></li>
+	</ul>
+</div>
+</div>
+<!-- PINTEREST -->
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+<!-- PINTEREST  END  -->
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+window._qevents = window._qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+window._qevents.push({
+qacct:"p-UJ1LWNka0wMHa",
+uid:"__INSERT_EMAIL_HERE__"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-UJ1LWNka0wMHa.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Skin -->
+<!-- /1133183/Layer_Pequerecetas -->
+<div id='div-gpt-ad-1563181683152-0' style='width: 1px; height: 1px;'>
+<script>
+// googletag.cmd.push(function() { googletag.display('div-gpt-ad-1563181683152-0'); });
+</script>
+</div>
+<!-- Skin  END  -->
+<!-- RA -->
+<!-- [zAds]-pequerecetas.com_pequerecetas.com_oOPCFPZyok -->	
+<!-- zAds END -->
+<!-- End RA -->
+ 
+<!-- End Taboola -->
+<style>.aawp .aawp-product--horizontal .aawp-product__description { display: block !important; }</style>
+		
+
+
+
+
+<!-- Powered by WPtouch Pro: 4.3.50 --><link rel='stylesheet' id='inline-related-post-css'  href='https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/partials/blocks/inline-related-posts/inline-related-post.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='toc-screen-css'  href='https://www.pequerecetas.com/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2309' type='text/css' media='all' />
+<style id='toc-screen-inline-css' type='text/css'>
+div#toc_container {background: #f9faf5;border: 1px solid #ecf2e8;width: 95%;}div#toc_container p.toc_title {color: #000000;}div#toc_container p.toc_title a,div#toc_container ul.toc_list a {color: #478158;}
+</style>
+<script type='text/javascript' id='wp-email-js-extra'>
+/* <![CDATA[ */
+var emailL10n = {"ajax_url":"https:\/\/www.pequerecetas.com\/wp-admin\/admin-ajax.php","max_allowed":"5","text_error":"The Following Error Occurs:","text_name_invalid":"- Your Name is empty\/invalid","text_email_invalid":"- Your Email is empty\/invalid","text_remarks_invalid":"- Your Remarks is invalid","text_friend_names_empty":"- Friend Name(s) is empty","text_friend_name_invalid":"- Friend Name is empty\/invalid: ","text_max_friend_names_allowed":"- Maximum 5 Friend Names allowed","text_friend_emails_empty":"- Friend Email(s) is empty","text_friend_email_invalid":"- Friend Email is invalid: ","text_max_friend_emails_allowed":"- Maximum 5 Friend Emails allowed","text_friends_tally":"- Friend Name(s) count does not tally with Friend Email(s) count","text_image_verify_empty":"- Image Verification is empty"};
+/* ]]> */
+</script>
+<script   type='text/javascript' src='https://www.pequerecetas.com/wp-content/plugins/wp-email/email-js.js?ver=2.69.1' id='wp-email-js'></script>
+<script type='text/javascript' id='wp-postratings-js-extra'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/www.pequerecetas.com\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/www.pequerecetas.com\/wp-admin\/admin-ajax.php","text_wait":"Por favor, valora solo 1 elemento cada vez.","image":"stars_flat_png","image_ext":"png","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="https://www.pequerecetas.com/wp-content/plugins/wp-postratings/images/stars_flat_png/rating_over.png";;
+/* ]]> */
+</script>
+<script   type='text/javascript' src='https://www.pequerecetas.com/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.91.1' id='wp-postratings-js'></script>
+<script type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.*)sitemap(.*).xml\/|\/(.*)sitemap.xsl\/|\/recetas-sitemap1.xml\/|\/recetas-sitemap2.xml\/|\/recetas-sitemap3.xml\/|\/recetas-sitemap4.xml\/|\/recetas-sitemap5.xml\/|\/recetas-sitemap6.xml\/|\/recetas-sitemap7.xml\/|\/recetas-sitemap8.xml\/|\/recetas-sitemap9.xml\/|\/recetas-sitemap10.xml\/|\/recetas-sitemap11.xml\/|\/recetas-sitemap12.xml\/|\/recetas-sitemap13.xml\/|\/post-sitemap1.xml\/|\/post-sitemap2.xml\/|\/post-sitemap3.xml\/|\/post-sitemap4.xml\/|\/page-sitemap.xml\/|\/category-sitemap.xml\/|\/post_tag-sitemap1.xml\/|\/post_tag-sitemap2.xml\/|\/receta\/feed\/gn\/|\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/www.pequerecetas.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-after'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script   type='text/javascript' src='https://www.pequerecetas.com/wp-content/themes/pequerecetas_v7/js/sharerrss.js?ver=1' id='sharerrss-js'></script>
+<script   type='text/javascript' id='aawp-js-before'>
+var aawp_data = {"rest_url":"https:\/\/www.pequerecetas.com\/wp-json\/","home_url":"https:\/\/www.pequerecetas.com","nonce":"3d1ba42007","referer_url":"https:\/\/www.google.com\/","source_type":"post","source_id":12769}
+</script>
+<script   type='text/javascript' src='https://www.pequerecetas.com/wp-content/plugins/aawp/assets/dist/js/main.js?ver=3.40.0' id='aawp-js'></script>
+<script type='text/javascript' id='toc-front-js-extra'>
+/* <![CDATA[ */
+var tocplus = {"smooth_scroll":"1"};
+/* ]]> */
+</script>
+<script   type='text/javascript' src='https://www.pequerecetas.com/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2309' id='toc-front-js'></script>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+            var aawp_geotargeting_settings = {"store":"es","mode":"asin"};
+            var aawp_geotargeting_localized_stores = {"de":"de","at":"de","ch":"de","fr":"fr","it":"it","gb":"co.uk","ie":"co.uk","us":"com","ar":"com","cl":"com","pe":"com","bo":"com","py":"com","co":"com","ve":"com","ec":"com","ca":"com","mx":"com","au":"com"};
+            var aawp_geotargeting_tracking_ids = {"de":"pequereceta09-21","fr":"pequereceta0f-21","it":"pequereceta05-21","co.uk":"pequereceta04-21","com":"pequerecetas-20"};
+        /* ]]> */
+    </script>
+    <script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.pequerecetas.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script></div>
+</div>
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

@@ -1,0 +1,2154 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js lt-ie10" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-B4DSX73YJQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-B4DSX73YJQ');
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104059172-32"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-104059172-32');
+  </script>
+
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2599596947262577"
+     crossorigin="anonymous"></script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=yes' />
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://www.chessjournal.com/xmlrpc.php" />
+
+		<meta name="p:domain_verify" content="daed37a0fd46d49d74d6fc0899415951"/>
+		<meta name='dmca-site-verification' content='RnZqbHhRN05WNCswelEzRFdBSHpNcSszaVJtU1JxMk9TaS91QkVEUmpuST01' />
+		<meta name = "yandex-verification" content = "9244f355859f4c2c" />
+ 	    <meta name="fo-verify" content="ea5be606-5dbb-46d8-be1a-280835d6a3af">
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+			<script type="text/javascript">
+			  var jnews_ajax_url = '/?ajax-request=jnews'
+			</script>
+			<script type="text/javascript">;window.jnews=window.jnews||{},window.jnews.library=window.jnews.library||{},window.jnews.library=function(){"use strict";var e=this;e.win=window,e.doc=document,e.noop=function(){},e.globalBody=e.doc.getElementsByTagName("body")[0],e.globalBody=e.globalBody?e.globalBody:e.doc,e.win.jnewsDataStorage=e.win.jnewsDataStorage||{_storage:new WeakMap,put:function(e,t,n){this._storage.has(e)||this._storage.set(e,new Map),this._storage.get(e).set(t,n)},get:function(e,t){return this._storage.get(e).get(t)},has:function(e,t){return this._storage.has(e)&&this._storage.get(e).has(t)},remove:function(e,t){var n=this._storage.get(e).delete(t);return 0===!this._storage.get(e).size&&this._storage.delete(e),n}},e.windowWidth=function(){return e.win.innerWidth||e.docEl.clientWidth||e.globalBody.clientWidth},e.windowHeight=function(){return e.win.innerHeight||e.docEl.clientHeight||e.globalBody.clientHeight},e.requestAnimationFrame=e.win.requestAnimationFrame||e.win.webkitRequestAnimationFrame||e.win.mozRequestAnimationFrame||e.win.msRequestAnimationFrame||window.oRequestAnimationFrame||function(e){return setTimeout(e,1e3/60)},e.cancelAnimationFrame=e.win.cancelAnimationFrame||e.win.webkitCancelAnimationFrame||e.win.webkitCancelRequestAnimationFrame||e.win.mozCancelAnimationFrame||e.win.msCancelRequestAnimationFrame||e.win.oCancelRequestAnimationFrame||function(e){clearTimeout(e)},e.classListSupport="classList"in document.createElement("_"),e.hasClass=e.classListSupport?function(e,t){return e.classList.contains(t)}:function(e,t){return e.className.indexOf(t)>=0},e.addClass=e.classListSupport?function(t,n){e.hasClass(t,n)||t.classList.add(n)}:function(t,n){e.hasClass(t,n)||(t.className+=" "+n)},e.removeClass=e.classListSupport?function(t,n){e.hasClass(t,n)&&t.classList.remove(n)}:function(t,n){e.hasClass(t,n)&&(t.className=t.className.replace(n,""))},e.objKeys=function(e){var t=[];for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&t.push(n);return t},e.isObjectSame=function(e,t){var n=!0;return JSON.stringify(e)!==JSON.stringify(t)&&(n=!1),n},e.extend=function(){for(var e,t,n,o=arguments[0]||{},i=1,a=arguments.length;i<a;i++)if(null!==(e=arguments[i]))for(t in e)o!==(n=e[t])&&void 0!==n&&(o[t]=n);return o},e.dataStorage=e.win.jnewsDataStorage,e.isVisible=function(e){return 0!==e.offsetWidth&&0!==e.offsetHeight||e.getBoundingClientRect().length},e.getHeight=function(e){return e.offsetHeight||e.clientHeight||e.getBoundingClientRect().height},e.getWidth=function(e){return e.offsetWidth||e.clientWidth||e.getBoundingClientRect().width},e.supportsPassive=!1;try{var t=Object.defineProperty({},"passive",{get:function(){e.supportsPassive=!0}});"createEvent"in e.doc?e.win.addEventListener("test",null,t):"fireEvent"in e.doc&&e.win.attachEvent("test",null)}catch(e){}e.passiveOption=!!e.supportsPassive&&{passive:!0},e.setStorage=function(e,t){e="jnews-"+e;var n={expired:Math.floor(((new Date).getTime()+432e5)/1e3)};t=Object.assign(n,t);localStorage.setItem(e,JSON.stringify(t))},e.getStorage=function(e){e="jnews-"+e;var t=localStorage.getItem(e);return null!==t&&0<t.length?JSON.parse(localStorage.getItem(e)):{}},e.expiredStorage=function(){var t,n="jnews-";for(var o in localStorage)o.indexOf(n)>-1&&"undefined"!==(t=e.getStorage(o.replace(n,""))).expired&&t.expired<Math.floor((new Date).getTime()/1e3)&&localStorage.removeItem(o)},e.addEvents=function(t,n,o){for(var i in n){var a=["touchstart","touchmove"].indexOf(i)>=0&&!o&&e.passiveOption;"createEvent"in e.doc?t.addEventListener(i,n[i],a):"fireEvent"in e.doc&&t.attachEvent("on"+i,n[i])}},e.removeEvents=function(t,n){for(var o in n)"createEvent"in e.doc?t.removeEventListener(o,n[o]):"fireEvent"in e.doc&&t.detachEvent("on"+o,n[o])},e.triggerEvents=function(t,n,o){var i;o=o||{detail:null};return"createEvent"in e.doc?(!(i=e.doc.createEvent("CustomEvent")||new CustomEvent(n)).initCustomEvent||i.initCustomEvent(n,!0,!1,o),void t.dispatchEvent(i)):"fireEvent"in e.doc?((i=e.doc.createEventObject()).eventType=n,void t.fireEvent("on"+i.eventType,i)):void 0},e.getParents=function(t,n){void 0===n&&(n=e.doc);for(var o=[],i=t.parentNode,a=!1;!a;)if(i){var r=i;r.querySelectorAll(n).length?a=!0:(o.push(r),i=r.parentNode)}else o=[],a=!0;return o},e.forEach=function(e,t,n){for(var o=0,i=e.length;o<i;o++)t.call(n,e[o],o)},e.getText=function(e){return e.innerText||e.textContent},e.setText=function(e,t){var n="object"==typeof t?t.innerText||t.textContent:t;e.innerText&&(e.innerText=n),e.textContent&&(e.textContent=n)},e.httpBuildQuery=function(t){return e.objKeys(t).reduce(function t(n){var o=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null;return function(i,a){var r=n[a];a=encodeURIComponent(a);var s=o?"".concat(o,"[").concat(a,"]"):a;return null==r||"function"==typeof r?(i.push("".concat(s,"=")),i):["number","boolean","string"].includes(typeof r)?(i.push("".concat(s,"=").concat(encodeURIComponent(r))),i):(i.push(e.objKeys(r).reduce(t(r,s),[]).join("&")),i)}}(t),[]).join("&")},e.get=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("GET",t,n,o,i)},e.post=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("POST",t,n,o,i)},e.ajax=function(t,n,o,i,a){var r=new XMLHttpRequest,s=n,c=e.httpBuildQuery(o);if(t=-1!=["GET","POST"].indexOf(t)?t:"GET",r.open(t,s+("GET"==t?"?"+c:""),!0),"POST"==t&&r.setRequestHeader("Content-type","application/x-www-form-urlencoded"),r.setRequestHeader("X-Requested-With","XMLHttpRequest"),r.onreadystatechange=function(){4===r.readyState&&200<=r.status&&300>r.status&&"function"==typeof i&&i.call(void 0,r.response)},void 0!==a&&!a){return{xhr:r,send:function(){r.send("POST"==t?c:null)}}}return r.send("POST"==t?c:null),{xhr:r}},e.scrollTo=function(t,n,o){function i(e,t,n){this.start=this.position(),this.change=e-this.start,this.currentTime=0,this.increment=20,this.duration=void 0===n?500:n,this.callback=t,this.finish=!1,this.animateScroll()}return Math.easeInOutQuad=function(e,t,n,o){return(e/=o/2)<1?n/2*e*e+t:-n/2*(--e*(e-2)-1)+t},i.prototype.stop=function(){this.finish=!0},i.prototype.move=function(t){e.doc.documentElement.scrollTop=t,e.globalBody.parentNode.scrollTop=t,e.globalBody.scrollTop=t},i.prototype.position=function(){return e.doc.documentElement.scrollTop||e.globalBody.parentNode.scrollTop||e.globalBody.scrollTop},i.prototype.animateScroll=function(){this.currentTime+=this.increment;var t=Math.easeInOutQuad(this.currentTime,this.start,this.change,this.duration);this.move(t),this.currentTime<this.duration&&!this.finish?e.requestAnimationFrame.call(e.win,this.animateScroll.bind(this)):this.callback&&"function"==typeof this.callback&&this.callback()},new i(t,n,o)},e.unwrap=function(t){var n,o=t;e.forEach(t,(function(e,t){n?n+=e:n=e})),o.replaceWith(n)},e.performance={start:function(e){performance.mark(e+"Start")},stop:function(e){performance.mark(e+"End"),performance.measure(e,e+"Start",e+"End")}},e.fps=function(){var t=0,n=0,o=0;!function(){var i=t=0,a=0,r=0,s=document.getElementById("fpsTable"),c=function(t){void 0===document.getElementsByTagName("body")[0]?e.requestAnimationFrame.call(e.win,(function(){c(t)})):document.getElementsByTagName("body")[0].appendChild(t)};null===s&&((s=document.createElement("div")).style.position="fixed",s.style.top="120px",s.style.left="10px",s.style.width="100px",s.style.height="20px",s.style.border="1px solid black",s.style.fontSize="11px",s.style.zIndex="100000",s.style.backgroundColor="white",s.id="fpsTable",c(s));var l=function(){o++,n=Date.now(),(a=(o/(r=(n-t)/1e3)).toPrecision(2))!=i&&(i=a,s.innerHTML=i+"fps"),1<r&&(t=n,o=0),e.requestAnimationFrame.call(e.win,l)};l()}()},e.instr=function(e,t){for(var n=0;n<t.length;n++)if(-1!==e.toLowerCase().indexOf(t[n].toLowerCase()))return!0},e.winLoad=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.win,{load:o})},e.docReady=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.doc,{DOMContentLoaded:o})},e.fireOnce=function(){e.docReady((function(){e.assets=e.assets||[],e.assets.length&&(e.boot(),e.load_assets())}),50)},e.boot=function(){e.length&&e.doc.querySelectorAll("style[media]").forEach((function(e){"not all"==e.getAttribute("media")&&e.removeAttribute("media")}))},e.create_js=function(t,n){var o=e.doc.createElement("script");switch(o.setAttribute("src",t),n){case"defer":o.setAttribute("defer",!0);break;case"async":o.setAttribute("async",!0);break;case"deferasync":o.setAttribute("defer",!0),o.setAttribute("async",!0)}e.globalBody.appendChild(o)},e.load_assets=function(){"object"==typeof e.assets&&e.forEach(e.assets.slice(0),(function(t,n){var o="";t.defer&&(o+="defer"),t.async&&(o+="async"),e.create_js(t.url,o);var i=e.assets.indexOf(t);i>-1&&e.assets.splice(i,1)})),e.assets=jnewsoption.au_scripts=window.jnewsads=[]},e.setCookie=function(e,t,n){var o="";if(n){var i=new Date;i.setTime(i.getTime()+24*n*60*60*1e3),o="; expires="+i.toUTCString()}document.cookie=e+"="+(t||"")+o+"; path=/"},e.getCookie=function(e){for(var t=e+"=",n=document.cookie.split(";"),o=0;o<n.length;o++){for(var i=n[o];" "==i.charAt(0);)i=i.substring(1,i.length);if(0==i.indexOf(t))return i.substring(t.length,i.length)}return null},e.eraseCookie=function(e){document.cookie=e+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"},e.docReady((function(){e.globalBody=e.globalBody==e.doc?e.doc.getElementsByTagName("body")[0]:e.globalBody,e.globalBody=e.globalBody?e.globalBody:e.doc})),e.winLoad((function(){e.winLoad((function(){var t=!1;if(void 0!==window.jnewsadmin)if(void 0!==window.file_version_checker){var n=e.objKeys(window.file_version_checker);n.length?n.forEach((function(e){t||"10.0.4"===window.file_version_checker[e]||(t=!0)})):t=!0}else t=!0;t&&(window.jnewsHelper.getMessage(),window.jnewsHelper.getNotice())}),2500)}))},window.jnews.library=new window.jnews.library;</script><script type="module">;/*! instant.page v5.1.1 - (C) 2019-2020 Alexandre Dieulot - https://instant.page/license */
+let t,e;const n=new Set,o=document.createElement("link"),i=o.relList&&o.relList.supports&&o.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype,s="instantAllowQueryString"in document.body.dataset,a="instantAllowExternalLinks"in document.body.dataset,r="instantWhitelist"in document.body.dataset,c="instantMousedownShortcut"in document.body.dataset,d=1111;let l=65,u=!1,f=!1,m=!1;if("instantIntensity"in document.body.dataset){const t=document.body.dataset.instantIntensity;if("mousedown"==t.substr(0,9))u=!0,"mousedown-only"==t&&(f=!0);else if("viewport"==t.substr(0,8))navigator.connection&&(navigator.connection.saveData||navigator.connection.effectiveType&&navigator.connection.effectiveType.includes("2g"))||("viewport"==t?document.documentElement.clientWidth*document.documentElement.clientHeight<45e4&&(m=!0):"viewport-all"==t&&(m=!0));else{const e=parseInt(t);isNaN(e)||(l=e)}}if(i){const n={capture:!0,passive:!0};if(f||document.addEventListener("touchstart",(function(t){e=performance.now();const n=t.target.closest("a");h(n)&&v(n.href)}),n),u?c||document.addEventListener("mousedown",(function(t){const e=t.target.closest("a");h(e)&&v(e.href)}),n):document.addEventListener("mouseover",(function(n){if(performance.now()-e<d)return;if(!("closest"in n.target))return;const o=n.target.closest("a");h(o)&&(o.addEventListener("mouseout",p,{passive:!0}),t=setTimeout((()=>{v(o.href),t=void 0}),l))}),n),c&&document.addEventListener("mousedown",(function(t){if(performance.now()-e<d)return;const n=t.target.closest("a");if(t.which>1||t.metaKey||t.ctrlKey)return;if(!n)return;n.addEventListener("click",(function(t){1337!=t.detail&&t.preventDefault()}),{capture:!0,passive:!1,once:!0});const o=new MouseEvent("click",{view:window,bubbles:!0,cancelable:!1,detail:1337});n.dispatchEvent(o)}),n),m){let t;(t=window.requestIdleCallback?t=>{requestIdleCallback(t,{timeout:1500})}:t=>{t()})((()=>{const t=new IntersectionObserver((e=>{e.forEach((e=>{if(e.isIntersecting){const n=e.target;t.unobserve(n),v(n.href)}}))}));document.querySelectorAll("a").forEach((e=>{h(e)&&t.observe(e)}))}))}}function p(e){e.relatedTarget&&e.target.closest("a")==e.relatedTarget.closest("a")||t&&(clearTimeout(t),t=void 0)}function h(t){if(t&&t.href&&(!r||"instant"in t.dataset)&&(a||t.origin==location.origin||"instant"in t.dataset)&&["http:","https:"].includes(t.protocol)&&("http:"!=t.protocol||"https:"!=location.protocol)&&(s||!t.search||"instant"in t.dataset)&&!(t.hash&&t.pathname+t.search==location.pathname+location.search||"noInstant"in t.dataset))return!0}function v(t){if(n.has(t))return;const e=document.createElement("link");e.rel="prefetch",e.href=t,document.head.appendChild(e),n.add(t)}</script>
+	<!-- This site is optimized with the Yoast SEO plugin v22.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>How To Play Chess (Complete Guide For Beginners)</title>
+	<link rel="canonical" href="https://www.chessjournal.com/how-to-play-chess/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="How To Play Chess (Complete Guide For Beginners)" />
+	<meta property="og:description" content="In this chess guide for beginners, you will learn you how to play chess in just three steps. This guide walks you through everything you need to know from how to set up a chessboard, how to move the pieces, and also the special moves in chess. Whether you&#8217;re an adult or part of the [&hellip;]" />
+	<meta property="og:url" content="https://www.chessjournal.com/how-to-play-chess/" />
+	<meta property="og:site_name" content="The Chess Journal" />
+	<meta property="article:publisher" content="https://www.facebook.com/thechessjournal/" />
+	<meta property="article:published_time" content="2022-10-20T12:04:14+00:00" />
+	<meta property="og:image" content="https://web.archive.org/web/20201101043515im_/https://chessrulers.com/wp-content/uploads/2020/09/Correct-Way-To-Set-Up-Chessboard.png.webp" />
+	<meta name="author" content="Editorial Staff" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@chessjournal" />
+	<meta name="twitter:site" content="@chessjournal" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.chessjournal.com/how-to-play-chess/#article","isPartOf":{"@id":"https://www.chessjournal.com/how-to-play-chess/"},"author":{"name":"Editorial Staff","@id":"https://www.chessjournal.com/#/schema/person/e1655b8f1e20ba31b3984b00e15f9a72"},"headline":"How To Play Chess (Complete Guide For Beginners)","datePublished":"2022-10-20T12:04:14+00:00","dateModified":"2022-10-20T12:04:14+00:00","mainEntityOfPage":{"@id":"https://www.chessjournal.com/how-to-play-chess/"},"wordCount":3004,"publisher":{"@id":"https://www.chessjournal.com/#organization"},"image":{"@id":"https://www.chessjournal.com/how-to-play-chess/#primaryimage"},"thumbnailUrl":"https://web.archive.org/web/20201101043515im_/https://chessrulers.com/wp-content/uploads/2020/09/Correct-Way-To-Set-Up-Chessboard.png.webp","articleSection":["Chess Resources and Tools"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.chessjournal.com/how-to-play-chess/","url":"https://www.chessjournal.com/how-to-play-chess/","name":"How To Play Chess (Complete Guide For Beginners)","isPartOf":{"@id":"https://www.chessjournal.com/#website"},"primaryImageOfPage":{"@id":"https://www.chessjournal.com/how-to-play-chess/#primaryimage"},"image":{"@id":"https://www.chessjournal.com/how-to-play-chess/#primaryimage"},"thumbnailUrl":"https://web.archive.org/web/20201101043515im_/https://chessrulers.com/wp-content/uploads/2020/09/Correct-Way-To-Set-Up-Chessboard.png.webp","datePublished":"2022-10-20T12:04:14+00:00","dateModified":"2022-10-20T12:04:14+00:00","breadcrumb":{"@id":"https://www.chessjournal.com/how-to-play-chess/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.chessjournal.com/how-to-play-chess/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.chessjournal.com/how-to-play-chess/#primaryimage","url":"https://web.archive.org/web/20201101043515im_/https://chessrulers.com/wp-content/uploads/2020/09/Correct-Way-To-Set-Up-Chessboard.png.webp","contentUrl":"https://web.archive.org/web/20201101043515im_/https://chessrulers.com/wp-content/uploads/2020/09/Correct-Way-To-Set-Up-Chessboard.png.webp"},{"@type":"BreadcrumbList","@id":"https://www.chessjournal.com/how-to-play-chess/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.chessjournal.com/"},{"@type":"ListItem","position":2,"name":"Chess Resources and Tools","item":"https://www.chessjournal.com/category/chess-resources/"},{"@type":"ListItem","position":3,"name":"How To Play Chess (Complete Guide For Beginners)"}]},{"@type":"WebSite","@id":"https://www.chessjournal.com/#website","url":"https://www.chessjournal.com/","name":"The Chess Journal","description":"Chess Tutorials For Beginners","publisher":{"@id":"https://www.chessjournal.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.chessjournal.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.chessjournal.com/#organization","name":"The Chess Journal","url":"https://www.chessjournal.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.chessjournal.com/#/schema/logo/image/","url":"https://www.chessjournal.com/wp-content/uploads/2021/04/chess-journal-favicon.png","contentUrl":"https://www.chessjournal.com/wp-content/uploads/2021/04/chess-journal-favicon.png","width":500,"height":500,"caption":"The Chess Journal"},"image":{"@id":"https://www.chessjournal.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/thechessjournal/","https://twitter.com/chessjournal"]},{"@type":"Person","@id":"https://www.chessjournal.com/#/schema/person/e1655b8f1e20ba31b3984b00e15f9a72","name":"Editorial Staff","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.chessjournal.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/6d104fc48eda3b5e416b82ee27f0bfd9?s=96&r=g","contentUrl":"https://secure.gravatar.com/avatar/6d104fc48eda3b5e416b82ee27f0bfd9?s=96&r=g","caption":"Editorial Staff"},"description":"The Chess Journal is all about bringing people interested in chess together to improve, learn, and become a chess genius.","url":"https://www.chessjournal.com/author/chess-journal/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="The Chess Journal &raquo; Feed" href="https://www.chessjournal.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Chess Journal &raquo; Comments Feed" href="https://www.chessjournal.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.chessjournal.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.chessjournal.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='vscf-style-css' href='https://www.chessjournal.com/wp-content/plugins/very-simple-contact-form/css/vscf-style.min.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-toc-css' href='https://www.chessjournal.com/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=2.0.63' type='text/css' media='all' />
+<style id='ez-toc-inline-css' type='text/css'>
+div#ez-toc-container .ez-toc-title {font-size: 120%;}div#ez-toc-container .ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 95%;}div#ez-toc-container ul li {font-weight: 500;}div#ez-toc-container nav ul ul li {font-size: 90%;}
+</style>
+<link rel='stylesheet' id='jnews-parent-style-css' href='https://www.chessjournal.com/wp-content/themes/jnews/style.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='chesstoc-css' href='https://www.chessjournal.com/wp-content/themes/chess-journal/chesstoc/styles.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='expand-css' href='https://www.chessjournal.com/wp-content/themes/chess-journal/expand-collapse/css/expand.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='changelog-css' href='https://www.chessjournal.com/wp-content/themes/chess-journal/changelog/css/changelog.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='chessjournalslider-css' href='https://www.chessjournal.com/wp-content/themes/chess-journal/chess-journal-slider/css/chess-journal-slider.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='littlefoot-css' href='https://www.chessjournal.com/wp-content/themes/chess-journal/littlefoot/css/littlefoot.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hcb-style-css' href='https://www.chessjournal.com/wp-content/plugins/highlighting-code-block/build/css/hcb--light.css?ver=2.0.1' type='text/css' media='all' />
+<style id='hcb-style-inline-css' type='text/css'>
+:root{--hcb--fz--base: 14px}:root{--hcb--fz--mobile: 13px}:root{--hcb--ff:Menlo, Consolas, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;}
+</style>
+<link rel='stylesheet' id='jnews-frontend-css' href='https://www.chessjournal.com/wp-content/themes/jnews/assets/dist/frontend.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-style-css' href='https://www.chessjournal.com/wp-content/themes/chess-journal/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-darkmode-css' href='https://www.chessjournal.com/wp-content/themes/jnews/assets/css/darkmode.css?ver=1.0.0' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.chessjournal.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.chessjournal.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.chessjournal.com/wp-json/wp/v2/posts/2457" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.chessjournal.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.3" />
+<link rel='shortlink' href='https://www.chessjournal.com/?p=2457' />
+<link rel="alternate" type="application/json+oembed" href="https://www.chessjournal.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chessjournal.com%2Fhow-to-play-chess%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.chessjournal.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.chessjournal.com%2Fhow-to-play-chess%2F&#038;format=xml" />
+<script></script><style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css">.jeg_container, .jeg_content, .jeg_boxed .jeg_main .jeg_container, .jeg_autoload_separator { background-color : #ffffff; } body { --j-body-color : #53585c; --j-accent-color : #994636; --j-heading-color : #212121; } body,.jeg_newsfeed_list .tns-outer .tns-controls button,.jeg_filter_button,.owl-carousel .owl-nav div,.jeg_readmore,.jeg_hero_style_7 .jeg_post_meta a,.widget_calendar thead th,.widget_calendar tfoot a,.jeg_socialcounter a,.entry-header .jeg_meta_like a,.entry-header .jeg_meta_comment a,.entry-header .jeg_meta_donation a,.entry-header .jeg_meta_bookmark a,.entry-content tbody tr:hover,.entry-content th,.jeg_splitpost_nav li:hover a,#breadcrumbs a,.jeg_author_socials a:hover,.jeg_footer_content a,.jeg_footer_bottom a,.jeg_cartcontent,.woocommerce .woocommerce-breadcrumb a { color : #53585c; } a, .jeg_menu_style_5>li>a:hover, .jeg_menu_style_5>li.sfHover>a, .jeg_menu_style_5>li.current-menu-item>a, .jeg_menu_style_5>li.current-menu-ancestor>a, .jeg_navbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_midbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_side_tabs li.active, .jeg_block_heading_5 strong, .jeg_block_heading_6 strong, .jeg_block_heading_7 strong, .jeg_block_heading_8 strong, .jeg_subcat_list li a:hover, .jeg_subcat_list li button:hover, .jeg_pl_lg_7 .jeg_thumb .jeg_post_category a, .jeg_pl_xs_2:before, .jeg_pl_xs_4 .jeg_postblock_content:before, .jeg_postblock .jeg_post_title a:hover, .jeg_hero_style_6 .jeg_post_title a:hover, .jeg_sidefeed .jeg_pl_xs_3 .jeg_post_title a:hover, .widget_jnews_popular .jeg_post_title a:hover, .jeg_meta_author a, .widget_archive li a:hover, .widget_pages li a:hover, .widget_meta li a:hover, .widget_recent_entries li a:hover, .widget_rss li a:hover, .widget_rss cite, .widget_categories li a:hover, .widget_categories li.current-cat>a, #breadcrumbs a:hover, .jeg_share_count .counts, .commentlist .bypostauthor>.comment-body>.comment-author>.fn, span.required, .jeg_review_title, .bestprice .price, .authorlink a:hover, .jeg_vertical_playlist .jeg_video_playlist_play_icon, .jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail:before, .jeg_horizontal_playlist .jeg_video_playlist_play, .woocommerce li.product .pricegroup .button, .widget_display_forums li a:hover, .widget_display_topics li:before, .widget_display_replies li:before, .widget_display_views li:before, .bbp-breadcrumb a:hover, .jeg_mobile_menu li.sfHover>a, .jeg_mobile_menu li a:hover, .split-template-6 .pagenum, .jeg_mobile_menu_style_5>li>a:hover, .jeg_mobile_menu_style_5>li.sfHover>a, .jeg_mobile_menu_style_5>li.current-menu-item>a, .jeg_mobile_menu_style_5>li.current-menu-ancestor>a { color : #994636; } .jeg_menu_style_1>li>a:before, .jeg_menu_style_2>li>a:before, .jeg_menu_style_3>li>a:before, .jeg_side_toggle, .jeg_slide_caption .jeg_post_category a, .jeg_slider_type_1_wrapper .tns-controls button.tns-next, .jeg_block_heading_1 .jeg_block_title span, .jeg_block_heading_2 .jeg_block_title span, .jeg_block_heading_3, .jeg_block_heading_4 .jeg_block_title span, .jeg_block_heading_6:after, .jeg_pl_lg_box .jeg_post_category a, .jeg_pl_md_box .jeg_post_category a, .jeg_readmore:hover, .jeg_thumb .jeg_post_category a, .jeg_block_loadmore a:hover, .jeg_postblock.alt .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_postblock_carousel_2 .jeg_post_category a, .jeg_heroblock .jeg_post_category a, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, input[type="submit"], .btn, .button, .widget_tag_cloud a:hover, .popularpost_item:hover .jeg_post_title a:before, .jeg_splitpost_4 .page_nav, .jeg_splitpost_5 .page_nav, .jeg_post_via a:hover, .jeg_post_source a:hover, .jeg_post_tags a:hover, .comment-reply-title small a:before, .comment-reply-title small a:after, .jeg_storelist .productlink, .authorlink li.active a:before, .jeg_footer.dark .socials_widget:not(.nobg) a:hover .fa, div.jeg_breakingnews_title, .jeg_overlay_slider_bottom_wrapper .tns-controls button, .jeg_overlay_slider_bottom_wrapper .tns-controls button:hover, .jeg_vertical_playlist .jeg_video_playlist_current, .woocommerce span.onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .jeg_popup_post .caption, .jeg_footer.dark input[type="submit"], .jeg_footer.dark .btn, .jeg_footer.dark .button, .footer_widget.widget_tag_cloud a:hover, .jeg_inner_content .content-inner .jeg_post_category a:hover, #buddypress .standard-form button, #buddypress a.button, #buddypress input[type="submit"], #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress ul.button-nav li a, #buddypress .generic-button a, #buddypress .generic-button button, #buddypress .comment-reply-link, #buddypress a.bp-title-button, #buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a, div#buddypress .standard-form button:hover, div#buddypress a.button:hover, div#buddypress input[type="submit"]:hover, div#buddypress input[type="button"]:hover, div#buddypress input[type="reset"]:hover, div#buddypress ul.button-nav li a:hover, div#buddypress .generic-button a:hover, div#buddypress .generic-button button:hover, div#buddypress .comment-reply-link:hover, div#buddypress a.bp-title-button:hover, div#buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a:hover, #buddypress #item-nav .item-list-tabs ul li a:before, .jeg_inner_content .jeg_meta_container .follow-wrapper a { background-color : #994636; } .jeg_block_heading_7 .jeg_block_title span, .jeg_readmore:hover, .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, .jeg_pagenav_3 .page_number:hover, .jeg_prevnext_post a:hover h3, .jeg_overlay_slider .jeg_post_category, .jeg_sidefeed .jeg_post.active, .jeg_vertical_playlist.jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail img, .jeg_horizontal_playlist .jeg_video_playlist_item.active { border-color : #994636; } .jeg_tabpost_nav li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .jeg_mobile_menu_style_1>li.current-menu-item a, .jeg_mobile_menu_style_1>li.current-menu-ancestor a, .jeg_mobile_menu_style_2>li.current-menu-item::after, .jeg_mobile_menu_style_2>li.current-menu-ancestor::after, .jeg_mobile_menu_style_3>li.current-menu-item::before, .jeg_mobile_menu_style_3>li.current-menu-ancestor::before { border-bottom-color : #994636; } h1,h2,h3,h4,h5,h6,.jeg_post_title a,.entry-header .jeg_post_title,.jeg_hero_style_7 .jeg_post_title a,.jeg_block_title,.jeg_splitpost_bar .current_title,.jeg_video_playlist_title,.gallery-caption,.jeg_push_notification_button>a.button { color : #212121; } .split-template-9 .pagenum, .split-template-10 .pagenum, .split-template-11 .pagenum, .split-template-12 .pagenum, .split-template-13 .pagenum, .split-template-15 .pagenum, .split-template-18 .pagenum, .split-template-20 .pagenum, .split-template-19 .current_title span, .split-template-20 .current_title span { background-color : #212121; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_search_no_expand .jeg_search_input { line-height : 20px; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_nav_icon { height : 20px; } .jeg_midbar { height : 120px; } .jeg_header .jeg_bottombar.jeg_navbar,.jeg_bottombar .jeg_nav_icon { height : 60px; } .jeg_header .jeg_bottombar.jeg_navbar, .jeg_header .jeg_bottombar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_header .jeg_bottombar .jeg_menu_style_1 > li, .jeg_header .jeg_bottombar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 60px; } .jeg_header .jeg_bottombar, .jeg_header .jeg_bottombar.jeg_navbar_dark, .jeg_bottombar.jeg_navbar_boxed .jeg_nav_row, .jeg_bottombar.jeg_navbar_dark.jeg_navbar_boxed .jeg_nav_row { border-top-width : 1px; } .jeg_stickybar.jeg_navbar,.jeg_navbar .jeg_nav_icon { height : 50px; } .jeg_stickybar.jeg_navbar, .jeg_stickybar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_stickybar .jeg_menu_style_1 > li, .jeg_stickybar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 50px; } .jeg_mobile_bottombar { height : 45px; line-height : 45px; } @media only screen and (min-width : 1200px) { .container, .jeg_vc_content > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_row, .jeg_vc_content > .vc_element > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row, .jeg_vc_content > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper { max-width : 1170px; } .elementor-section.elementor-section-boxed > .elementor-container { max-width : 1170px; }  } @media only screen and (min-width : 1441px) { .container, .jeg_vc_content > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_row, .jeg_vc_content > .vc_element > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row, .jeg_vc_content > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper { max-width : 1170px; } .elementor-section.elementor-section-boxed > .elementor-container { max-width : 1170px; }  } </style><style type="text/css">
+					.no_thumbnail .jeg_thumb,
+					.thumbnail-container.no_thumbnail {
+					    display: none !important;
+					}
+					.jeg_search_result .jeg_pl_xs_3.no_thumbnail .jeg_postblock_content,
+					.jeg_sidefeed .jeg_pl_xs_3.no_thumbnail .jeg_postblock_content,
+					.jeg_pl_sm.no_thumbnail .jeg_postblock_content {
+					    margin-left: 0;
+					}
+					.jeg_postblock_11 .no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_12 .no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_12.jeg_col_3o3 .no_thumbnail .jeg_postblock_content  {
+					    margin-top: 0;
+					}
+					.jeg_postblock_15 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_19 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_24 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_sidefeed .jeg_pl_md_box .jeg_postblock_content {
+					    position: relative;
+					}
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a,
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a:hover,
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_meta .fa {
+					    color: #212121 !important;
+					} 
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a,
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a:hover,
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_meta .fa {
+					    color: #fff !important;
+					} 
+				</style>		<style type="text/css" id="wp-custom-css">
+			.littlefoot-footnote {
+    z-index: 9999999;
+    padding: 10px 20px 20px 20px;
+}
+.rpbui-chessgame-headers+.rpbui-chessgame-body {
+    overflow: auto!important;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.rpbui-chessgame-move.rpbui-chessgame-initialMove {
+	display: none !important;
+}
+.rpbui-chessgame-navigationButtons .ui-button {
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    height: 28px;
+    width: 36px;
+    margin: 2px !important;
+}
+	.rpbui-chessgame-move {
+    font-weight: normal !important;
+    display: inline-block;
+	font-family: verdana;
+	font-size: 15px;
+}
+img {
+  max-width: 100%;
+}
+/* Horizontal Scrolling */
+body {
+    overflow-x: hidden !important;
+}
+/* Fonts */
+.single .content-inner, .single .content-inner li, h1, h2, h3, h4, h5 {
+	font-family: 'Georgia';
+	color: #444444;
+}
+@media (min-width: 768px) {
+.content-inner p, .content-inner li {
+	font-size: 18px;
+}
+}
+/* Table */
+.table td, .table .tr th {
+padding: 10px 10px;
+	margin: 10px 0px !important;
+}
+table.minimalistBlack {
+border: 3px solid #000000;
+width: 100%;
+text-align: left;
+border-collapse: collapse;
+}
+table.minimalistBlack td, table.minimalistBlack th {
+border: 1px solid #000000;
+padding: 5px 4px;
+}
+table.minimalistBlack tbody td {
+font-size: 13px;
+}
+table.minimalistBlack thead {
+background: #CFCFCF;
+background: -moz-linear-gradient(top, #dbdbdb 0%, #d3d3d3 66%, #CFCFCF 100%);
+background: -webkit-linear-gradient(top, #dbdbdb 0%, #d3d3d3 66%, #CFCFCF 100%);
+background: linear-gradient(to bottom, #dbdbdb 0%, #d3d3d3 66%, #CFCFCF 100%);
+border-bottom: 3px solid #000000;
+}
+table.minimalistBlack thead th {
+font-size: 15px;
+font-weight: bold;
+color: #000000;
+text-align: left;
+}
+table.minimalistBlack tfoot td {
+font-size: 14px;
+}
+
+.jeg_stickybar .jeg_logo img {
+    max-height: 56px;
+}
+/* Product Box */
+.ap {
+    background: #fff;
+    border: solid 4px #2E86AB;
+    box-shadow: 0 0 12px rgb(0 0 0 / 50%);
+    padding: 24px 32px 2px;
+    position: relative;
+	margin: 3.5em auto 2em;
+}
+
+@media (min-width: 768px) {
+.ap {
+    max-width: 100%;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+}
+@media (min-width: 768px) {
+.ap .one-half-first {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    margin-top: 0;
+}
+}
+.ap .cta_headline {
+	font-family: helvetica;
+   font-size: 18px;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-bottom: .3rem;
+}
+@media (min-width: 30em) {
+.ap .cta_headline {
+    margin: 0 0 22px;
+}
+}
+.ap .cta_Description {
+    font-size: 1rem;
+    line-height: 1.375rem;
+    font-family: Franklin,helvetica,sans-serif;
+    font-weight: 500;
+    color: #000;
+    color: #222;
+}
+.ap ._77b62186 {
+    font-family: Franklin,helvetica,sans-serif;
+    color: #666;
+    margin: 8px 0 16px;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    margin-top: 16px;
+    margin-bottom: 0;
+}
+.ap .both-columns {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin: .5em 0 0;
+}
+@media (min-width: 30em) {
+.ap .both-columns {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: .2em;
+}
+}
+.ap .pointer {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    left: 12px;
+    bottom: -40px;
+}
+.ap .pointer:after {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    transform: rotate(225deg);
+    top: -10px;
+    left: 12px;
+    box-shadow: -1px -1px 5px -2px rgba(0,0,0,.5);
+    border: solid 6px #2E86AB
+}
+.ap.pointer.pointer2 {
+    bottom: -46px;
+}
+.ctabutton {
+  color: white !important;
+  padding: 12px 18px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #cf5c36;
+  box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border: none;
+  margin: 10px auto;
+    font-weight: 800;
+  transition-duration: 0.4s;
+}
+.ctabutton:hover {
+  background-color: #dd801a;
+  color: #000;
+}
+.ap_cta:hover a {
+  color: #fff !important;
+}
+.ap_title {
+	font-family: Open Sans,sans-serif;
+	    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.5;
+	margin: 0em 0 .5em;
+}
+.ap_tag {
+text-align: left;
+box-sizing: border-box;
+font: 1rem/1 "Raleway", serif;
+position: absolute;
+top: -19px;
+right: -21px;
+padding: 10px 20px;
+width: auto;
+display: inline-block;
+color: #fff;
+background: #f03232;
+text-transform: uppercase;
+}
+.ap_price {
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: Georgia, serif;
+    line-height: 1;
+}
+.ap_store {
+    font-size: 2rem;
+    text-transform: none;
+}
+.ap ._9e1a4453 {
+   font-size: 1.175rem;
+    line-height: 1.25rem;
+    font-family: helvetica;
+    font-weight: 700;
+    display: inline-block;
+    position: absolute;
+    top: -20px;
+    left: -10px;
+    margin: 0;
+    padding: 14px 21px 13px 19px;
+    color: #fff;
+    background-color: #2E86AB;
+    box-shadow: 2px 2px 2px 0 rgba(0,0,0,.14);
+}
+.ap ._9e1a4453:after {
+    content: " ";
+    display: block;
+    position: absolute;
+    left: -10px;
+    bottom: -7px;
+    border-color: rgba(0,0,0,0) #133091 rgba(0,0,0,0) rgba(0,0,0,0);
+    border-style: inset solid inset inset;
+    border-width: 0 10px 7px;
+}
+.ctabutton2 {
+ font-size: 1.5rem;
+    line-height: 1.2rem;
+    font-family: helvetica,sans-serif;
+    font-weight: 700;
+    width: 100%;
+    padding: .5em 1em .7em;
+    border-radius: 7px;
+    border: 0;
+    background-color: #ee5a5a;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+/* columns */
+.column {
+  float: left;
+  width: 50%;
+}
+.column figure {
+    margin: 0em 0px;
+    align-self: center;
+    margin-top: 1em;
+    display: block;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 0;
+}
+.column {
+  float: left;
+  width: 50%;
+  padding: 0 10px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.card {
+    margin-bottom: 20px;
+    padding-bottom: 21px;
+    box-shadow: 0 5px 20px 0 rgba(29,28,28,.2);
+   text-align: left;
+   background-color: #F5F5F5;
+}
+.proscons {
+        background: #6f97a9;
+        text-align: center;
+        margin: 0 0 38px;
+        padding: 26px 10px 1px;
+    text-align: center;
+    font-size: 22px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.proscons p {
+color: #fff;
+}
+.card ul {
+padding-right: 40px;
+}
+.spec {
+        background: #f4f4f4;
+        text-align: center;
+        margin: 0 0 38px;
+        padding: 26px 10px 1px;
+    text-align: center;
+    font-size: 22px;
+    color: #222;
+    text-transform: uppercase;
+}
+
+/* nav */
+@media (min-width: 768px) {
+#article-nav {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+}
+#article-nav {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+@media (min-width: 768px) {
+.nav-list, #article-nav ul {
+    margin-left: -15px;
+}
+}
+.nav-list, #article-nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    margin-left: -12px;
+    padding: 0;
+}
+@media (min-width: 768px) {
+.nav-list li, #article-nav li {
+    font-size: 28px;
+    line-height: 40px;
+}
+}
+.nav-list li, #article-nav li {
+    white-space: nowrap;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    color: blue;
+}
+@media (min-width: 768px) {
+#article-nav li a {
+    font-size: 20px;
+    line-height: 40px;
+    padding: 0 15px;
+}
+}
+#article-nav li a {
+    cursor: pointer;
+    text-decoration: none;
+    border-color: currentColor;
+    color: #01adb9;
+    font-size: 16px;
+    line-height: 28px;
+    padding: 0 12px;
+}
+@media (min-width: 768px) {
+#article-nav li a:after {
+    top: 4px;
+    height: 22px;
+    width: 2px;
+}
+}
+#article-nav li a::after {
+    content: "";
+    background: #bcbfc5;
+    position: absolute;
+    top: 2px;
+    right: -1px;
+    bottom: 0;
+    height: 16px;
+    width: 1px;
+    margin: auto;
+}
+/* Johnson Boxes */
+.tcj-johnson-box-item {
+ margin: 3px;
+      
+}
+.tcj-johnson-box {
+    display:flex;
+    align-items:center;
+}
+.tcj-johnson-box img {
+	 width: 2rem;
+    height: 2rem;
+	margin: 0 30px 0 2px;
+}
+.tcj-johnson-box p {
+	padding-left: 2px;
+}
+/* Home page slider */
+.home .jeg_breadcrumbs, .home .entry-header {
+	display: none;
+}
+ /* Links */
+.entry-content .content-inner.jeg_link_underline a {
+    text-decoration: none;
+}
+ /* Affilliate Disclosures */
+	.amzn-affiliate-disclosure, .affiliate-disclosure {
+    display: block;
+    padding: 12px 17px 14px 17px;
+    clear: both;
+    border: 1px solid #dfe2ea;
+    font-size: 12px !important;
+    color: #636a73;
+    line-height: 16px;
+    font-family: Arial,sans-serif;
+    font-weight: 500;
+    background: #f8f9fa;
+    margin: 16px auto 16px auto!important;
+}
+
+ /* */
+.blogSlides ul li a {
+    color: #737373;
+}
+.jeg_author_image img {
+    width: 50px;
+    height: 50px;
+}
+.jeg_meta_author a {
+	color: #a0a0a0;
+}
+.index-item-preview ul a {
+	text-decoration: none !important;
+}
+.logo_tagline {
+text-align: center;
+    font-style: italic;
+    margin: 0 0 1em;
+}
+
+ /* */
+.firstcharacter.shadow {
+	text-shadow: 5px 5px #eee;
+	  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+.firstcharacter {
+	display: block;
+    float: left;
+    margin: .04em .2em 0 0;
+    color: #212121;
+    font-size: 4em;
+    line-height: 1;
+}
+
+/* Profiles Ratings */
+.sidebarhelpwith .widget a, .guideicons a, .staticons a, #toc_container ul li a {
+	text-decoration: none !important;
+}
+#profiles {
+	margin: 5px 0px;
+}
+#chess-profiles {
+	margin: 0em 0 0em;
+}
+#ratings {
+	margin: 0em 0 0em;
+}
+.profileicons {
+	text-align: center;
+}
+.profileicons a {
+	margin: 0px 20px;
+}
+.staticon strong {
+	font-size: 20px;
+	color: #000;
+}
+
+@media all and (max-width: 700px) {
+  .staticon  {
+		float: none;
+    margin: 0 auto !important;
+    width: 100% !important;
+	}
+	a.staticon {
+	padding-bottom: 20px;
+	}
+	.profileicons img {
+    display: block;
+		margin: 0 auto;
+}
+}
+a.guideicon {
+    text-align: center;
+    display: inline-flex;
+    width: 50%;
+    color: #666;
+    margin: 25px 0;
+    flex-direction: column;
+}
+.widgetheading {
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 0 25px 0;
+    text-align: center;
+}
+.sidebarhelpwith a.chesspieces:before {
+    content: "";
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/06/chess-pieces-guide.png");
+    height: 10px;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 35px 45px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sidebarhelpwith {
+    margin: 0 0 20px 0;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #dfdfdf;
+}
+.sidebarhelpwith a.chesslibrary:before {
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/08/Chess-Library-Guide.png");
+    content: "";
+   height: 10px;
+    background-size: 60px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 35px 45px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sidebarhelpwith a.chessopenings:before {
+    background-image: url(https://chessjournal.b-cdn.net/wp-content/uploads/2021/08/Chess-Openings-Guide.png);
+    content: "";
+   height: 10px;
+    background-size: 60px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 35px 45px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sidebarhelpwith a.checkmate-patterns:before {
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/06/checkmate-patterns-guide.png");
+    content: "";
+   height: 10px;
+    background-size: 60px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 35px 45px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sidebarhelpwith a.chessengines:before {
+    content: "";
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/06/chess-engines-guide.png");
+    height: 10px;
+    background-size: 60px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 35px 45px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sidebarhelpwith a.chessgambits:before {
+    content: "";
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/08/Chess-Gambits-Guide.png");
+    height: 10px;
+    background-size: 60px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 35px 45px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sidebarhelpwith a.chessattacks:before {
+    content: "";
+    background-image: url("");
+    background-size: 80px;
+    background-repeat: no-repeat;
+    background-position: 30px 5px;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    float: none;
+    padding: 50px;
+    line-height: 20px;
+    width: 120px;
+    height: 100px;
+}
+.sidebarhelpwith {
+    margin: 0 0 20px 0;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #dfdfdf;
+}
+.staticons {
+	text-align: center;
+}
+a.staticon {
+    text-align: center;
+    display: inline-flex;
+    width: 20%;
+    color: #666;
+    margin: 25px 0;
+    flex-direction: column;
+    align-items: center;
+}
+a.staticon:hover {
+	color: #666 !important;
+}
+.sidebarhelpwith a.world:before {
+    content: "";
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/05/chess-player-world-ranking.png");
+    height: 10px;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 40px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sidebarhelpwith a.classical:before {
+    content: "";
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/05/chess-player-classical-rating.png");
+   height: 10px;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 40px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sidebarhelpwith a.rapid:before {
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/05/chess-player-rapid-rating.png");
+    content: "";
+  height: 10px;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 40px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sidebarhelpwith a.blitz:before {
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/05/chess-player-blitz-rating.png");
+    content: "";
+  height: 10px;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 40px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+a.profileicon {
+    text-align: center;
+    display: inline-flex;
+    width: 20%;
+    color: #666;
+    margin: 25px 0;
+    flex-direction: column;
+    align-items: center;
+}
+.sidebarhelpwith a.fide:before {
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/05/fide-logo-international-chess-federation-768x768-1.png");
+    content: "";
+  height: 10px;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 40px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.sidebarhelpwith a.chesscom:before {
+    background-image: url("https://chessjournal.b-cdn.net/wp-content/uploads/2021/05/chesscom_pawn.png");
+    content: "";
+  height: 10px;
+    background-size: 50px;
+    background-repeat: no-repeat;
+    display: block;
+    font-size: 16px;
+    color: #46a5ff;
+    background-position: 15px 1px;
+    padding: 40px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+.jeg_pagination .dots+.page_number {
+    display: none;
+}
+.jeg_pagenav_1 .page_number.dots {
+    display: none;
+}
+.page_number {
+	display: none;
+}
+.jeg_pagenav_1 .page_number {
+	display: none;
+}
+@media only screen and (max-width: 320px) {
+.jeg_pagination .page_nav {
+    display: inline-block;
+	padding: 0 10px;
+    display: inline-block;
+    border: 1px solid #eee;
+    text-align: center;
+    min-width: 30px;
+    line-height: 30px;
+    font-size: 13px;
+    font-weight: 700;
+    transition: .2s ease;
+}
+	.jeg_pagination .page_nav.next:after {
+    padding-left: 6px;
+}
+}
+.dmca-badge img {
+	margin-bottom: 10px;
+}
+@media screen and (max-width: 500px) {
+.index-item-preview li {
+    width: 100% !important;
+	font-size: 14px;
+}
+	.index-item-preview {
+    width: 60% !important;
+}
+}
+.index-item-letter {
+    font-size: 50px;
+    font-weight: 700;
+    color: #999;
+    padding: 20px 0;
+    display: inline-block;
+    float: left;
+    width: 50px;
+    margin: 0 30px 0 0;
+}
+.index-item-preview {
+    width: 80%;
+    float: left;
+}
+.index-item {
+    width: 100%;
+    display: inline-block;
+    border-top: 1px solid #dfdfdf;
+    padding: 30px 0;
+}
+.index-item-preview ul {
+    margin: 3px 0;
+    padding: 0px 0;
+}
+.index-item-preview li {
+    list-style-type: none;
+    list-style: none;
+    padding: 0 40px 5px 0;
+    margin: 0;
+    float: left;
+    width: 40%;
+}
+.index-item-preview li a {
+    font-size: 15px;
+}
+.wp-caption-text a {
+	  color: #000;
+	text-decoration: none !important;
+}
+ /* Table of Contents */
+@media only screen and (min-width: 768px) {
+	.toc-heading {
+	font-size: 1.6rem;
+}
+}
+.tcj-featured-snippet a, .toc_list a {
+    text-decoration: none !important;
+}
+#toc_container li, #toc_container ul, #toc_container ul li a {
+  color: #000;
+  line-height: 40px;
+
+}
+h2:target { 
+	padding-top: 50px; 
+}
+@media only screen and (min-width: 768px) {
+.jeg_logo img {
+    height: auto;
+    image-rendering: optimizeQuality;
+    display: block;
+    max-width: 60%;
+    margin: 0 auto;
+}
+}
+.guide-header {
+	font-size: 18px;
+    font-weight: 700;
+    padding: 10px 0 25px 0;
+    text-align: center;
+}
+.tcj-featured-snippet ul {
+	list-style: none !important;
+	 columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+.tcj-featured-snippet {
+    width: 100% !important;
+    position: relative;
+    padding: 2.75rem 2rem;
+    right: 2rem;
+    margin: 2.75rem 0;
+}
+.tcj-featured-snippet {
+    max-width: 895px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f7f7f7;
+    margin: 2rem;
+}
+.tcj-featured-snippet, .tcj-featured-snippet h2, .tcj-featured-snippet .toc-heading {
+    border-radius: .1875rem;
+}
+.tcj-featured-snippet h2 {
+    line-height: 1.41667em;
+    font-weight: 500;
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #aaa;
+    margin: 0 0 2rem;
+    padding: 1rem 1rem 1rem 4rem;
+}
+.tcj-featured-snippet-heading {
+    line-height: 1.41667em;
+    font-weight: 500;
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #aaa;
+    margin: 0 0 2rem;
+    padding: 1.5rem 4rem 1.5rem 4rem;
+	width: 100%;
+}
+.tcj-featured-snippet h2::before, .tcj-featured-snippet .toc-heading::before {
+    content: '';
+    flex-shrink: 0;
+    position: absolute;
+    top: 1.3rem;
+    left: 1rem;
+    background-image: url('https://chessjournal.b-cdn.net/wp-content/uploads/2021/04/chess-journal-favicon.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 2rem;
+    height: 2rem;
+}
+.tcj-rich-text ul, .tsj-rich-text ol {
+    margin: 1em 0 0.25em;
+    padding: 0;
+}
+.tcj-rich-text ol {
+    counter-reset: item;
+}
+.tcj-rich-text ol>li {
+    line-height: 1.61111em;
+    font-weight: 500;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    counter-increment: item;
+    position: relative;
+}
+.tcj-rich-text ul li, .tsj-rich-text ol li {
+    list-style-type: none;
+    margin: 0 0 0.75em;
+    padding: 0 0 0 1.5em;
+}
+.css-1enc0ig {
+    padding: 25px 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+.css-1tjsedf {
+    height: 24px;
+}
+.tcj-featured-snippet__wrapper--content ol>li {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    counter-increment: item;
+    position: relative;
+}
+.tcj-featured-snippet a {
+  color:#000;
+}
+#large_toc_container {
+    background: #f9f9f9 none repeat scroll 0 0;
+    display: table;
+    font-size: 95%;
+    margin-bottom: 1em;
+    padding: 20px 20px 0px 20px;
+    width: 100%;
+}
+#large_toc_container ul {
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+    list-style-type: none;
+    padding-left: 0;
+}
+@media (max-width: 480px) {
+	#large_toc_container ul {
+    columns: 2 !important;
+    -webkit-columns: 2 !important;
+    -moz-columns: 2 !important;
+    list-style-type: none;
+    padding-left: 0;
+}
+}
+@media (min-width: 501px) {
+.tcj-featured-snippet__wrapper>h2, .tsj-featured-snippet__wrapper>h3, .tcj-featured-snippet__wrapper>h4, .tsj-featured-snippet__wrapper>h5, .tcj-featured-snippet__wrapper>h6, .tcj-featured-snippet__wrapper>.toc-heading  {
+    margin: 0 0 3.25rem;
+    padding: 1.75rem 1rem 1.75rem 5rem;
+}
+	.tcj-featured-snippet__wrapper>h2::before, .tcj-featured-snippet__wrapper>h3::before, .tcj-featured-snippet__wrapper>h4::before, .tcj-featured-snippet__wrapper>h5::before, .tcj-featured-snippet__wrapper>h6::before, .tcj-featured-snippet__wrapper>.toc-heading::before {
+    top: calc(1.75rem - 0.1875rem);
+    width: 2.5rem;
+    height: 2.5rem;
+}
+}
+.tcj-snippet p {
+	 line-height: 1.41667em;
+    font-weight: 500;
+    position: relative;
+    padding: 1rem 1rem 1rem 4rem;
+}
+.tcj-snippet p::before {
+	 content: '';
+    flex-shrink: 0;
+    position: absolute;
+    left: 1rem;
+    background-image: url('https://chessjournal.b-cdn.net/wp-content/uploads/2021/04/chess-journal-favicon.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 2rem;
+    height: 2rem;
+}
+a.external {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==) center right no-repeat;
+    padding-right: 13px;
+}
+@media only screen and (min-width: 1030px) {
+#toc_container ul {
+    margin-top: 1em;
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+    list-style-type: none;
+    padding-left: 0;
+}
+}
+#toc_container {
+    background: #f9f9f9 none repeat scroll 0 0;
+    display: table;
+    font-size: 95%;
+    margin-bottom: 1em;
+    padding: 20px 20px 0px 20px;
+    width: 100%;
+}
+.toc_title {
+    text-align: center;
+    font-weight: bold;
+	margin: 1.3em 0 !important;
+}
+#toc_container li, #toc_container ul, #toc_container ul li {
+    list-style: outside none none !important;
+	padding: 0px 20px;
+}
+@media only screen and (min-width: 1030px) {
+    .call-to-action {
+        width: 100%;
+    }
+    #toc_container p.toc_title+ul.toc_list {
+        margin-top: 1em;
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
+        list-style-type: none;
+        padding-left: 0;
+    }
+}
+.footnote-print-only li {
+font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 25px;
+}
+.source-guidelines {
+    color: #918f8f;
+    margin-top: 20px;
+    line-height: 20px;
+    font-size: 14px;
+    position: relative;
+    opacity: 1;
+    top: 0;
+    transition: all 500ms cubic-bezier(0.165,0.84,0.44,1);
+}	
+		</style>
+		</head>
+<body class="post-template-default single single-post postid-2457 single-format-standard wp-embed-responsive jeg_toggle_light jeg_single_tpl_2 jnews jsc_normal">
+
+    
+    
+    <div class="jeg_ad jeg_ad_top jnews_header_top_ads">
+        <div class='ads-wrapper  '></div>    </div>
+
+    <!-- The Main Wrapper
+    ============================================= -->
+    <div class="jeg_viewport">
+
+        
+        <div class="jeg_header_wrapper">
+            <div class="jeg_header_instagram_wrapper">
+    </div>
+
+<!-- HEADER -->
+<div class="jeg_header normal">
+    <div class="jeg_midbar jeg_container jeg_navbar_wrapper normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_logo jeg_desktop_logo">
+			<div class="site-title">
+	    	<a href="https://www.chessjournal.com/" style="padding: 0 0 0 0;">
+	    	    <img class='jeg_logo_img' src="https://www.chessjournal.com/wp-content/uploads/2021/04/chess-journal.png" srcset="https://www.chessjournal.com/wp-content/uploads/2021/04/chess-journal.png 1x, https://www.chessjournal.com/wp-content/uploads/2021/04/chess-journal.png 2x" alt="The Chess Journal"data-light-src="https://www.chessjournal.com/wp-content/uploads/2021/04/chess-journal.png" data-light-srcset="https://www.chessjournal.com/wp-content/uploads/2021/04/chess-journal.png 1x, https://www.chessjournal.com/wp-content/uploads/2021/04/chess-journal.png 2x" data-dark-src="https://www.chessjournal.com/wp-content/uploads/2021/08/The-Chess-Journal.png" data-dark-srcset="https://www.chessjournal.com/wp-content/uploads/2021/08/The-Chess-Journal.png 1x, https://www.chessjournal.com/wp-content/uploads/2021/08/The-Chess-Journal.png 2x">	    	</a>
+	    </div>
+	
+	      <p class="logo_tagline">Chess Tutorials For Beginners</p><!-- Site Tagline -->
+
+
+</div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                                            </div>
+                </div>
+
+                        </div>
+    </div>
+</div><div class="jeg_bottombar jeg_navbar jeg_container jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_2" data-animation="none"><li id="menu-item-455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-455 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/">Home</a></li>
+<li id="menu-item-808" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-808 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/start-here/">Start Here</a>
+<ul class="sub-menu">
+	<li id="menu-item-5788" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5788 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-board-set-up/">How To Set Up a Chess Board</a></li>
+	<li id="menu-item-5726" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5726 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/how-to-solve-chess-puzzles/">How To Solve Chess Puzzles</a></li>
+	<li id="menu-item-5725" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5725 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-notation/">How To Read Chess Notation</a></li>
+	<li id="menu-item-5728" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5728 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-rules/">Complete List of Official Rules of Chess</a></li>
+	<li id="menu-item-1145" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1145 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-terms/">Chess Terminology</a></li>
+</ul>
+</li>
+<li id="menu-item-453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-453 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-strategy/">Strategy</a>
+<ul class="sub-menu">
+	<li id="menu-item-452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-strategy/chess-openings/">Openings</a></li>
+	<li id="menu-item-1611" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1611 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-strategy/checkmate-patterns/">Checkmates Patterns</a></li>
+	<li id="menu-item-5439" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5439 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-tactics/">Tactics</a></li>
+</ul>
+</li>
+<li id="menu-item-809" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-809 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-players/">Players</a></li>
+<li id="menu-item-5438" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-5438 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-5727" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5727 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-books/">Best Chess Books By Rating Bracket</a></li>
+	<li id="menu-item-6106" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6106 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/books-mentioned-in-the-queens-gambit/">Books Mentioned In The Queen’s Gambit on Netflix (Real and Fake Books)</a></li>
+	<li id="menu-item-6107" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6107 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/best-chess-books/">7 Best Chess Books For Beginners To Cut The Learning Curve</a></li>
+</ul>
+</li>
+<li id="menu-item-4541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4541 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/about/">About Us</a></li>
+<li id="menu-item-6108" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6108 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-editor/">Editor</a></li>
+<li id="menu-item-5729" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5729 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/newsletter/">Sign Up</a></li>
+</ul></div></div>
+<!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://www.chessjournal.com/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                                            </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div><!-- /.jeg_header -->        </div>
+
+        <div class="jeg_header_sticky">
+            <div class="sticky_blankspace"></div>
+<div class="jeg_header full">
+    <div class="jeg_container">
+        <div data-mode="fixed" class="jeg_stickybar jeg_navbar jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_shadow jeg_navbar_dark">
+            <div class="container">
+    <div class="jeg_nav_row">
+        
+            <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                <div class="item_wrap jeg_nav_alignleft">
+                    <div class="jeg_nav_item jeg_logo">
+    <div class="site-title">
+    	<a href="https://www.chessjournal.com/">
+    	    <img class='jeg_logo_img' src="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png" srcset="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 1x, https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 2x" alt="The Chess Journal"data-light-src="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png" data-light-srcset="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 1x, https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 2x" data-dark-src="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png" data-dark-srcset="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 1x, https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 2x">    	</a>
+    </div>
+</div>                </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+                <div class="item_wrap jeg_nav_alignleft">
+                    <div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_2" data-animation="none"><li id="menu-item-455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-455 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/">Home</a></li>
+<li id="menu-item-808" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-808 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/start-here/">Start Here</a>
+<ul class="sub-menu">
+	<li id="menu-item-5788" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5788 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-board-set-up/">How To Set Up a Chess Board</a></li>
+	<li id="menu-item-5726" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5726 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/how-to-solve-chess-puzzles/">How To Solve Chess Puzzles</a></li>
+	<li id="menu-item-5725" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5725 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-notation/">How To Read Chess Notation</a></li>
+	<li id="menu-item-5728" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5728 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-rules/">Complete List of Official Rules of Chess</a></li>
+	<li id="menu-item-1145" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1145 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-terms/">Chess Terminology</a></li>
+</ul>
+</li>
+<li id="menu-item-453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-453 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-strategy/">Strategy</a>
+<ul class="sub-menu">
+	<li id="menu-item-452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-strategy/chess-openings/">Openings</a></li>
+	<li id="menu-item-1611" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1611 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-strategy/checkmate-patterns/">Checkmates Patterns</a></li>
+	<li id="menu-item-5439" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5439 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-tactics/">Tactics</a></li>
+</ul>
+</li>
+<li id="menu-item-809" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-809 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-players/">Players</a></li>
+<li id="menu-item-5438" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-5438 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/category/chess-resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-5727" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5727 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-books/">Best Chess Books By Rating Bracket</a></li>
+	<li id="menu-item-6106" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6106 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/books-mentioned-in-the-queens-gambit/">Books Mentioned In The Queen’s Gambit on Netflix (Real and Fake Books)</a></li>
+	<li id="menu-item-6107" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6107 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/best-chess-books/">7 Best Chess Books For Beginners To Cut The Learning Curve</a></li>
+</ul>
+</li>
+<li id="menu-item-4541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4541 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/about/">About Us</a></li>
+<li id="menu-item-6108" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6108 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/chess-editor/">Editor</a></li>
+<li id="menu-item-5729" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5729 bgnav" data-item-row="default" ><a href="https://www.chessjournal.com/newsletter/">Sign Up</a></li>
+</ul></div></div>
+<!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://www.chessjournal.com/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div>                </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                <div class="item_wrap jeg_nav_alignleft">
+                                    </div>
+            </div>
+
+                </div>
+</div>        </div>
+    </div>
+</div>
+        </div>
+
+        <div class="jeg_navbar_mobile_wrapper">
+            <div class="jeg_navbar_mobile" data-mode="scroll">
+    <div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container dark">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item">
+    <a href="#" class="toggle_btn jeg_mobile_toggle"><i class="fa fa-bars"></i></a>
+</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_mobile_logo">
+			<div class="site-title">
+	    	<a href="https://www.chessjournal.com/">
+		        <img class='jeg_logo_img' src="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png" srcset="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 1x, https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 2x" alt="The Chess Journal"data-light-src="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png" data-light-srcset="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 1x, https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 2x" data-dark-src="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png" data-dark-srcset="https://www.chessjournal.com/wp-content/uploads/2021/08/the-chess-journal-logo.png 1x, https://www.chessjournal.com/wp-content/uploads/2021/08/The-Chess-Journal.png 2x">		    </a>
+	    </div>
+	</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_search_wrapper jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+	<form action="https://www.chessjournal.com/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div>
+<div class="sticky_blankspace" style="height: 45px;"></div>        </div>
+    <div class="post-wrapper">
+
+        <div class="post-wrap" >
+
+            
+            <div class="jeg_main ">
+                <div class="jeg_container">
+                    <div class="jeg_content jeg_singlepage">
+	<div class="container">
+
+		<div class="jeg_ad jeg_article_top jnews_article_top_ads">
+			<div class='ads-wrapper  '></div>		</div>
+
+		
+						<div class="jeg_breadcrumbs jeg_breadcrumb_container">
+				<p id="breadcrumbs"><span><span><a href="https://www.chessjournal.com/">Home</a></span> » <span><a href="https://www.chessjournal.com/category/chess-resources/">Chess Resources and Tools</a></span> » <span class="breadcrumb_last" aria-current="page">How To Play Chess (Complete Guide For Beginners)</span></span></p>			</div>
+			
+			<div class="entry-header">
+				
+				<h1 class="jeg_post_title">How To Play Chess (Complete Guide For Beginners)</h1>
+
+				
+				<div class="jeg_meta_container"><div class="jeg_post_meta jeg_post_meta_2">
+    <div class="meta_left">
+                                    <div class="jeg_meta_author">
+                    <img alt='Editorial Staff' src='https://secure.gravatar.com/avatar/6d104fc48eda3b5e416b82ee27f0bfd9?s=80&#038;r=g' srcset='https://secure.gravatar.com/avatar/6d104fc48eda3b5e416b82ee27f0bfd9?s=160&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' decoding='async'/>                    <span class="meta_text">by</span>
+                    <a href="https://www.chessjournal.com/author/chess-journal/">Editorial Staff</a>                </div>
+                    
+        
+                    <div class="jeg_meta_category">
+                <span><span class="meta_text">in</span>
+                    <a href="https://www.chessjournal.com/category/chess-resources/" rel="category tag">Chess Resources and Tools</a>                </span>
+            </div>
+        
+            </div>
+
+	<div class="meta_right">
+					</div>
+</div>
+</div>
+			</div>
+
+			<div class="row">
+				<div class="jeg_main_content col-md-8">
+
+					<div class="jeg_inner_content">
+						<div  class="jeg_featured featured_image "></div>
+						
+						<div class="jeg_ad jeg_article jnews_content_top_ads "><div class='ads-wrapper  '></div></div>
+						<div class="entry-content no-share">
+							<div class="jeg_share_button share-float jeg_sticky_share clearfix share-normal">
+															</div>
+
+							<div class="content-inner  jeg_link_underline">
+								<p>In this chess guide for beginners, you will learn you how to play chess in just three steps.</p>
+<p>This guide walks you through everything you need to know from how to set up a chessboard, how to move the pieces, and also the special moves in chess. Whether you&#8217;re an adult or part of the younger generation, this article acts as a complete guide for beginners to getting started in the game.</p>
+<p>We&#8217;ll start with the basics of chess ranging from the moves of the pieces, the basic rules of chess, and some basic strategies of chess that will help you shortcut the learning curve that beginners face.</p>
+<p>Even <a href="https://www.chessjournal.com/chess-grandmaster/">Grandmasters</a> started with learning how to play, this page is perfect for getting started in the <a href="https://www.chessjournal.com/chess-history/">game of kings</a>. You&#8217;ll also get some tips and advanced guides that are useful for both chess masters as well as the chess beginner.<span id="How_To_Play_Chess_As_A_Beginner" class="ez-toc-section"></span></p>
+<p>Here&#8217;s what this guide covers.</p>
+<ul>
+<li>How To Set Up The Chessboard</li>
+<li>How The Pieces Move</li>
+<li>The Special Moves</li>
+</ul>
+<p>These basics will be explained in detail to try to make it as simple as possible for you to learn. The quicker you learn, the quicker you can start playing on <a href="https://www.chessjournal.com/chess-com/">chess.com</a>.</p>
+<div id="ez-toc-container" class="ez-toc-v2_0_63 counter-hierarchy ez-toc-counter ez-toc-white ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title " >Page Navigation</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="#Who_Should_Read_This_Guide" title="Who Should Read This Guide">Who Should Read This Guide</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-2" href="#The_Pieces" title="The Pieces">The Pieces</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-3" href="#The_Chessboard" title="The Chessboard">The Chessboard</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="#How_To_Set_Up_The_Chessboard" title="How To Set Up The Chessboard">How To Set Up The Chessboard</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="#How_To_Move_The_Pieces" title="How To Move The Pieces">How To Move The Pieces</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="#How_To_Move_The_King" title="How To Move The King">How To Move The King</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="#How_To_Move_The_Queen" title="How To Move The Queen">How To Move The Queen</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="#How_To_Move_The_Rook" title="How To Move The Rook">How To Move The Rook</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="#How_To_Move_The_Bishop" title="How To Move The Bishop">How To Move The Bishop</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-10" href="#How_To_Move_The_Knight" title="How To Move The Knight">How To Move The Knight</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="#How_To_Move_The_Pawn" title="How To Move The Pawn">How To Move The Pawn</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-12" href="#How_To_Promote_A_Pawn" title="How To Promote A Pawn">How To Promote A Pawn</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-13" href="#Special_Moves_in_Chess" title="Special Moves in Chess">Special Moves in Chess</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-14" href="#Castling" title="Castling">Castling</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-15" href="#En_Passant" title="En Passant">En Passant</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-16" href="#Frequently_Asked_Questions" title="Frequently Asked Questions">Frequently Asked Questions</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-17" href="#How_is_the_game_of_chess_played" title="How is the game of chess played?">How is the game of chess played?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-18" href="#What_are_the_basic_rules_of_chess" title="What are the basic rules of chess?">What are the basic rules of chess?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-19" href="#How_do_you_start_playing_chess" title="How do you start playing chess?">How do you start playing chess?</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-20" href="#How_is_the_chessboard_arranged" title="How is the chessboard arranged?">How is the chessboard arranged?</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-21" href="#Conclusion" title="Conclusion">Conclusion</a></li></ul></nav></div>
+<h2><span class="ez-toc-section" id="Who_Should_Read_This_Guide"></span><span id="Why_You_Should_Read_This_Chess_Guide" class="ez-toc-section"></span>Who Should Read This Guide<span class="ez-toc-section-end"></span></h2>
+<p>Let’s assume that you probably know how to play chess and you are strongly dedicated to playing Chess.</p>
+<p>Then you may decide to test your chess abilities through any of the chess playing sources.</p>
+<p>That most of the players you would probably decide to play chess with any of your friends or play online chess games.</p>
+<p>But the chances are that you would probably lose that game.</p>
+<p>After that, you found yourself in two situations.</p>
+<p>The first situation is that you decide to give up the game and not to play any game of chess again, this is the worst-case in your chess career ever.</p>
+<p>But in the second situation, you would decide to continue playing this game.</p>
+<p>For that, you search how to play Chess and start looking for the chess guides that will help you to play better chess and teach you to not only play chess but how to play chess strategically, and also tactically.</p>
+<p>Let&#8217;s start with the pieces where you will get to know about the various chess pieces and some basic information about the chess pieces.</p>
+<h2><span class="ez-toc-section" id="The_Pieces"></span>The Pieces<span class="ez-toc-section-end"></span></h2>
+<p>There are a total of 32 chess pieces at the beginning of the chess game. Each of the chess players starts with the 16 chess pieces:</p>
+<figure class="wp-block-table">
+<table class="has-subtle-pale-blue-background-color has-background">
+<tbody>
+<tr>
+<td>Name of Piece</td>
+<td class="has-text-align-center" data-align="center">King</td>
+<td class="has-text-align-center" data-align="center">Queen</td>
+<td class="has-text-align-center" data-align="center">Rook</td>
+<td class="has-text-align-center" data-align="center">Knight</td>
+<td class="has-text-align-center" data-align="center">Bishop</td>
+<td class="has-text-align-center" data-align="center">Pawn</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td class="has-text-align-center" data-align="center">1</td>
+<td class="has-text-align-center" data-align="center">1</td>
+<td class="has-text-align-center" data-align="center">2</td>
+<td class="has-text-align-center" data-align="center">2</td>
+<td class="has-text-align-center" data-align="center">2</td>
+<td class="has-text-align-center" data-align="center">8</td>
+</tr>
+<tr class="lazy-loaded">
+<td>Symbol</td>
+<td class="has-text-align-center" data-align="center"><img decoding="async" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="Chess king" data-src="https://web.archive.org/web/20201101043515/https://lh5.googleusercontent.com/HD8xm_qzdqweKUcBIU7VGZ8xJrsBDreVy4r2JV76-zDL_Z87JrF7AZPc213RaQvFURu0qTTGqn47pJYTsxXh1cgKNT3b4g6e2Fe3k5BmP24ajbbawUm0Ng0ArwR9CGfiT8gpBuWx" /></td>
+<td class="rb-lazyload has-text-align-center" data-align="center"></td>
+<td class="has-text-align-center" data-align="center"></td>
+<td class="has-text-align-center" data-align="center"></td>
+<td class="has-text-align-center" data-align="center"></td>
+<td class="has-text-align-center" data-align="center"></td>
+</tr>
+</tbody>
+</table><figcaption></figcaption></figure>
+<p>Next, you&#8217;ll how to set up a chessboard the right way.</p>
+<h2><span class="ez-toc-section" id="The_Chessboard"></span><span id="How_To_Set_Up_The_Chessboard" class="ez-toc-section"></span>The Chessboard<span class="ez-toc-section-end"></span></h2>
+<p>On the first step of learning chess, I will teach you how to set up the chessboard.</p>
+<p>Setting up a chessboard is the first step of learning how to play chess.</p>
+<p>But at first, I want to tell you what is a Chessboard.</p>
+<p>The chessboard is a dual-colored checkered game board used in the game of chess, consisting of a total of 64 squares i.e., white (light) and black (dark) of 32 squares each.</p>
+<p>The chessboard is the place that we use to place all the chess pieces. It consists of the 8 rows, called the ranks, and 8 columns, called the files.</p>
+<p>Each file has a letter in front of it, from a-h, and each rank has a number in front of it, from 1-8. These are used to indicate the moves and specific squares on the board throughout the game. This is how players write and read <a href="https://www.chessjournal.com/chess-notation/">chess notation</a>. Think of it like a language.</p>
+<p>Next, we&#8217;ll go over how to set up the chess board.</p>
+<h2><span class="ez-toc-section" id="How_To_Set_Up_The_Chessboard"></span>How To Set Up The Chessboard<span class="ez-toc-section-end"></span></h2>
+<p>At the beginning of the game, the chessboard is laid out so that each player has the white (or light) color square in the bottom right-hand side.</p>
+<figure class="wp-block-image size-large lazy-loaded"><img decoding="async" class="rb-lazyload wp-image-1873 loaded" src="https://web.archive.org/web/20201101043515im_/https://chessrulers.com/wp-content/uploads/2020/09/Correct-Way-To-Set-Up-Chessboard.png.webp" alt="Correct Way To Set Up Chessboard" data-src="https://chessrulers.com/wp-content/uploads/2020/09/Correct-Way-To-Set-Up-Chessboard.png.webp" data-src-webp="https://web.archive.org/web/20201101043515/https://chessrulers.com/wp-content/uploads/2020/09/Correct-Way-To-Set-Up-Chessboard.png.webp" /></figure>
+<p>You can set up the board by placing the pieces on the following squares.</p>
+<figure class="wp-block-table is-style-regular">
+<table class="has-subtle-pale-blue-background-color has-background">
+<tbody>
+<tr>
+<td><strong>Placement Square for White</strong></td>
+<td class="has-text-align-center" data-align="center">e1</td>
+<td class="has-text-align-center" data-align="center">d1</td>
+<td class="has-text-align-center" data-align="center">a1 and h1</td>
+<td class="has-text-align-center" data-align="center">b1 and g1</td>
+<td class="has-text-align-center" data-align="center">c1 and f1</td>
+<td class="has-text-align-center" data-align="center">a2-h2</td>
+</tr>
+<tr>
+<td><strong>Placement Square for Black</strong></td>
+<td class="has-text-align-center" data-align="center">e8</td>
+<td class="has-text-align-center" data-align="center">d8</td>
+<td class="has-text-align-center" data-align="center">a8 and h8</td>
+<td class="has-text-align-center" data-align="center">b8 and g8</td>
+<td class="has-text-align-center" data-align="center">c8 and f8</td>
+<td class="has-text-align-center" data-align="center">a7-h7</td>
+</tr>
+<tr class="lazy-loaded">
+<td><strong>Chess Piece</strong></td>
+<td class="has-text-align-center" data-align="center"><img decoding="async" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="Chess king" data-src="https://web.archive.org/web/20201101043515/https://lh5.googleusercontent.com/HD8xm_qzdqweKUcBIU7VGZ8xJrsBDreVy4r2JV76-zDL_Z87JrF7AZPc213RaQvFURu0qTTGqn47pJYTsxXh1cgKNT3b4g6e2Fe3k5BmP24ajbbawUm0Ng0ArwR9CGfiT8gpBuWx" /></td>
+<td class="rb-lazyload has-text-align-center" data-align="center"><img decoding="async" class=" lazyloaded" src="https://web.archive.org/web/20201101043515im_/https://lh4.googleusercontent.com/Im729vMEWgdg_rhvXSPyvrU1gaipuLlv1Wy5gO7v1l2MLb-pAzwjCUrCgl9gNCHusGMb4uFxJprPkfsacUjC_EeDZyH40T3QYgb_2Sth9gGPepjWiUNAJhYCaS6YS8jthB37s_Fv" alt="chess queen" data-src="https://web.archive.org/web/20201101043515/https://lh4.googleusercontent.com/Im729vMEWgdg_rhvXSPyvrU1gaipuLlv1Wy5gO7v1l2MLb-pAzwjCUrCgl9gNCHusGMb4uFxJprPkfsacUjC_EeDZyH40T3QYgb_2Sth9gGPepjWiUNAJhYCaS6YS8jthB37s_Fv" /></td>
+<td class="has-text-align-center" data-align="center"><img decoding="async" class=" lazyloaded" src="https://web.archive.org/web/20201101043515im_/https://lh3.googleusercontent.com/WLTxfgh6PBg8JSMbmDVAyT5BQUoHo0_zK6gHC78OF7Q8rE4RU-uplLiUg-Iu6TzDnXMptMu0bF2qc0wJRblSgFQNY2X90g9Bcr7lwLIcdALgvKvB38xYpRXe8UzCP3l4zV90iDhA" alt="chess rook" data-src="https://web.archive.org/web/20201101043515/https://lh3.googleusercontent.com/WLTxfgh6PBg8JSMbmDVAyT5BQUoHo0_zK6gHC78OF7Q8rE4RU-uplLiUg-Iu6TzDnXMptMu0bF2qc0wJRblSgFQNY2X90g9Bcr7lwLIcdALgvKvB38xYpRXe8UzCP3l4zV90iDhA" /></td>
+<td class="has-text-align-center" data-align="center"><img decoding="async" class=" lazyloaded" src="https://web.archive.org/web/20201101043515im_/https://lh4.googleusercontent.com/LbMu_Uvte-vIyyHfPNpzNYrk83JAw9JcW3VjtnogY749GHZiS00aXfJOCMX12-gS29FbfaDy5yXuej7F2G7Cz3OPYryKzmuk-6SsDwLjnUMpsmqRhBEOxoLxj-1sCDNVTqyQhIoD" alt="chess knight" data-src="https://web.archive.org/web/20201101043515/https://lh4.googleusercontent.com/LbMu_Uvte-vIyyHfPNpzNYrk83JAw9JcW3VjtnogY749GHZiS00aXfJOCMX12-gS29FbfaDy5yXuej7F2G7Cz3OPYryKzmuk-6SsDwLjnUMpsmqRhBEOxoLxj-1sCDNVTqyQhIoD" /></td>
+<td class="has-text-align-center" data-align="center"><img decoding="async" class=" lazyloading" src="https://web.archive.org/web/20201101043515im_/https://lh6.googleusercontent.com/Oequ4KPlxI1uOkyjOJBFERsjqQz1W4qmcSVjFiKwYFNjZwkKOxp3vqTiW0oQP70seDjBnXswnG2xov3hzP1LS5p0Up5uqRoCfJ03fpxu_RHmvzC0zkYJmdECZ7HiBvbBmMHf5rej" alt="Chess Bishop" data-src="https://web.archive.org/web/20201101043515/https://lh6.googleusercontent.com/Oequ4KPlxI1uOkyjOJBFERsjqQz1W4qmcSVjFiKwYFNjZwkKOxp3vqTiW0oQP70seDjBnXswnG2xov3hzP1LS5p0Up5uqRoCfJ03fpxu_RHmvzC0zkYJmdECZ7HiBvbBmMHf5rej" /></td>
+<td class="has-text-align-center" data-align="center"><img decoding="async" class=" lazyloaded" src="https://web.archive.org/web/20201101043515im_/https://lh4.googleusercontent.com/SMpCJjPumzOJS8J6U9XxwEcuv0Kk5tx-mkmlhes9M7Ig-4GI6YI6AxRE0atNrZzJ6DBUeik4z3ClJgecxgQXjyxo6YZiSqlAyazuDavx9j2ZByYmP3ojYPa1WJeg3ynBX_Yh79v1" alt="Chess Pawn" data-src="https://web.archive.org/web/20201101043515/https://lh4.googleusercontent.com/SMpCJjPumzOJS8J6U9XxwEcuv0Kk5tx-mkmlhes9M7Ig-4GI6YI6AxRE0atNrZzJ6DBUeik4z3ClJgecxgQXjyxo6YZiSqlAyazuDavx9j2ZByYmP3ojYPa1WJeg3ynBX_Yh79v1" /></td>
+</tr>
+</tbody>
+</table><figcaption></figcaption></figure>
+<p>You can see the initial setup of the chessboard in image given below:</p>
+<figure class="wp-block-image size-large lazy-loaded"><img decoding="async" class="rb-lazyload wp-image-1875 loaded" src="https://web.archive.org/web/20201101043515im_/https://chessrulers.com/wp-content/uploads/2020/09/Initial-Setup-Of-Chessboard.png.webp" alt="Initial Setup Of Chessboard" data-src="https://chessrulers.com/wp-content/uploads/2020/09/Initial-Setup-Of-Chessboard.png.webp" data-src-webp="https://web.archive.org/web/20201101043515/https://chessrulers.com/wp-content/uploads/2020/09/Initial-Setup-Of-Chessboard.png.webp" /></figure>
+<p>Note: A common mistake seen with beginners setting up the board is mixing up the king and queen placement squares, which is easy to do. An easy way to remember which squares to put them on is to remember that the queen goes on the same color square of the side you&#8217;re playing with. If you have the white pieces, the queen goes on the white square. If you&#8217;re playing with the black pieces, the queen goes on the dark square. And of course, the king is placed next to the queen.</p>
+<h2><span class="ez-toc-section" id="How_To_Move_The_Pieces"></span><span id="How_To_Move_The_Chess_Pieces_%7C_Second_Step_To_Play_Game" class="ez-toc-section"></span>How To Move The Pieces<span class="ez-toc-section-end"></span></h2>
+<p>Now, you have set up your chess board and chess pieces, that is the easiest task in chess.</p>
+<p>So, get ready for the next step of your journey to learn Chess.</p>
+<p>Now, I will teach you how to move these chess pieces which makes the base of how to play chess.</p>
+<p>All 6 kinds of chess pieces move in their different styles,  as there are different characteristics of all the 6 pieces.</p>
+<p>The Chess pieces cannot jump or move over other pieces { Exception: the Knight is only the chess piece that can jump over the other pieces } and cannot move to the square acquired by the chess piece of its similar color.</p>
+<p>But they can be moved to the squares acquired by the opponent pieces to capture these pieces.</p>
+<p>Generally, Chess Pieces are moved into the crucial positions, where they can capture other pieces or make the crucial pressure on the opponent by attacking the opponent’s king, defend their pieces in case of capture, or control important squares in the game to consolidate the position in the game.</p>
+<p>Now, I will tell you how all of these chess pieces move that we have discussed above in the table of <em>Info About Chess Pieces</em> one-by-one.</p>
+<h3><span class="ez-toc-section" id="How_To_Move_The_King"></span><span id="How_To_Move_The_King_In_Chess" class="ez-toc-section"></span>How To Move The King<span class="ez-toc-section-end"></span></h3>
+<p>The <a href="https://www.chessjournal.com/chess-king/">King</a> is considered as the most important piece in Chess but is the weakest chess piece.</p>
+<p>You can see the movement of King that I have described In the Image below and could learn from it.</p>
+<p>The King can move only one square, whether it is forward, backward, sideways, or in the diagonal direction.</p>
+<p>The main weakness of the King is that it can not move to the square which is attacked by any other opponent pieces.</p>
+<p>It is the major weakness of the king that in the check, the king has to be saved, the Player can not move anything else leaving the king in danger.</p>
+<p>Now you may wonder to know about what is the check. The Check is a condition in which the King in the Chess is attacked.</p>
+<p>There are three ways to protecting your king from check.</p>
+<ol>
+<li>Move the king to a safe square.</li>
+<li>Capture the threatening piece.</li>
+<li>Block the path of check between the threatening piece and the king.</li>
+</ol>
+<h3><span class="ez-toc-section" id="How_To_Move_The_Queen"></span><span id="How_To_Move_The_Queen_In_Chess" class="ez-toc-section"></span>How To Move The Queen<span class="ez-toc-section-end"></span></h3>
+<p>The <a href="https://www.chessjournal.com/chess-queen/">Queen</a> is considered as the most powerful piece in the Game of Chess, due to its range of movement.</p>
+<p>Let’s Learn how to play Chess queen in the game and also how to use it in winning the game.</p>
+<p>You can see the movement of queen that I have described In the Image below:</p>
+<p>The Queen can move in any direction, whether – straight, backward, sideways, or diagonally as the king but can move as far as possible { i.e. as far as the complete diagonal from a1 to h8 } as long as she reaches its pieces.</p>
+<p>As per the Reinfeld values, the Queen has a total of 9 value points.</p>
+<h3><span class="ez-toc-section" id="How_To_Move_The_Rook"></span><span id="How_To_Move_The_Rook_In_Chess" class="ez-toc-section"></span>How To Move The Rook<span class="ez-toc-section-end"></span></h3>
+<p>Let’s Learn how to move the <a href="https://www.chessjournal.com/chess-rook/">rook</a> in the game and also how to use it in winning the game.</p>
+<p>The Rook can move as far as possible but can move only in the forward, backward, or in the sideways directions.</p>
+<p>You can see the movement of Rook that I have described In the Image below:</p>
+<p>The Rooks are especially powerful pieces when they are protecting each other and working together in the same files (doubling the rooks on the same files} or in the same ranks (attacking the two files at the same time).</p>
+<p>These rooks work well in the open files which make the decisive attack and help to destroy the opponent camp. As per the Reinfeld values, the Rook has a total of 5 value points.</p>
+<h3><span class="ez-toc-section" id="How_To_Move_The_Bishop"></span><span id="How_To_Move_The_Bishop_In_Chess" class="ez-toc-section"></span>How To Move The Bishop<span class="ez-toc-section-end"></span></h3>
+<p>The <a href="https://www.chessjournal.com/chess-bishop/">bishop</a> can move as far as possible but can move only diagonally. In the game of chess, each bishop starts on a specific color (light or dark color) and also stays on that color even at the end of the game.</p>
+<p>You can see the movement of queen that I have described In the Image below, and can learn from it.</p>
+<p>These Bishops work well in the pair when they cover the two adjacent diagonals and create a massive attack by covering each other’s weakness.</p>
+<p>The Bishop is considered as the best attacking piece for sacrifice due to their high range of mobility and can create a crucial weakness in the opponent’s camp.</p>
+<p>The Bishops worked well in the open position, while they became dead in the closed positions on the chessboard.</p>
+<p>As per the Reinfeld values, the Bishop has a total of 3 value points.</p>
+<h3><span class="ez-toc-section" id="How_To_Move_The_Knight"></span><span id="How_To_Move_The_Knight_In_Chess" class="ez-toc-section"></span>How To Move The Knight<span class="ez-toc-section-end"></span></h3>
+<p>The <a href="https://www.chessjournal.com/chess-knight/">knight</a> has very restricted mobility, that’s why it is considered as the most adventurous chess piece and can become a very dangerous chess piece in many situations of the game.</p>
+<p>This chess piece can move two squares in one direction, and then one additional move at the 90 degrees. It just forms the shape of the “L” character at the chessboard.</p>
+<p>The knight has the special ability that it is the only chess piece that could move over the other chess pieces as it has to complete its total move that makes the L-shape on the chessboard.</p>
+<p>Knights are opposite to the bishops in terms of their characteristics. As the Bishops work well in the open positions, the Knights play an outstanding role in the closed positions.</p>
+<p>As per the Reinfeld values, the knight has a total of 3 value points.</p>
+<h3><span class="ez-toc-section" id="How_To_Move_The_Pawn"></span><span id="How_To_Move_The_Pawn_In_Chess" class="ez-toc-section"></span>How To Move The Pawn<span class="ez-toc-section-end"></span></h3>
+<p>Pawn are considered as the weakest piece in chess. The <a href="https://www.chessjournal.com/passed-pawn/">pawn</a> can only move up to only one square. However, they can move two squares forward if at their initial position (i,e, when the particular pawn hasn’t been moved yet), the pawns can move up to two squares.</p>
+<p>Pawns can capture only one square diagonally in front of it. But there is a restriction to the pawns in chess that they can not move backward, nor they could capture the square behind it. This becomes the weakest point for the pawn that if any piece is to be put on the square just in front of it, the pawn becomes dead virtually, as it can not move forward, nor it could capture that piece.</p>
+<p>As per the Reinfeld values, the Pawn has a total of 1 value point.</p>
+<h3><span class="ez-toc-section" id="How_To_Promote_A_Pawn"></span><span id="How_To_Promote_A_Pawn_In_Chess_(Pawn_Promotion)" class="ez-toc-section"></span>How To Promote A Pawn<span class="ez-toc-section-end"></span></h3>
+<p>Pawns have a unique ability that enabled them to be promoted to any of the other piece if they reach the back rank, except for a king. This is known as pawn promotion. It means that if any of our pawns reach to the opposite side of the chessboard (i.e. 8th rank for the white or 1st rank for the black) then the pawn can take place of any of the pieces (except the pawn itself and the king), and is said to have been promoted.</p>
+<p>Only a pawn could be promoted to be any of the chess pieces of its color.</p>
+<p>But there is a misconception existing in our chess society that it could be promoted to the exchanged piece and can have as many specific pieces as possible (maximum 10, as the Rook, Bishop, and Knights could be of that quantity).</p>
+<p>There is a major misconception and a strong as well as the strange belief in the chess society (mainly in the beginners) that the pawn would be changed to the piece that acquires that particular square at the initial position (i.e., the white pawn reaches on the a8 square would be promoted to the Rook, as this square is acquired by the Black rook at the initial position).</p>
+<p>The Pawn can be promoted to the desired piece at any of the least-squares.</p>
+<p>Usually, the strongest piece is to be promoted, depending on the particular situation.</p>
+<h2><span class="ez-toc-section" id="Special_Moves_in_Chess"></span>Special Moves in Chess<span class="ez-toc-section-end"></span></h2>
+<p>While learning the chess game, the beginning chess players quickly learn to play the fundamental moves of all the chess pieces and the capturing moves that we had discussed earlier in the second step.</p>
+<p>But that’s all. There are a few special chess moves or chess rules that are also considered as an exception and also different from the basic chess moves. Even these moves violate the fundamentals of chess.</p>
+<p>Sometimes, we are even forced to say that “Hey!, What’s The Nonsense”. But whatever they are, they make the chess game more fun and interesting in the real sense.</p>
+<p>So let’s discuss these special chess moves one-by-one.</p>
+<h3><span class="ez-toc-section" id="Castling"></span><span id="How_To_Do_Castling_In_Chess" class="ez-toc-section"></span>Castling<span class="ez-toc-section-end"></span></h3>
+<p><a href="https://www.chessjournal.com/chess-castling/">Castling is chess</a> is a special move where a rook and the king both move to different squares, depending on whether the player is <a href="https://www.chessjournal.com/castle-kingside-or-queenside/">castling kingside or queenside</a>, for the purpose of protecting the king. A player can only castle once in the game and neither the rook nor the king must not be moved ever before in that game.</p>
+<p>In the castling, the king can move the two squares towards the rook.</p>
+<p>This special move could be considered as one of the best defensive options in the crucial moment of the chess game.</p>
+<p>To enable the option of castling, there are certain requirements or the conditions that have to be met at first. These requirements are as follows.</p>
+<ul>
+<li>The king must not be moved in that particular game ever before, it must be king’s first move</li>
+<li>The Rook must not be moved in that particular game ever before, it must be rook’s first move</li>
+<li>If one of both the pieces were moved ever before, then the castling is not possible.</li>
+<li>All the squares between both the pieces (king and the rook) must be empty.</li>
+</ul>
+<p>That’s all we have discussed here how to do castling in chess.</p>
+<p>This how you could learn how to play castling in chess and could clear all your doubts from your mind regarding how to play chess.</p>
+<h3><span class="ez-toc-section" id="En_Passant"></span><span id="What_Is_En_Passant_In_Chess" class="ez-toc-section"></span>En Passant<span class="ez-toc-section-end"></span></h3>
+<p>Another special move called <a href="https://www.chessjournal.com/chess-en-passant/">En Passant</a>, is one you may have not seen before. It&#8217;s one of the boldest moves in the game.</p>
+<p>This is very important segment of how to play chess and in mastering the chess game.</p>
+<p>The en passant moves violate the basics of chess principles and laws and also based on its own chess rules and principle and are widely used chess rules in the chess world.</p>
+<p>In this chess move, when the opponent’s pawn placed the file adjacent to our pawn moves the two squares at first, then our pawn that is in the 5th or 4th rank for white and black respectively.</p>
+<p>Then the en passant move is played, in which our pawn captures that pawn in the square behind the square of the opponent’s pawn { i,e,. The pawn on the a7 square moves to the a5 square and our pawn is on the b5 square at that time then our pawn can capture that pawn on the a6 square }.</p>
+<p>But there is also a restriction that the en passant move could be done only the next move, otherwise, the player could no longer perform that move to that pawn in the rest of the game.</p>
+<h2><span class="ez-toc-section" id="Frequently_Asked_Questions"></span><span id="General_FAQs_Regarding_Chess" class="ez-toc-section"></span>Frequently Asked Questions<span class="ez-toc-section-end"></span></h2>
+<section class="sc_fs_faq sc_card">
+<div>
+<h3><span class="ez-toc-section" id="How_is_the_game_of_chess_played"></span><span id="How_is_the_game_of_chess_played" class="ez-toc-section"></span>How is the game of chess played?<span class="ez-toc-section-end"></span></h3>
+<div>
+<p>Each chess player begins with eight pawns in the second and seventh rank for white and black respectively.<br />
+The chess game starts with a total of 16 pawns, eight pawns for each side. It is a strategy game that is played on a chessboard.</p>
+</div>
+</div>
+</section>
+<section class="sc_fs_faq sc_card">
+<div>
+<h3><span class="ez-toc-section" id="What_are_the_basic_rules_of_chess"></span><span id="What_are_the_basic_rules_of_chess" class="ez-toc-section"></span>What are the basic rules of chess?<span class="ez-toc-section-end"></span></h3>
+<div>
+<p>There are different characteristics of all the 6 pieces. Therefore, all 6 kinds of chess pieces move in their different styles.</p>
+<p>The Chess pieces cannot jump or move over other pieces (with the exception the knight is only the piece that can jump over the other pieces) and cannot move to the square acquired by the piece of its similar color.<br />
+This how you can learn how to play chess in just 5 Minutes.</p>
+</div>
+</div>
+</section>
+<section class="sc_fs_faq sc_card">
+<div>
+<h3><span class="ez-toc-section" id="How_do_you_start_playing_chess"></span><span id="How_do_you_start_playing_chess" class="ez-toc-section"></span>How do you start playing chess?<span class="ez-toc-section-end"></span></h3>
+<div>
+<p>The Chess Game starts with the first move of white pieces. We can start playing chess by moving any chess pieces based on chess principles and chess moves.<br />
+The Chess game starts with the opening phase of the chess game, which is also known as the development phase in chess.</p>
+</div>
+</div>
+</section>
+<section class="sc_fs_faq sc_card">
+<div>
+<h3><span class="ez-toc-section" id="How_is_the_chessboard_arranged"></span><span id="How_is_the_chessboard_arranged" class="ez-toc-section"></span>How is the chessboard arranged?<span class="ez-toc-section-end"></span></h3>
+<div>
+<p>The chessboard is a dual-colored checkered game board used in the game of chess, consisting of a total of 64 squares i.e., white (light) and black (dark) of 32 squares each.</p>
+<p>At the beginning of the game, the chessboard is laid out so that each player has the white (or light) color square in the bottom right-hand side.</p>
+</div>
+</div>
+</section>
+<h2><span class="ez-toc-section" id="Conclusion"></span><span id="Conclusion" class="ez-toc-section"></span>Conclusion<span class="ez-toc-section-end"></span></h2>
+<p>In this guide, we went over all of the fundamental basics on how to play chess.</p>
+<p>I hope this chess guide helped you to understand how to play chess, and the basic chess moves. If you want to read other chess guides, the most helpful guides would be <a href="https://www.chessjournal.com/how-to-get-better-at-chess/">how to get better at chess</a> and <a href="https://www.chessjournal.com/how-to-stop-blundering-in-chess/">how to stop blundering</a>.</p>
+<p>If we didn&#8217;t include a topic here and think we should include it, let us know by submitting your thoughts to the <a href="https://www.chessjournal.com/make-a-suggestion/">suggestion form</a> and we&#8217;ll add it into the guide.</p>
+								
+								
+															</div>
+
+
+						</div>
+						
+												<div class="jeg_ad jeg_article jnews_content_bottom_ads "><div class='ads-wrapper  '></div></div><div class="jnews_prev_next_container"><div class="jeg_prevnext_post">
+            <a href="https://www.chessjournal.com/best-chess-games-of-alexandr-predke/" class="post prev-post">
+            <span class="caption">Previous Post</span>
+            <h3 class="post-title">10 Best Chess Games of Alexandr Predke</h3>
+        </a>
+    
+            <a href="https://www.chessjournal.com/chess-endgame-principles/" class="post next-post">
+            <span class="caption">Next Post</span>
+            <h3 class="post-title">5 Chess Endgame Principles To Master (For Beginners)</h3>
+        </a>
+    </div></div><div class="jnews_author_box_container ">
+	<div class="jeg_authorbox">
+		<div class="jeg_author_image">
+			<img alt='Editorial Staff' src='https://secure.gravatar.com/avatar/6d104fc48eda3b5e416b82ee27f0bfd9?s=80&#038;r=g' srcset='https://secure.gravatar.com/avatar/6d104fc48eda3b5e416b82ee27f0bfd9?s=160&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' decoding='async'/>		</div>
+		<div class="jeg_author_content">
+			<h3 class="jeg_author_name">
+				<a href="https://www.chessjournal.com/author/chess-journal/">
+					Editorial Staff				</a>
+			</h3>
+			<p class="jeg_author_desc">
+				The Chess Journal is all about bringing people interested in chess together to improve, learn, and become a chess genius.			</p>
+
+							<div class="jeg_author_socials">
+									</div>
+			
+		</div>
+	</div>
+</div><div class="jnews_related_post_container"><div  class="jeg_postblock_10 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_2o3 jnews_module_2457_0_65e6da90c9b64   " data-unique="jnews_module_2457_0_65e6da90c9b64">
+					<div class="jeg_block_heading jeg_block_heading_6 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Related<strong> Posts</strong></span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts jeg_load_more_flag"> <article class="jeg_post jeg_pl_lg_4 format-standard">
+                    <header class="jeg_postblock_heading">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.chessjournal.com/hypermodern-chess/">Hypermodern Chess: The Ultimate Guide</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.chessjournal.com/author/chess-journal/">Editorial Staff</a></div><div class="jeg_meta_date"><a href="https://www.chessjournal.com/hypermodern-chess/"><i class="fa fa-clock-o"></i> January 7, 2024</a></div></div>
+                    </header>
+                    <div class="jeg_postblock_content">
+                    <div class="jeg_thumb">
+                            
+                            <a href="https://www.chessjournal.com/hypermodern-chess/"><div class="thumbnail-container animate-lazy no_thumbnail size-500 "></div></a>
+                            <div class="jeg_post_category">
+                                <span><a href="https://www.chessjournal.com/category/chess-resources/" class="category-chess-resources">Chess Resources and Tools</a></span>
+                            </div>
+                        </div>
+                        <div class="jeg_post_excerpt">
+                            <p>...</p>
+                        </div>
+                        <a href="https://www.chessjournal.com/hypermodern-chess/" class="jeg_readmore">Read more</a>
+                    </div>
+                </article><article class="jeg_post jeg_pl_lg_4 format-standard">
+                    <header class="jeg_postblock_heading">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.chessjournal.com/chess-sandbagging/">Chess Sandbagging: Complete Guide On Sandbagging In Chess</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.chessjournal.com/author/chess-journal/">Editorial Staff</a></div><div class="jeg_meta_date"><a href="https://www.chessjournal.com/chess-sandbagging/"><i class="fa fa-clock-o"></i> January 1, 2024</a></div></div>
+                    </header>
+                    <div class="jeg_postblock_content">
+                    <div class="jeg_thumb">
+                            
+                            <a href="https://www.chessjournal.com/chess-sandbagging/"><div class="thumbnail-container animate-lazy no_thumbnail size-500 "></div></a>
+                            <div class="jeg_post_category">
+                                <span><a href="https://www.chessjournal.com/category/chess-resources/" class="category-chess-resources">Chess Resources and Tools</a></span>
+                            </div>
+                        </div>
+                        <div class="jeg_post_excerpt">
+                            <p>...</p>
+                        </div>
+                        <a href="https://www.chessjournal.com/chess-sandbagging/" class="jeg_readmore">Read more</a>
+                    </div>
+                </article> </div>
+                    <div class='module-overlay'>
+				    <div class='preloader_type preloader_dot'>
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+                    
+                    
+                </div>
+					
+					<script>var jnews_module_2457_0_65e6da90c9b64 = {"header_icon":"","first_title":"Related","second_title":" Posts","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","sponsor":false,"number_post":"2","post_offset":0,"unique_content":"disable","include_post":"","included_only":false,"exclude_post":2457,"include_category":"15","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"latest","date_format":"default","date_format_custom":"Y\/m\/d","excerpt_length":"0","excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":"2","pagination_scroll_limit":3,"ads_type":"disable","ads_position":1,"ads_random":"","ads_image":"","ads_image_tablet":"","ads_image_phone":"","ads_image_link":"","ads_image_alt":"","ads_image_new_tab":"","google_publisher_id":"","google_slot_id":"","google_desktop":"auto","google_tab":"auto","google_phone":"auto","content":"","ads_bottom_text":"","boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_10"};</script>
+				</div></div><div class="jnews_popup_post_container"></div><div class="jnews_comment_container"></div>					</div>
+
+				</div>
+				
+<div class="jeg_sidebar   col-md-4">
+    <div class="widget_text widget widget_custom_html" id="custom_html-5"><div class="textwidget custom-html-widget"><!--MONUMETRIC Top Sidebar D:300x250 T:300x250 M:300x250,320x50,320x100 START-->
+
+<div id="mmt-f5418a99-c364-4141-a761-5f0b640381b4"></div><script type="text/javascript" data-cfasync="false">$MMT = window.$MMT || {}; $MMT.cmd = $MMT.cmd || [];$MMT.cmd.push(function(){ $MMT.display.slots.push(["f5418a99-c364-4141-a761-5f0b640381b4"]); })</script>
+
+<!--MONUMETRIC Top Sidebar D:300x250 T:300x250 M:300x250,320x50,320x100  ENDS--></div></div><div class="widget_text widget widget_custom_html" id="custom_html-2"><div class="textwidget custom-html-widget"><div class="sidebarhelpwith widget"><div class="widgetheading">Must Read Chess Guides</div><div class="guideicons"><a class="guideicon checkmate-patterns" href="https://www.chessjournal.com/checkmate-patterns/">Checkmate Patterns</a><a class="guideicon chesspieces" href="https://www.chessjournal.com/chess-pieces/">Chess Pieces</a><a class="guideicon chessengines" href="https://www.chessjournal.com/chess-engines/">Chess Engines</a><a class="guideicon chessgambits" href="https://www.chessjournal.com/chess-gambits/">Chess Gambits</a><a class="guideicon chesslibrary" href="https://www.chessjournal.com/chess-books/">Chess Library</a><a class="guideicon chessopenings" href="https://www.chessjournal.com/chess-openings/">Chess Openings</a></div></div></div></div><div class="widget_text widget widget_custom_html" id="custom_html-6"><div class="textwidget custom-html-widget"><!--MONUMETRIC Middle Sidebar D:300x250,160x600,300x600 T:300x250,160x600,300x600 M:300x250,320x50,320x100 START-->
+
+<div id="mmt-ee882775-0f0e-4eb5-b130-5df091fe29ad"></div><script type="text/javascript" data-cfasync="false">$MMT = window.$MMT || {}; $MMT.cmd = $MMT.cmd || [];$MMT.cmd.push(function(){ $MMT.display.slots.push(["ee882775-0f0e-4eb5-b130-5df091fe29ad"]); })</script>
+
+<!--MONUMETRIC Middle Sidebar D:300x250,160x600,300x600 T:300x250,160x600,300x600 M:300x250,320x50,320x100  ENDS--></div></div><div class="widget_text widget widget_custom_html" id="custom_html-3"><div class="textwidget custom-html-widget"><div class="blog-slider__container"><div class="guides-header"><p><strong>Chess Guides</strong></p></div><div class="blogSlides fade" style="display: block;"><ul><li><a href="https://www.chessjournal.com/how-to-get-better-at-chess/" tabindex="0">7 Tips on How To Get Better at Chess</a></li><li><a href="https://www.chessjournal.com/how-to-stop-blundering-in-chess/" tabindex="0">7 Tips on How To Stop Blundering in Chess</a></li><li><a href="https://www.chessjournal.com/does-chess-make-you-smarter/" tabindex="0">Does Chess Make You Smarter?</a></li></ul><div class="blog-slider__text"></div></div><div class="blogSlides fade" style="display: none;"><ul><li><a href="https://www.chessjournal.com/does-age-affect-chess-ability/" tabindex="0">How Does Age Affect Chess Abilities</a></li></ul><div class="blog-slider__text"></div></div><div class="blogSlider__dots" style="text-align:center"><span class="blogSlider__dots--dot active" onclick="currentSlide(1)"></span><span class="blogSlider__dots--dot" onclick="currentSlide(2)"></span></div></div></div></div><div class="widget_text widget widget_custom_html" id="custom_html-4"><div class="textwidget custom-html-widget"><div id="mmt-5fe3894b-4dff-4e7e-bb5d-2a5c7f09cdfa"></div><script type="text/javascript" data-cfasync="false">$MMT = window.$MMT || {}; $MMT.cmd = $MMT.cmd || [];$MMT.cmd.push(function(){ $MMT.display.slots.push(["5fe3894b-4dff-4e7e-bb5d-2a5c7f09cdfa"]); }) </script></div></div></div>			</div>
+
+		
+		<div class="jeg_ad jeg_article jnews_article_bottom_ads">
+			<div class='ads-wrapper  '></div>		</div>
+
+	</div>
+
+</div>
+                </div>
+            </div>
+
+            <div id="post-body-class" class="post-template-default single single-post postid-2457 single-format-standard wp-embed-responsive jeg_toggle_light jeg_single_tpl_2 jnews jsc_normal"></div>
+
+            
+        </div>
+
+        <div class="post-ajax-overlay">
+    <div class="preloader_type preloader_dot">
+        <div class="newsfeed_preloader jeg_preloader dot">
+            <span></span><span></span><span></span>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader circle">
+            <div class="jnews_preloader_circle_outer">
+                <div class="jnews_preloader_circle_inner"></div>
+            </div>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader square">
+            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+        </div>
+    </div>
+</div>
+    </div>
+        <div class="footer-holder" id="footer" data-id="footer">
+                        <div class="jeg_footer_instagram_wrapper jeg_container">
+                            </div>
+                    <div class="jeg_footer_tiktok_wrapper jeg_container">
+                            </div>
+        
+<div class="jeg_footer jeg_footer_5 normal">
+    <div class="jeg_footer_container jeg_container">
+
+        <div class="jeg_footer_content">
+            <div class="container">
+
+                
+                <div class="jeg_footer_primary clearfix">
+                    <!-- Footer Widget: Column 1 -->
+                    <div class="col-md-4 footer_column">
+                        <div class="footer_widget widget_jnews_about" id="jnews_about-3"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>About The Chess Journal</span></h3></div>        <div class="jeg_about ">
+									            <p>The Chess Journal is a free resource for chess players to learn and master the ultimate game.</p>
+
+			        </div>
+		</div>                    </div>
+
+                    <!-- Footer Widget: Column 2 -->
+                    <div class="col-md-4 footer_column">
+                        <div class="footer_widget widget_nav_menu" id="nav_menu-3"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>Support</span></h3></div><div class="menu-main-footer-container"><ul id="menu-main-footer" class="menu"><li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="https://www.chessjournal.com/about/">About The Chess Journal</a></li>
+<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://www.chessjournal.com/legal/">Terms of Use and Policies</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94"><a href="https://www.chessplayersworld.com/legal#cookie-policy/">Cookies</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"><a href="https://www.chessplayersworld.com/legal#privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-96" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a href="https://www.chessplayersworld.com/legal#terms/">Terms</a></li>
+</ul></div></div>                    </div>
+
+                    <!-- Footer Widget: Column 3 -->
+                    <div class="col-md-4 footer_column">
+                        <div class="footer_widget widget_nav_menu" id="nav_menu-4"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>Categories</span></h3></div><div class="menu-categories-container"><ul id="menu-categories" class="menu"><li id="menu-item-1396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1396"><a href="https://www.chessjournal.com/category/chess-strategy/">Chess Strategy</a></li>
+<li id="menu-item-1399" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1399"><a href="https://www.chessjournal.com/category/chess-players/">Chess Players</a></li>
+<li id="menu-item-8240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8240"><a href="https://www.chessjournal.com/category/chess-programming/">Chess Programming</a></li>
+<li id="menu-item-8239" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-8239"><a href="https://www.chessjournal.com/category/chess-resources/">Chess Resources and Tools</a></li>
+</ul></div></div>                    </div>
+                </div>
+
+                
+                <div class="jeg_footer_secondary clearfix">
+                    <div class="footer_center">
+                        <p class="copyright"> © 2023 - The Chess Journal - All Rights Reserved</p>
+                    </div>
+                </div>
+
+                
+            </div>
+        </div>
+
+    </div>
+</div><!-- /.footer -->        </div>
+
+        <div class="jscroll-to-top">
+        	<a href="#back-to-top" class="jscroll-to-top_link"><i class="fa fa-angle-up"></i></a>
+        </div>
+    </div>
+
+    <!-- Mobile Navigation
+    ============================================= -->
+<div id="jeg_off_canvas" class="normal">
+    <a href="#" class="jeg_menu_close"><i class="jegicon-cross"></i></a>
+    <div class="jeg_bg_overlay"></div>
+    <div class="jeg_mobile_wrapper">
+        <div class="nav_wrap">
+    <div class="item_main">
+        <!-- Search Form -->
+<div class="jeg_aside_item jeg_search_wrapper jeg_search_no_expand round">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://www.chessjournal.com/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div><div class="jeg_aside_item">
+    <ul class="jeg_mobile_menu sf-js-hover"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-455"><a href="https://www.chessjournal.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-808"><a href="https://www.chessjournal.com/start-here/">Start Here</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5788"><a href="https://www.chessjournal.com/chess-board-set-up/">How To Set Up a Chess Board</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5726"><a href="https://www.chessjournal.com/how-to-solve-chess-puzzles/">How To Solve Chess Puzzles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5725"><a href="https://www.chessjournal.com/chess-notation/">How To Read Chess Notation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5728"><a href="https://www.chessjournal.com/chess-rules/">Complete List of Official Rules of Chess</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1145"><a href="https://www.chessjournal.com/chess-terms/">Chess Terminology</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-453"><a href="https://www.chessjournal.com/category/chess-strategy/">Strategy</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452"><a href="https://www.chessjournal.com/category/chess-strategy/chess-openings/">Openings</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1611"><a href="https://www.chessjournal.com/category/chess-strategy/checkmate-patterns/">Checkmates Patterns</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5439"><a href="https://www.chessjournal.com/category/chess-tactics/">Tactics</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-809"><a href="https://www.chessjournal.com/category/chess-players/">Players</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-5438"><a href="https://www.chessjournal.com/category/chess-resources/">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5727"><a href="https://www.chessjournal.com/chess-books/">Best Chess Books By Rating Bracket</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6106"><a href="https://www.chessjournal.com/books-mentioned-in-the-queens-gambit/">Books Mentioned In The Queen’s Gambit on Netflix (Real and Fake Books)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6107"><a href="https://www.chessjournal.com/best-chess-books/">7 Best Chess Books For Beginners To Cut The Learning Curve</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4541"><a href="https://www.chessjournal.com/about/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6108"><a href="https://www.chessjournal.com/chess-editor/">Editor</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5729"><a href="https://www.chessjournal.com/newsletter/">Sign Up</a></li>
+</ul></div>    </div>
+    <div class="item_bottom">
+        <div class="jeg_aside_item socials_widget square">
+    </div><div class="jeg_aside_item jeg_aside_copyright">
+	<p>© 2023 - The Chess Journal - All Rights Reserved</p>
+</div>    </div>
+</div>    </div>
+</div><script type="text/javascript">var jfla = []</script><div class="jeg_read_progress_wrapper"></div><script type="text/javascript" src="https://www.chessjournal.com/wp-content/plugins/very-simple-contact-form/js/vscf-reset.js?ver=6.4.3" id="vscf-reset-script-js"></script>
+<script type="text/javascript" id="ez-toc-scroll-scriptjs-js-extra">
+/* <![CDATA[ */
+var eztoc_smooth_local = {"scroll_offset":"30","add_request_uri":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/plugins/easy-table-of-contents/assets/js/smooth_scroll.min.js?ver=2.0.63" id="ez-toc-scroll-scriptjs-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js?ver=2.2.1" id="ez-toc-js-cookie-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2" id="ez-toc-jquery-sticky-kit-js"></script>
+<script type="text/javascript" id="ez-toc-js-js-extra">
+/* <![CDATA[ */
+var ezTOC = {"smooth_scroll":"1","visibility_hide_by_default":"","scroll_offset":"30","fallbackIcon":"<span class=\"\"><span class=\"eztoc-hide\" style=\"display:none;\">Toggle<\/span><span class=\"ez-toc-icon-toggle-span\"><svg style=\"fill: #999;color:#999\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"><\/path><\/svg><svg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"><path d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"\/><\/svg><\/span><\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.63-1709399526" id="ez-toc-js-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/themes/chess-journal/chesstoc/script.js?ver=6.4.3" id="chesstoc-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/themes/chess-journal/littlefoot/js/littlefoot.js?ver=6.4.3" id="littlefootjs-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/themes/chess-journal/expand-collapse/js/expand.js?ver=6.4.3#asyncload" id="expandjs-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/themes/chess-journal/changelog/js/changelog.js?ver=6.4.3" id="changelogjs-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/themes/chess-journal/chess-journal-slider/js/chess-journal-slider.js?ver=6.4.3#asyncload" id="chessjournalsliderjs-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-includes/js/comment-reply.min.js?ver=6.4.3" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" id="jnews-frontend-js-extra">
+/* <![CDATA[ */
+var jnewsoption = {"login_reload":"https:\/\/www.chessjournal.com\/how-to-play-chess","popup_script":"disable","single_gallery":"","ismobile":"","isie":"","sidefeed_ajax":"","language":"en_US","module_prefix":"jnews_module_ajax_","live_search":"","postid":"2457","isblog":"1","admin_bar":"0","follow_video":"","follow_position":"top_right","rtl":"0","gif":"","lang":{"invalid_recaptcha":"Invalid Recaptcha!","empty_username":"Please enter your username!","empty_email":"Please enter your email!","empty_password":"Please enter your password!"},"recaptcha":"0","site_slug":"\/","site_domain":"www.chessjournal.com","zoom_button":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=1.0.0" id="jnews-frontend-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/themes/jnews/assets/js/html5shiv.min.js?ver=1.0.0" id="html5shiv-js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/plugins/highlighting-code-block/assets/js/prism.js?ver=2.0.1" id="hcb-prism-js"></script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-includes/js/clipboard.min.js?ver=2.0.11" id="clipboard-js"></script>
+<script type="text/javascript" id="hcb-script-js-extra">
+/* <![CDATA[ */
+var hcbVars = {"showCopyBtn":"1","copyBtnLabel":"Copy code to clipboard"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.chessjournal.com/wp-content/plugins/highlighting-code-block/build/js/hcb_script.js?ver=2.0.1" id="hcb-script-js"></script>
+
+<script data-cfasync='false'  defer src='//monu.delivery/site/1/b/e9c4c5-3c46-498b-a58e-66cf2ffa1ad8.js' type='text/javascript'></script>
+<div class="jeg_ad jnews_mobile_sticky_ads "></div><script>
+tocbot.init({
+headingsOffset: 100,
+scrollSmoothOffset: -10,
+fixedSidebarOffset: -1000,
+tocSelector: '.js-toc',
+contentSelector: '.js-toc-content',
+headingSelector: 'h1, h2, h3',
+positionFixedSelector: '.pt5',
+positionFixedClass: 'is-position-fixed',
+fixedSidebarOffset: '400',
+hasInnerContainers: true,
+});
+
+</script><script type="text/javascript">;!function(){"use strict";window.jnews=window.jnews||{},window.jnews.first_load=window.jnews.first_load||{},window.jnews.first_load=function(){var e=this,t=jnews.library,n="object"==typeof jnews&&"object"==typeof jnews.library;e.data=null,e.run_ajax=!0,e.run_loginregister=!0,e.clear=function(){e.run_ajax=!0,e.run_loginregister=!0,e.data=null},e.init=function(){n&&(t.globalBody.querySelectorAll(".jeg_popup_account").length&&jnews.loginregister&&e.run_loginregister&&(e.run_loginregister=!1,jnews.loginregister.init(),jnews.loginregister.hook_form()),jfla.length&&e.run_ajax&&(e.run_ajax=!1,e.do_ajax({action:"jnews_first_load_action",jnews_id:jnewsoption.postid,load_action:jfla})))},e.update_counter=function(){if(n){var o={total_view:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_views_count .counts"),total_share:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_share_count .counts"),total_comment:t.globalBody.querySelectorAll(".jeg_meta_comment a span")};t.forEach(Object.entries(e.data.counter),(function([e,n]){o[e].length&&t.forEach(o[e],(function(e,o){t.setText(e,n)}))}))}},e.do_ajax=function(o){if(n){var a=new XMLHttpRequest;a.onreadystatechange=function(){XMLHttpRequest.DONE===a.readyState&&200==a.status&&(e.data=JSON.parse(a.responseText),e.data.counter&&"object"==typeof e.data.counter&&e.update_counter())},a.open("POST",jnews_ajax_url,!0),a.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),a.send(t.httpBuildQuery(o))}}},window.jnews.first_load=new window.jnews.first_load,jnews.first_load.init()}();</script></body>
+</html>

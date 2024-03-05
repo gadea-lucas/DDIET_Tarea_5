@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Palabras para Julia &#8211; José Agustín Goytisolo &#8211; PoeMAS</title>
+<meta name='robots' content='noindex, nofollow' />
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//unpkg.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link href='https://fonts.googleapis.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="PoeMAS &raquo; Feed" href="https://poemas.uned.es/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/poemas.uned.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://poemas.uned.es/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cmplz-general-css' href='https://poemas.uned.es/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1709191289' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='https://poemas.uned.es/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.4.0' media='all' />
+<style id='generate-style-inline-css'>
+body{background-color:var(--base-3);color:var(--contrast);}a{color:var(--accent);}a{text-decoration:underline;}.entry-title a, .site-branding a, a.button, .wp-block-button__link, .main-navigation a{text-decoration:none;}a:hover, a:focus, a:active{color:var(--contrast);}.grid-container{max-width:1400px;}.wp-block-group__inner-container{max-width:1400px;margin-left:auto;margin-right:auto;}:root{--contrast:#222222;--contrast-2:#575760;--contrast-3:#b2b2be;--base:#f0f0f0;--base-2:#f7f8f9;--base-3:#ffffff;--accent:#1e73be;}:root .has-contrast-color{color:var(--contrast);}:root .has-contrast-background-color{background-color:var(--contrast);}:root .has-contrast-2-color{color:var(--contrast-2);}:root .has-contrast-2-background-color{background-color:var(--contrast-2);}:root .has-contrast-3-color{color:var(--contrast-3);}:root .has-contrast-3-background-color{background-color:var(--contrast-3);}:root .has-base-color{color:var(--base);}:root .has-base-background-color{background-color:var(--base);}:root .has-base-2-color{color:var(--base-2);}:root .has-base-2-background-color{background-color:var(--base-2);}:root .has-base-3-color{color:var(--base-3);}:root .has-base-3-background-color{background-color:var(--base-3);}:root .has-accent-color{color:var(--accent);}:root .has-accent-background-color{background-color:var(--accent);}body, button, input, select, textarea{font-family:Nunito, sans-serif;}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:var(--base-3);}.main-title a,.main-title a:hover{color:var(--contrast);}.site-description{color:var(--contrast-2);}.mobile-menu-control-wrapper .menu-toggle,.mobile-menu-control-wrapper .menu-toggle:hover,.mobile-menu-control-wrapper .menu-toggle:focus,.has-inline-mobile-toggle #site-navigation.toggled{background-color:rgba(0, 0, 0, 0.02);}.main-navigation,.main-navigation ul ul{background-color:var(--base-3);}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:var(--contrast);}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:var(--accent);}button.menu-toggle:hover,button.menu-toggle:focus{color:var(--contrast);}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:var(--accent);}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:var(--accent);}.main-navigation ul ul{background-color:var(--base);}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:var(--base-3);}.entry-title a{color:var(--contrast);}.entry-title a:hover{color:var(--contrast-2);}.entry-meta{color:var(--contrast-2);}.sidebar .widget{background-color:var(--base-3);}.footer-widgets{background-color:var(--base-3);}.site-info{background-color:var(--base-3);}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:var(--contrast);background-color:var(--base-2);border-color:var(--base);}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:var(--contrast);background-color:var(--base-2);border-color:var(--contrast-3);}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#55555e;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffffff;background-color:#3f4047;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}:root{--gp-search-modal-bg-color:var(--base-3);--gp-search-modal-text-color:var(--contrast);--gp-search-modal-overlay-bg-color:rgba(0,0,0,0.2);}@media (max-width:768px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:var(--contrast);}}.nav-below-header .main-navigation .inside-navigation.grid-container, .nav-above-header .main-navigation .inside-navigation.grid-container{padding:0px 20px 0px 20px;}.site-main .wp-block-group__inner-container{padding:40px;}.separate-containers .paging-navigation{padding-top:20px;padding-bottom:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:20px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:20px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:30px;}.site-main .wp-block-group__inner-container{padding:30px;}.inside-top-bar{padding-right:30px;padding-left:30px;}.inside-header{padding-right:30px;padding-left:30px;}.widget-area .widget{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.footer-widgets-container{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.inside-site-info{padding-right:30px;padding-left:30px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}.one-container .site-main .paging-navigation{margin-bottom:20px;}}/* End cached CSS */.is-right-sidebar{width:30%;}.is-left-sidebar{width:30%;}.site-content .content-area{width:100%;}@media (max-width:768px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}.has-inline-mobile-toggle .mobile-menu-control-wrapper{display:flex;flex-wrap:wrap;}.has-inline-mobile-toggle .inside-header{flex-direction:row;text-align:left;flex-wrap:wrap;}.has-inline-mobile-toggle .header-widget,.has-inline-mobile-toggle #site-navigation{flex-basis:100%;}.nav-float-left .has-inline-mobile-toggle #site-navigation{order:10;}}
+.elementor-template-full-width .site-content{display:block;}
+</style>
+<link rel='stylesheet' id='generate-child-css' href='https://poemas.uned.es/wp-content/themes/generatepress_child/style.css?ver=1706860382' media='all' />
+<link rel='stylesheet' id='generate-google-fonts-css' href='https://fonts.googleapis.com/css?family=Nunito%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=3.4.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://poemas.uned.es/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.19.4' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://poemas.uned.es/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css' href='https://poemas.uned.es/wp-content/uploads/elementor/css/post-5.css?ver=1709191709' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://poemas.uned.es/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.19.3' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://poemas.uned.es/wp-content/uploads/elementor/css/global.css?ver=1709191710' media='all' />
+<link rel='stylesheet' id='elementor-post-28631-css' href='https://poemas.uned.es/wp-content/uploads/elementor/css/post-28631.css?ver=1709191710' media='all' />
+<link rel='stylesheet' id='elementor-post-28646-css' href='https://poemas.uned.es/wp-content/uploads/elementor/css/post-28646.css?ver=1709538993' media='all' />
+<link rel='stylesheet' id='elementor-post-57529-css' href='https://poemas.uned.es/wp-content/uploads/elementor/css/post-57529.css?ver=1709192187' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CNunito%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.4.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src="https://poemas.uned.es/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://poemas.uned.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="//unpkg.com/@popperjs/core@2" id="popper_js-js"></script>
+<script src="//unpkg.com/tippy.js@6" id="tippy_js-js"></script>
+<link rel="https://api.w.org/" href="https://poemas.uned.es/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://poemas.uned.es/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.3" />
+<link rel="canonical" href="https://poemas.uned.es/poema/palabras-para-julia-jose-agustin-goytisolo/" />
+<link rel='shortlink' href='https://poemas.uned.es/?p=103073' />
+<link rel="alternate" type="application/json+oembed" href="https://poemas.uned.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpoemas.uned.es%2Fpoema%2Fpalabras-para-julia-jose-agustin-goytisolo%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://poemas.uned.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpoemas.uned.es%2Fpoema%2Fpalabras-para-julia-jose-agustin-goytisolo%2F&#038;format=xml" />
+			<style>.cmplz-hidden {
+					display: none !important;
+				}</style><meta name="generator" content="Elementor 3.19.4; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<link rel="icon" href="https://poemas.uned.es/wp-content/uploads/2024/02/cropped-poemas-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://poemas.uned.es/wp-content/uploads/2024/02/cropped-poemas-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://poemas.uned.es/wp-content/uploads/2024/02/cropped-poemas-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://poemas.uned.es/wp-content/uploads/2024/02/cropped-poemas-favicon-270x270.png" />
+</head>
+
+<body data-cmplz=1 class="poema-template-default single single-poema postid-103073 wp-embed-responsive no-sidebar nav-float-right separate-containers header-aligned-left dropdown-hover elementor-default elementor-template-full-width elementor-kit-5 elementor-page-57529 full-width-content" itemtype="https://schema.org/Blog" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Saltar al contenido">Saltar al contenido</a>		<header data-elementor-type="header" data-elementor-id="28631" class="elementor elementor-28631 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-1790e42 e-flex e-con-boxed e-con e-parent" data-id="1790e42" data-element_type="container" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_effects_offset&quot;:10,&quot;content_width&quot;:&quot;boxed&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-2233bd2 e-flex e-con-boxed e-con e-child" data-id="2233bd2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8d04d2a elementor-view-default elementor-widget elementor-widget-icon" data-id="8d04d2a" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="https://poemas.uned.es">
+			<svg xmlns="http://www.w3.org/2000/svg" id="Capa_2" data-name="Capa 2" viewBox="0 0 183 90.24"><defs><style>      .cls-1 {        stroke-width: 0px;      }    </style></defs><g id="Capa_2-2" data-name="Capa 2"><g><rect class="cls-1" x="81.42" y="-56.83" width="3" height="174.86" transform="translate(26.39 98.54) rotate(-70.5)"></rect><rect class="cls-1" x="14.07" y="51.79" width="174.87" height="3" transform="translate(-12.62 42.39) rotate(-22.24)"></rect><path class="cls-1" d="M7.82,27.28c.82-1.08,2.18-1.9,3.8-1.9,2.58,0,4.28,2.07,4.28,4.4s-1.84,4.4-4.42,4.4c-1.36,0-2.75-.68-3.66-1.9v-4.99h0ZM7.82,35.27c1.08.93,2.44,1.44,4.03,1.44,1.19,0,2.44-.34,3.35-.88,2.01-1.19,3.4-3.4,3.4-6.06s-1.42-4.9-3.43-6.1c-.91-.54-2.01-.85-3.26-.85-1.5,0-2.95.45-4.17,1.5v-1.22h-2.6v20.12h2.69v-7.96h0Z"></path><path class="cls-1" d="M31.55,56.95c0-2.44,1.73-4.39,4.2-4.39s4.2,1.96,4.2,4.39-1.73,4.4-4.2,4.4-4.2-1.96-4.2-4.4M28.86,56.95c0,3.97,2.94,6.94,6.89,6.94s6.89-2.97,6.89-6.94-2.94-6.94-6.89-6.94-6.89,2.97-6.89,6.94"></path><path class="cls-1" d="M69.41,38.75c1.59,0,3.12,1.19,3.52,2.9h-7.26c.45-1.73,2.01-2.9,3.74-2.9M75.7,43.91c.03-.25.03-.45.03-.57,0-3.94-2.69-6.94-6.41-6.94s-6.49,2.95-6.49,6.94,3,6.94,6.88,6.94c2.72,0,4.62-1.22,5.61-2.49l-1.76-1.67c-.77.85-1.84,1.82-3.83,1.82-2.32,0-4.17-1.79-4.31-4.03h10.28Z"></path><polygon class="cls-1" points="165.83 42.43 165.83 44.37 169.62 44.37 169.62 48.16 171.56 48.16 171.56 44.37 175.35 44.37 175.35 42.43 171.56 42.43 171.56 38.64 169.62 38.64 169.62 42.43 165.83 42.43"></polygon><path class="cls-1" d="M147.57,86.01c-.42.52-1,.79-1.71.79-1.23,0-1.96-.96-2.01-2.09h4.35c0-.1,0-.19,0-.23,0-1.48-1.05-2.6-2.48-2.6-1.51,0-2.55,1.25-2.55,2.78,0,1.66,1.18,2.78,2.67,2.78,1.02,0,1.78-.48,2.17-.98l-.47-.45h.02ZM145.74,82.5c.92,0,1.65.67,1.79,1.6h-3.63c.2-.92.9-1.6,1.85-1.6M142.21,81.99h-1.81v-1.45h-.67v1.45h-1.5v.63h1.5v2.9c0,.63.13,1.02.36,1.31.36.45.93.61,1.42.61.21,0,.51-.03.69-.09l-.12-.61c-.2.06-.42.07-.57.07-.4,0-.7-.14-.89-.37-.14-.17-.23-.41-.23-.89v-2.92h1.81v-.63h0ZM133.13,81.99h-.64v5.33h.66v-3.7c.41-.7,1.08-1.11,1.85-1.11.58,0,1.09.27,1.39.71.19.27.3.61.3,1.31v2.79h.66v-2.84c0-.88-.16-1.32-.45-1.71-.43-.58-1.12-.9-1.89-.9s-1.45.29-1.88.86v-.75h0ZM130.33,86.01c-.42.52-1.01.79-1.71.79-1.23,0-1.96-.96-2.01-2.09h4.35c0-.1,0-.19,0-.23,0-1.48-1.05-2.6-2.48-2.6-1.51,0-2.55,1.25-2.55,2.78,0,1.66,1.18,2.78,2.67,2.78,1.02,0,1.78-.48,2.17-.98l-.47-.45h.02ZM128.5,82.5c.92,0,1.65.67,1.79,1.6h-3.64c.2-.92.9-1.6,1.85-1.6M123.77,85.63c-.42.73-1.12,1.17-1.9,1.17-.46,0-.86-.16-1.2-.4-.52-.36-.84-1.02-.84-1.75,0-.69.28-1.31.75-1.7.37-.3.84-.46,1.29-.46.98,0,1.68.68,1.92,1.08v2.06h-.02ZM124.44,87.29v-5.3h-.64v.74c-.48-.54-1.18-.85-1.95-.85-.64,0-1.25.23-1.7.59-.61.51-.99,1.3-.99,2.19,0,.96.43,1.79,1.13,2.28.53.37,1.09.5,1.59.5.83,0,1.5-.36,1.89-.88v.76c0,.67-.05,1.05-.21,1.38-.27.53-.82.91-1.72.91-.85,0-1.51-.4-1.9-1.03l-.52.39c.54.81,1.4,1.27,2.42,1.27,1.17,0,1.93-.5,2.31-1.23.22-.42.29-.94.29-1.72M110.63,86.67c.61.49,1.34.76,2.22.76,1.08,0,2.05-.64,2.05-1.68,0-1.13-1.13-1.52-2-1.74-.55-.14-.98-.27-.98-.64,0-.43.46-.69.99-.69.44,0,.84.17,1.18.43l.57-.79c-.43-.35-1.01-.61-1.82-.61-.98,0-2.03.54-2.03,1.72,0,.77.59,1.19,1.26,1.41.81.27,1.72.3,1.72.94,0,.43-.48.69-.96.69-.55,0-1.11-.21-1.62-.61l-.57.82h-.01ZM108.06,85.59c-.37.5-.95.79-1.51.79-1.06,0-1.82-.83-1.82-1.81s.7-1.81,1.76-1.81c.67,0,1.23.34,1.57.78v2.06h0ZM108.09,87.31h1.07v-5.49h-1.07v.5c-.5-.43-1.1-.62-1.72-.62-.51,0-.97.13-1.34.35-.83.49-1.41,1.41-1.41,2.51s.57,2.01,1.4,2.5c.37.22.89.36,1.38.36.65,0,1.25-.22,1.69-.62v.5h0ZM106.79,80.88l1.23-1.75h-1.23l-.76,1.75h.76ZM93.04,81.81v5.49h1.11v-3.77c.32-.38.87-.78,1.54-.78.42,0,.82.19,1.06.48.2.23.32.54.32,1.1v2.98h1.11v-2.81c0-.38-.04-.7-.09-.97.36-.37.88-.78,1.67-.78.41,0,.78.19,1.03.48.2.23.32.54.32,1.1v2.98h1.11v-2.81c0-.92-.16-1.46-.5-1.88-.45-.57-1.17-.92-1.95-.92-.99,0-1.59.41-2.09.91-.45-.55-1.13-.91-1.94-.91-.75,0-1.39.4-1.61.64v-.53h-1.09Z"></path><path class="cls-1" d="M151.9,72.97c-.42.73-1.12,1.17-1.9,1.17-.46,0-.86-.16-1.2-.4-.52-.36-.84-1.02-.84-1.75,0-.69.28-1.31.75-1.7.37-.3.84-.46,1.29-.46.98,0,1.68.68,1.92,1.07v2.06h-.02ZM152.57,74.65v-5.33h-.64v.74c-.48-.54-1.18-.85-1.95-.85-.64,0-1.25.23-1.7.6-.61.51-.99,1.3-.99,2.19,0,.96.43,1.79,1.13,2.28.53.37,1.09.5,1.59.5.83,0,1.52-.36,1.92-.9v.78h.64ZM146.59,69.23c-.07-.01-.3-.02-.4-.02-.83,0-1.44.44-1.68.82v-.7h-.67v5.33h.67v-3.63c.28-.69.95-1.18,1.67-1.18.04,0,.24,0,.32.01l.09-.62h0ZM141.19,72.97c-.42.73-1.12,1.17-1.9,1.17-.46,0-.87-.16-1.2-.4-.52-.36-.84-1.02-.84-1.75,0-.69.28-1.31.75-1.7.37-.3.84-.46,1.29-.46.98,0,1.68.68,1.92,1.07v2.06h-.02ZM141.85,74.65v-5.33h-.64v.74c-.48-.54-1.18-.85-1.95-.85-.64,0-1.25.23-1.7.6-.61.51-.99,1.3-.99,2.19,0,.96.43,1.79,1.13,2.28.53.37,1.09.5,1.59.5.83,0,1.52-.36,1.92-.9v.78h.64ZM130.78,70.91c.23-.4.94-1.08,1.92-1.08.44,0,.91.15,1.29.46.47.39.75,1.01.75,1.7,0,.74-.33,1.39-.84,1.75-.34.23-.75.4-1.2.4-.78,0-1.49-.44-1.91-1.17v-2.06h0ZM130.78,77.45v-3.56c.4.51,1.06.88,1.89.88.5,0,1.06-.13,1.59-.5.7-.49,1.13-1.32,1.13-2.28,0-.89-.38-1.67-.99-2.19-.44-.36-1.05-.6-1.7-.6-.77,0-1.47.32-1.95.85v-.73h-.64v8.13h.67ZM124.31,72.96c-.42.73-1.12,1.17-1.91,1.17-.46,0-.86-.16-1.2-.4-.51-.36-.84-1.02-.84-1.75,0-.69.28-1.31.75-1.7.37-.3.84-.46,1.29-.46.98,0,1.68.68,1.92,1.07v2.06h-.01ZM124.97,74.64v-5.33h-.64v.74c-.48-.54-1.18-.85-1.95-.85-.64,0-1.25.23-1.7.6-.61.51-.99,1.3-.99,2.19,0,.96.43,1.79,1.13,2.28.53.37,1.09.5,1.59.5.83,0,1.52-.36,1.92-.9v.78h.64ZM118.39,66.81l-.76,1.64h.53l1.11-1.64h-.88ZM117.5,74.64h.67v-5.33h-.67v5.33ZM112.01,74c.47.43,1.18.76,2.07.76,1.01,0,1.85-.61,1.85-1.6,0-1.87-3.07-1.24-3.07-2.42,0-.62.62-.91,1.18-.91s.88.14,1.33.43l.35-.55c-.4-.27-.99-.51-1.72-.51-.9,0-1.81.58-1.81,1.55,0,1.82,3.07,1.08,3.07,2.44,0,.56-.56.93-1.23.93-.6,0-1.16-.26-1.61-.64l-.41.51h0ZM108.41,70c.65,0,1.29.49,1.45,1.19h-2.99c.19-.71.83-1.19,1.54-1.19M111.01,72.13c.01-.11.01-.19.01-.23,0-1.62-1.11-2.86-2.64-2.86s-2.67,1.21-2.67,2.86,1.24,2.86,2.84,2.86c1.12,0,1.9-.5,2.31-1.03l-.73-.69c-.32.35-.76.75-1.58.75-.96,0-1.72-.74-1.78-1.66h4.24ZM100.08,71.9c0-1.01.71-1.81,1.73-1.81s1.73.81,1.73,1.81-.71,1.81-1.73,1.81-1.73-.81-1.73-1.81M98.97,71.9c0,1.64,1.21,2.86,2.84,2.86s2.84-1.23,2.84-2.86-1.21-2.86-2.84-2.86-2.84,1.23-2.84,2.86M96.17,71.02c.8,0,1.31-.2,1.71-.54.49-.42.81-1.04.81-1.74s-.32-1.32-.81-1.74c-.4-.34-.91-.54-1.71-.54h-3.1v8.18h1.17v-3.62h1.93ZM94.24,69.91v-2.34h1.87c.56,0,.87.14,1.08.36.2.21.33.49.33.81s-.13.6-.33.81c-.21.22-.51.36-1.08.36h-1.87Z"></path></g></g></svg>			</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1b838af elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="1b838af" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://poemas.uned.es/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-1b838af" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-57174"><a href="https://poemas.uned.es/conoce-poemas/" class="elementor-item">Conoce PoeMAS</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57278"><a href="/conoce-poemas/#que-es" class="elementor-sub-item elementor-item-anchor">¿Qué es?</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57279"><a href="/conoce-poemas/#objetivos" class="elementor-sub-item elementor-item-anchor">Objetivos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67092"><a href="https://poemas.uned.es/conoce-poemas/#equipo" class="elementor-sub-item elementor-item-anchor">¿Quiénes somos?</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28683"><a href="#" class="elementor-item elementor-item-anchor">Archivo</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57820"><a href="https://poemas.uned.es/canciones/" class="elementor-sub-item">Canciones</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57819"><a href="https://poemas.uned.es/poemas/" class="elementor-sub-item">Poemas</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57297"><a href="https://poemas.uned.es/discografias-completas/" class="elementor-item">Discografías</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-portal-especializado menu-item-57942"><a href="https://poemas.uned.es/portales-especializados/" class="elementor-item">Portales</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58041"><a href="https://poemas.uned.es/resultados/" class="elementor-item">+Resultados</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58126"><a href="https://poemas.uned.es/resultados/publicaciones/" class="elementor-sub-item">Publicaciones</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58125"><a href="https://poemas.uned.es/resultados/intervenciones-en-congresos-y-similar/" class="elementor-sub-item">Intervenciones en congresos y similar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58124"><a href="https://poemas.uned.es/resultados/trabajos-de-investigacion-predoctorales/" class="elementor-sub-item">Trabajos de investigación predoctorales</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58123"><a href="https://poemas.uned.es/resultados/multimedia/" class="elementor-sub-item">Multimedia</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-58259"><a href="https://poemas.uned.es/noticias-y-actividades/" class="elementor-item">Noticias y actividades</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-67085"><a href="https://poemas.uned.es/poemate/" class="elementor-item">Poémate</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57280"><a href="/poemate/#colaboraciones" class="elementor-sub-item elementor-item-anchor">Colaboraciones</a></li>
+</ul>
+</li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menú" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>			<span class="elementor-screen-only">Menú</span>
+		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-1b838af" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-57174"><a href="https://poemas.uned.es/conoce-poemas/" class="elementor-item" tabindex="-1">Conoce PoeMAS</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57278"><a href="/conoce-poemas/#que-es" class="elementor-sub-item elementor-item-anchor" tabindex="-1">¿Qué es?</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57279"><a href="/conoce-poemas/#objetivos" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Objetivos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67092"><a href="https://poemas.uned.es/conoce-poemas/#equipo" class="elementor-sub-item elementor-item-anchor" tabindex="-1">¿Quiénes somos?</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28683"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Archivo</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57820"><a href="https://poemas.uned.es/canciones/" class="elementor-sub-item" tabindex="-1">Canciones</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57819"><a href="https://poemas.uned.es/poemas/" class="elementor-sub-item" tabindex="-1">Poemas</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57297"><a href="https://poemas.uned.es/discografias-completas/" class="elementor-item" tabindex="-1">Discografías</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-portal-especializado menu-item-57942"><a href="https://poemas.uned.es/portales-especializados/" class="elementor-item" tabindex="-1">Portales</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58041"><a href="https://poemas.uned.es/resultados/" class="elementor-item" tabindex="-1">+Resultados</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58126"><a href="https://poemas.uned.es/resultados/publicaciones/" class="elementor-sub-item" tabindex="-1">Publicaciones</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58125"><a href="https://poemas.uned.es/resultados/intervenciones-en-congresos-y-similar/" class="elementor-sub-item" tabindex="-1">Intervenciones en congresos y similar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58124"><a href="https://poemas.uned.es/resultados/trabajos-de-investigacion-predoctorales/" class="elementor-sub-item" tabindex="-1">Trabajos de investigación predoctorales</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58123"><a href="https://poemas.uned.es/resultados/multimedia/" class="elementor-sub-item" tabindex="-1">Multimedia</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-58259"><a href="https://poemas.uned.es/noticias-y-actividades/" class="elementor-item" tabindex="-1">Noticias y actividades</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-67085"><a href="https://poemas.uned.es/poemate/" class="elementor-item" tabindex="-1">Poémate</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57280"><a href="/poemate/#colaboraciones" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Colaboraciones</a></li>
+</ul>
+</li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</header>
+		
+	<div class="site grid-container container hfeed" id="page">
+				<div class="site-content" id="content">
+					<div data-elementor-type="single-post" data-elementor-id="57529" class="elementor elementor-57529 elementor-location-single post-103073 poema type-poema status-publish hentry genero_poetico-poesia-lirica" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-861e13e e-flex e-con-boxed e-con e-parent" data-id="861e13e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-ad704eb e-flex e-con-boxed e-con e-child" data-id="ad704eb" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1fffc66 elementor-widget elementor-widget-heading" data-id="1fffc66" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 28-02-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Palabras para Julia</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5fa125d elementor-widget elementor-widget-heading" data-id="5fa125d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">José Agustín Goytisolo</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-444d0a0 elementor-widget elementor-widget-shortcode" data-id="444d0a0" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"></div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2498d68 e-flex e-con-boxed e-con e-parent" data-id="2498d68" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-acb4735 e-con-full e-flex e-con e-child" data-id="acb4735" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-a3c6dc5 elementor-widget elementor-widget-text-editor" data-id="a3c6dc5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 28-02-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Tú no puedes volver atrás</p>
+<p>porque la vida ya te empuja</p>
+<p>como un aullido interminable.</p>
+<p>&nbsp;</p>
+<p>Hija mía es mejor vivir</p>
+<p>con la alegría de los hombres</p>
+<p>que llorar ante el muro ciego.</p>
+<p>&nbsp;</p>
+<p>Te sentirás acorralada</p>
+<p>te sentirás perdida o sola</p>
+<p>tal vez querrás no haber nacido.</p>
+<p>&nbsp;</p>
+<p>Yo sé muy bien que te dirán</p>
+<p>que la vida no tiene objeto</p>
+<p>que es un asunto desgraciado.</p>
+<p>&nbsp;</p>
+<p>Entonces siempre acuérdate</p>
+<p>de lo que un día yo escribí</p>
+<p>pensando en ti como ahora pienso.</p>
+<p>&nbsp;</p>
+<p>Un hombre solo una mujer</p>
+<p>así tomados de uno en uno</p>
+<p>son como polvo no son nada.</p>
+<p>&nbsp;</p>
+<p>Pero yo cuando te hablo a ti</p>
+<p>cuando te escribo estas palabras</p>
+<p>pienso también en otros hombres.</p>
+<p>&nbsp;</p>
+<p>Tu destino está en los demás</p>
+<p>tu futuro es tu propia vida</p>
+<p>tu dignidad es la de todos.</p>
+<p>&nbsp;</p>
+<p>Otros esperan que resistas</p>
+<p>que les ayude tu alegría</p>
+<p>tu canción entre sus canciones.</p>
+<p>&nbsp;</p>
+<p>Entonces siempre acuérdate</p>
+<p>de lo que un día yo escribí</p>
+<p>pensando en ti como ahora pienso.</p>
+<p>&nbsp;</p>
+<p>Nunca te entregues ni te apartes</p>
+<p>junto al camino nunca digas</p>
+<p>no puedo más y aquí me quedo.</p>
+<p>&nbsp;</p>
+<p>La vida es bella tú verás</p>
+<p>como a pesar de los pesares</p>
+<p>tendrás amor tendrás amigos.</p>
+<p>&nbsp;</p>
+<p>Por lo demás no hay elección</p>
+<p>y este mundo tal como es</p>
+<p>será todo tu patrimonio.</p>
+<p>&nbsp;</p>
+<p>Perdóname no sé decirte</p>
+<p>nada más pero tú comprende</p>
+<p>que yo aún estoy en el camino.</p>
+<p>&nbsp;</p>
+<p>Y siempre siempre acuérdate</p>
+<p>de lo que un día yo escribí</p>
+<p>pensando en ti como ahora pienso.</p>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-424a8a9 e-con-full e-flex e-con e-child" data-id="424a8a9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-f911ae3 elementor-widget elementor-widget-shortcode" data-id="f911ae3" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">    <div class="cancion-archive-single-details">
+                                    <div class="poemas-details-item">
+                                            <div class="poemas-album-details-item">
+                            <h4>Género</h4>
+                                                                                            <a href="https://poemas.uned.es/poemas/?_genero_poema=poesia-lirica">Poesía lírica</a>
+                                                                                                                    </div>
+                                    </div>
+                <div class="poemas-details-item">
+                                        <h4>Autor</h4>
+                    <ul class="poemas-person-details">
+                                                    <li>
+                                <div class="poemas-autor-name">
+                                    <a href="/poemas/?_autor_poema=103074">José Agustín Goytisolo</a>
+                                </div>
+                                                                    <div class="poemas-viaf-code">
+                                        <a target="_blank" href="https://viaf.org/viaf/117022600">VIAF</a>
+                                    </div>
+                                                                                                    <div style="margin-top:10px">
+                                        <span>Nacimiento autor:</span> 1928                                                                            </div>
+                                                                                                    <div>
+                                        <span>Fallecimiento autor:</span> 1999                                                                            </div>
+                                                                                                    <div>
+                                        <span>Nacionalidad:</span> España                                    </div>
+                                                                                                    <div>
+                                        <span>Género:</span> <a href="/poema/?_genero_autor=hombre">Hombre</a>
+                                    </div>
+                                                            </li>
+                                            </ul>
+                                        <span>Movimiento:</span> <a href="/poema/?_movimiento_poema=generacion-del-50">Generación del 50</a>
+                </div>
+                            <div class="poemas-details-item">
+            <h4>Poemario</h4>
+                        <div class="poemas-album-details-item">
+                <span>Título: </span><a href="/poemas/?_poemario_poema=103075">Palabras para Julia y otras canciones - Editorial Laia</a>
+            </div>
+                                        <div class="poemas-album-details-item">
+                    <span>Año de publicación original<i id="fecha_publicacion_original_tooltip" class="poemas-info-tooltip-icon"></i>:</span>
+                    <a href="/poema/?_ano_poema=1980%2C1980">1980</a>
+                                        <script>
+                        tippy('#fecha_publicacion_original_tooltip', {
+                            content: 'En algunos textos este año puede referirse a fecha original de composición, primera versión conocida o similar.',
+                        });
+                    </script>
+                </div>
+                                                    <div class="poemas-album-details-item">
+                    <span>Lugar de publicación original:</span> Barcelona                </div>
+                                                    <div class="poemas-album-details-item">
+                    <span>Publicación/Edición original:</span> Editorial Laia                </div>
+                                                    <div class="poemas-album-details-item">
+                    <span>Edición utilizada:</span> [Poesía, ed. Carme Riera] 2009-Cátedra                </div>
+                                        <div class="poemas-album-details-item">
+                    <span>Temas:</span>
+                                                                    <a href="https://poemas.uned.es/poema/?_temas_poema=crecer">Crecer</a>
+                        ,                                                                                             <a href="https://poemas.uned.es/poema/?_temas_poema=relacion-padre-hija">Relación padre-hija</a>
+                                                                                    </div>
+                    </div>
+                    <div class="poemas-details-item">
+                                <h4>Canciones relacionadas</h4>
+                <ul class="poemas-related-details">
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-los-suaves/">Palabras para Julia - Los Suaves</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-reina-roja/">Palabras para Julia - Reina Roja</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-solea-morente/">Palabras para Julia - Soleá Morente</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-rosalia/">Palabras para Julia - Rosalía</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-mercedes-sosa/">Palabras para Julia - Mercedes Sosa</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-lourdes-pastor/">Palabras para Julia - Lourdes Pastor</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-ismael-serrano/">Palabras para Julia - Ismael Serrano</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-ivan-ferreiro/">Palabras para Julia - Iván Ferreiro</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-niquel/">Palabras para Julia - Níquel</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-rosa-leon/">Palabras para Julia - Rosa León</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-kiko-veneno/">Palabras para Julia - Kiko Veneno</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-falete/">Palabras para Julia - Falete</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-tania-libertad/">Palabras para Julia - Tania Libertad</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-liliana-herrero/">Palabras para Julia - Liliana Herrero</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/cancion-para-ustedes-nacha-guevara/">Canción para ustedes - Nacha Guevara</a></li>
+                                            <li><a href="https://poemas.uned.es/cancion/palabras-para-julia-paco-ibanez/">Palabras para Julia - Paco Ibáñez</a></li>
+                                    </ul>
+            </div>
+                            <div class="poemas-details-item">
+                <h4>Comentarios</h4>
+                <p>Como él mismo explica en una entrevista en <em>El Mundo </em>(28 de noviembre de 1990, <a href="https://ddd.uab.cat/pub/jag/jagreccri/1990/GoyP_0227.pdf">aquí</a>), José Agustín Goytisolo escribió el poema en 1965; ese mismo año, Paco Ibáñez se dio cuenta de que era apto para ser cantado, y lo versionó, por primera vez, alcanzando tanta fama, que el nombre de Julia empezó a hacerse muy frecuente entre las niñas. A raíz de este éxito, el poema fue años más tarde incluido en el libro junto con otros textos para ser cantados: <em>Palabras para Julia y otras canciones</em> (1980). La versión de Paco Ibáñez (<em>Paco Ibáñez 3</em>, Polydor, 1969) no está recogida en esta base de datos porque es anterior a 1975, pero es la base de prácticamente todas las versiones musicales posteriores.</p>
+            </div>
+            </div>
+</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-35efe8d e-flex e-con-boxed e-con e-parent" data-id="35efe8d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-bafab08 elementor-post-navigation-borders-yes elementor-widget elementor-widget-post-navigation" data-id="bafab08" data-element_type="widget" data-widget_type="post-navigation.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://poemas.uned.es/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">		<div class="elementor-post-navigation">
+			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
+				<a href="https://poemas.uned.es/poema/romance-de-don-bueso-una-noche-de-torneos-anonimo-ed-pinero/" rel="prev"><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Anterior</span><span class="post-navigation__prev--title">Romance de don Bueso «Una noche de torneos» &#8211; Anónimo (ed. Piñero)</span></span></a>			</div>
+							<div class="elementor-post-navigation__separator-wrapper">
+					<div class="elementor-post-navigation__separator"></div>
+				</div>
+						<div class="elementor-post-navigation__next elementor-post-navigation__link">
+				<a href="https://poemas.uned.es/poema/el-pastor-desesperado-anonimo/" rel="next"><span class="elementor-post-navigation__link__next"><span class="post-navigation__next--label">Siguiente</span><span class="post-navigation__next--title">El pastor desesperado &#8211; Anónimo</span></span></a>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		
+	</div>
+</div>
+
+
+<div class="site-footer">
+			<footer data-elementor-type="footer" data-elementor-id="28646" class="elementor elementor-28646 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-3905c19 e-flex e-con-boxed e-con e-parent" data-id="3905c19" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-5b9cb92 e-flex e-con-boxed e-con e-child" data-id="5b9cb92" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d9cfde3 elementor-widget elementor-widget-heading" data-id="d9cfde3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">Suscríbete a nuestro boletín informativo</span>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-41aa43b e-flex e-con-boxed e-con e-child" data-id="41aa43b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-86e4fd3 poemas-mc-form elementor-widget elementor-widget-shortcode" data-id="86e4fd3" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.9.11 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-61349" method="post" data-id="61349" data-name="" ><div class="mc4wp-form-fields"><div class="an-mailchimp-form">
+  <p class="an-mailchimp-fields-wrap">
+    <input type="email" name="EMAIL" placeholder="Introduce tu email" required />
+	<input type="submit" value="enviar" />
+  </p>
+</div></div><label style="display: none !important;">Deja vacío este campo si eres humano: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1709628009" /><input type="hidden" name="_mc4wp_form_id" value="61349" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8803549 e-flex e-con-boxed e-con e-parent" data-id="8803549" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-c6b1097 e-flex e-con-boxed e-con e-child" data-id="c6b1097" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-1c44134 e-con-full e-flex e-con e-child" data-id="1c44134" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-07f1ddc elementor-view-default elementor-widget elementor-widget-icon" data-id="07f1ddc" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="https://poemas.uned.es">
+			<svg xmlns="http://www.w3.org/2000/svg" id="Capa_2" data-name="Capa 2" viewBox="0 0 183 90.24"><defs><style>      .cls-1 {        stroke-width: 0px;      }    </style></defs><g id="Capa_2-2" data-name="Capa 2"><g><rect class="cls-1" x="81.42" y="-56.83" width="3" height="174.86" transform="translate(26.39 98.54) rotate(-70.5)"></rect><rect class="cls-1" x="14.07" y="51.79" width="174.87" height="3" transform="translate(-12.62 42.39) rotate(-22.24)"></rect><path class="cls-1" d="M7.82,27.28c.82-1.08,2.18-1.9,3.8-1.9,2.58,0,4.28,2.07,4.28,4.4s-1.84,4.4-4.42,4.4c-1.36,0-2.75-.68-3.66-1.9v-4.99h0ZM7.82,35.27c1.08.93,2.44,1.44,4.03,1.44,1.19,0,2.44-.34,3.35-.88,2.01-1.19,3.4-3.4,3.4-6.06s-1.42-4.9-3.43-6.1c-.91-.54-2.01-.85-3.26-.85-1.5,0-2.95.45-4.17,1.5v-1.22h-2.6v20.12h2.69v-7.96h0Z"></path><path class="cls-1" d="M31.55,56.95c0-2.44,1.73-4.39,4.2-4.39s4.2,1.96,4.2,4.39-1.73,4.4-4.2,4.4-4.2-1.96-4.2-4.4M28.86,56.95c0,3.97,2.94,6.94,6.89,6.94s6.89-2.97,6.89-6.94-2.94-6.94-6.89-6.94-6.89,2.97-6.89,6.94"></path><path class="cls-1" d="M69.41,38.75c1.59,0,3.12,1.19,3.52,2.9h-7.26c.45-1.73,2.01-2.9,3.74-2.9M75.7,43.91c.03-.25.03-.45.03-.57,0-3.94-2.69-6.94-6.41-6.94s-6.49,2.95-6.49,6.94,3,6.94,6.88,6.94c2.72,0,4.62-1.22,5.61-2.49l-1.76-1.67c-.77.85-1.84,1.82-3.83,1.82-2.32,0-4.17-1.79-4.31-4.03h10.28Z"></path><polygon class="cls-1" points="165.83 42.43 165.83 44.37 169.62 44.37 169.62 48.16 171.56 48.16 171.56 44.37 175.35 44.37 175.35 42.43 171.56 42.43 171.56 38.64 169.62 38.64 169.62 42.43 165.83 42.43"></polygon><path class="cls-1" d="M147.57,86.01c-.42.52-1,.79-1.71.79-1.23,0-1.96-.96-2.01-2.09h4.35c0-.1,0-.19,0-.23,0-1.48-1.05-2.6-2.48-2.6-1.51,0-2.55,1.25-2.55,2.78,0,1.66,1.18,2.78,2.67,2.78,1.02,0,1.78-.48,2.17-.98l-.47-.45h.02ZM145.74,82.5c.92,0,1.65.67,1.79,1.6h-3.63c.2-.92.9-1.6,1.85-1.6M142.21,81.99h-1.81v-1.45h-.67v1.45h-1.5v.63h1.5v2.9c0,.63.13,1.02.36,1.31.36.45.93.61,1.42.61.21,0,.51-.03.69-.09l-.12-.61c-.2.06-.42.07-.57.07-.4,0-.7-.14-.89-.37-.14-.17-.23-.41-.23-.89v-2.92h1.81v-.63h0ZM133.13,81.99h-.64v5.33h.66v-3.7c.41-.7,1.08-1.11,1.85-1.11.58,0,1.09.27,1.39.71.19.27.3.61.3,1.31v2.79h.66v-2.84c0-.88-.16-1.32-.45-1.71-.43-.58-1.12-.9-1.89-.9s-1.45.29-1.88.86v-.75h0ZM130.33,86.01c-.42.52-1.01.79-1.71.79-1.23,0-1.96-.96-2.01-2.09h4.35c0-.1,0-.19,0-.23,0-1.48-1.05-2.6-2.48-2.6-1.51,0-2.55,1.25-2.55,2.78,0,1.66,1.18,2.78,2.67,2.78,1.02,0,1.78-.48,2.17-.98l-.47-.45h.02ZM128.5,82.5c.92,0,1.65.67,1.79,1.6h-3.64c.2-.92.9-1.6,1.85-1.6M123.77,85.63c-.42.73-1.12,1.17-1.9,1.17-.46,0-.86-.16-1.2-.4-.52-.36-.84-1.02-.84-1.75,0-.69.28-1.31.75-1.7.37-.3.84-.46,1.29-.46.98,0,1.68.68,1.92,1.08v2.06h-.02ZM124.44,87.29v-5.3h-.64v.74c-.48-.54-1.18-.85-1.95-.85-.64,0-1.25.23-1.7.59-.61.51-.99,1.3-.99,2.19,0,.96.43,1.79,1.13,2.28.53.37,1.09.5,1.59.5.83,0,1.5-.36,1.89-.88v.76c0,.67-.05,1.05-.21,1.38-.27.53-.82.91-1.72.91-.85,0-1.51-.4-1.9-1.03l-.52.39c.54.81,1.4,1.27,2.42,1.27,1.17,0,1.93-.5,2.31-1.23.22-.42.29-.94.29-1.72M110.63,86.67c.61.49,1.34.76,2.22.76,1.08,0,2.05-.64,2.05-1.68,0-1.13-1.13-1.52-2-1.74-.55-.14-.98-.27-.98-.64,0-.43.46-.69.99-.69.44,0,.84.17,1.18.43l.57-.79c-.43-.35-1.01-.61-1.82-.61-.98,0-2.03.54-2.03,1.72,0,.77.59,1.19,1.26,1.41.81.27,1.72.3,1.72.94,0,.43-.48.69-.96.69-.55,0-1.11-.21-1.62-.61l-.57.82h-.01ZM108.06,85.59c-.37.5-.95.79-1.51.79-1.06,0-1.82-.83-1.82-1.81s.7-1.81,1.76-1.81c.67,0,1.23.34,1.57.78v2.06h0ZM108.09,87.31h1.07v-5.49h-1.07v.5c-.5-.43-1.1-.62-1.72-.62-.51,0-.97.13-1.34.35-.83.49-1.41,1.41-1.41,2.51s.57,2.01,1.4,2.5c.37.22.89.36,1.38.36.65,0,1.25-.22,1.69-.62v.5h0ZM106.79,80.88l1.23-1.75h-1.23l-.76,1.75h.76ZM93.04,81.81v5.49h1.11v-3.77c.32-.38.87-.78,1.54-.78.42,0,.82.19,1.06.48.2.23.32.54.32,1.1v2.98h1.11v-2.81c0-.38-.04-.7-.09-.97.36-.37.88-.78,1.67-.78.41,0,.78.19,1.03.48.2.23.32.54.32,1.1v2.98h1.11v-2.81c0-.92-.16-1.46-.5-1.88-.45-.57-1.17-.92-1.95-.92-.99,0-1.59.41-2.09.91-.45-.55-1.13-.91-1.94-.91-.75,0-1.39.4-1.61.64v-.53h-1.09Z"></path><path class="cls-1" d="M151.9,72.97c-.42.73-1.12,1.17-1.9,1.17-.46,0-.86-.16-1.2-.4-.52-.36-.84-1.02-.84-1.75,0-.69.28-1.31.75-1.7.37-.3.84-.46,1.29-.46.98,0,1.68.68,1.92,1.07v2.06h-.02ZM152.57,74.65v-5.33h-.64v.74c-.48-.54-1.18-.85-1.95-.85-.64,0-1.25.23-1.7.6-.61.51-.99,1.3-.99,2.19,0,.96.43,1.79,1.13,2.28.53.37,1.09.5,1.59.5.83,0,1.52-.36,1.92-.9v.78h.64ZM146.59,69.23c-.07-.01-.3-.02-.4-.02-.83,0-1.44.44-1.68.82v-.7h-.67v5.33h.67v-3.63c.28-.69.95-1.18,1.67-1.18.04,0,.24,0,.32.01l.09-.62h0ZM141.19,72.97c-.42.73-1.12,1.17-1.9,1.17-.46,0-.87-.16-1.2-.4-.52-.36-.84-1.02-.84-1.75,0-.69.28-1.31.75-1.7.37-.3.84-.46,1.29-.46.98,0,1.68.68,1.92,1.07v2.06h-.02ZM141.85,74.65v-5.33h-.64v.74c-.48-.54-1.18-.85-1.95-.85-.64,0-1.25.23-1.7.6-.61.51-.99,1.3-.99,2.19,0,.96.43,1.79,1.13,2.28.53.37,1.09.5,1.59.5.83,0,1.52-.36,1.92-.9v.78h.64ZM130.78,70.91c.23-.4.94-1.08,1.92-1.08.44,0,.91.15,1.29.46.47.39.75,1.01.75,1.7,0,.74-.33,1.39-.84,1.75-.34.23-.75.4-1.2.4-.78,0-1.49-.44-1.91-1.17v-2.06h0ZM130.78,77.45v-3.56c.4.51,1.06.88,1.89.88.5,0,1.06-.13,1.59-.5.7-.49,1.13-1.32,1.13-2.28,0-.89-.38-1.67-.99-2.19-.44-.36-1.05-.6-1.7-.6-.77,0-1.47.32-1.95.85v-.73h-.64v8.13h.67ZM124.31,72.96c-.42.73-1.12,1.17-1.91,1.17-.46,0-.86-.16-1.2-.4-.51-.36-.84-1.02-.84-1.75,0-.69.28-1.31.75-1.7.37-.3.84-.46,1.29-.46.98,0,1.68.68,1.92,1.07v2.06h-.01ZM124.97,74.64v-5.33h-.64v.74c-.48-.54-1.18-.85-1.95-.85-.64,0-1.25.23-1.7.6-.61.51-.99,1.3-.99,2.19,0,.96.43,1.79,1.13,2.28.53.37,1.09.5,1.59.5.83,0,1.52-.36,1.92-.9v.78h.64ZM118.39,66.81l-.76,1.64h.53l1.11-1.64h-.88ZM117.5,74.64h.67v-5.33h-.67v5.33ZM112.01,74c.47.43,1.18.76,2.07.76,1.01,0,1.85-.61,1.85-1.6,0-1.87-3.07-1.24-3.07-2.42,0-.62.62-.91,1.18-.91s.88.14,1.33.43l.35-.55c-.4-.27-.99-.51-1.72-.51-.9,0-1.81.58-1.81,1.55,0,1.82,3.07,1.08,3.07,2.44,0,.56-.56.93-1.23.93-.6,0-1.16-.26-1.61-.64l-.41.51h0ZM108.41,70c.65,0,1.29.49,1.45,1.19h-2.99c.19-.71.83-1.19,1.54-1.19M111.01,72.13c.01-.11.01-.19.01-.23,0-1.62-1.11-2.86-2.64-2.86s-2.67,1.21-2.67,2.86,1.24,2.86,2.84,2.86c1.12,0,1.9-.5,2.31-1.03l-.73-.69c-.32.35-.76.75-1.58.75-.96,0-1.72-.74-1.78-1.66h4.24ZM100.08,71.9c0-1.01.71-1.81,1.73-1.81s1.73.81,1.73,1.81-.71,1.81-1.73,1.81-1.73-.81-1.73-1.81M98.97,71.9c0,1.64,1.21,2.86,2.84,2.86s2.84-1.23,2.84-2.86-1.21-2.86-2.84-2.86-2.84,1.23-2.84,2.86M96.17,71.02c.8,0,1.31-.2,1.71-.54.49-.42.81-1.04.81-1.74s-.32-1.32-.81-1.74c-.4-.34-.91-.54-1.71-.54h-3.1v8.18h1.17v-3.62h1.93ZM94.24,69.91v-2.34h1.87c.56,0,.87.14,1.08.36.2.21.33.49.33.81s-.13.6-.33.81c-.21.22-.51.36-1.08.36h-1.87Z"></path></g></g></svg>			</a>
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8b61ea2 e-flex e-con-boxed e-con e-child" data-id="8b61ea2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e13389a elementor-widget elementor-widget-heading" data-id="e13389a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">¡Síguenos en redes sociales!</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6c149c0 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6c149c0" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://poemas.uned.es/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://twitter.com/ProyectoPoeMAS" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" id="Capa_1" viewBox="0 0 1226.37 1226.37"><path d="m727.348 519.284 446.727-519.284h-105.86l-387.893 450.887-309.809-450.887h-357.328l468.492 681.821-468.492 544.549h105.866l409.625-476.152 327.181 476.152h357.328l-485.863-707.086zm-144.998 168.544-47.468-67.894-377.686-540.24h162.604l304.797 435.991 47.468 67.894 396.2 566.721h-162.604l-323.311-462.446z"></path><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>						</span>
+										<span class="elementor-icon-list-text">ProyectoPoeMAS</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.instagram.com/proyectopoemas/" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">proyectopoemas</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://open.spotify.com/user/3154qhvagusoruw2cdkuh5eek6m4?si=TWUXEgGcSxm3eCT-NPe62g" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fab-spotify" viewBox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><path d="M248 8C111.1 8 0 119.1 0 256s111.1 248 248 248 248-111.1 248-248S384.9 8 248 8zm100.7 364.9c-4.2 0-6.8-1.3-10.7-3.6-62.4-37.6-135-39.2-206.7-24.5-3.9 1-9 2.6-11.9 2.6-9.7 0-15.8-7.7-15.8-15.8 0-10.3 6.1-15.2 13.6-16.8 81.9-18.1 165.6-16.5 237 26.2 6.1 3.9 9.7 7.4 9.7 16.5s-7.1 15.4-15.2 15.4zm26.9-65.6c-5.2 0-8.7-2.3-12.3-4.2-62.5-37-155.7-51.9-238.6-29.4-4.8 1.3-7.4 2.6-11.9 2.6-10.7 0-19.4-8.7-19.4-19.4s5.2-17.8 15.5-20.7c27.8-7.8 56.2-13.6 97.8-13.6 64.9 0 127.6 16.1 177 45.5 8.1 4.8 11.3 11 11.3 19.7-.1 10.8-8.5 19.5-19.4 19.5zm31-76.2c-5.2 0-8.4-1.3-12.9-3.9-71.2-42.5-198.5-52.7-280.9-29.7-3.6 1-8.1 2.6-12.9 2.6-13.2 0-23.3-10.3-23.3-23.6 0-13.6 8.4-21.3 17.4-23.9 35.2-10.3 74.6-15.2 117.5-15.2 73 0 149.5 15.2 205.4 47.8 7.8 4.5 12.9 10.7 12.9 22.6 0 13.6-11 23.3-23.2 23.3z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Proyecto PoeMAS</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.youtube.com/@proyectopoemas6013/playlists" target="_blank">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">ProyectoPoeMAS</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0492c19 e-con-full e-flex e-con e-child" data-id="0492c19" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-9bc75b0 elementor-widget elementor-widget-text-editor" data-id="9bc75b0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>PoeMAS es el resultado de dos proyectos I+D de generación de conocimiento financiados por el Ministerio de Ciencia, Innovación y Universidades: PGC2018-099641-A-I00 (entre enero de 2019 y diciembre de 2021) y PID2021-125022NB-I00 (entre septiembre de 2022 y agosto de 2025). PoeMAS, que está coordinado en la Facultad de Filología de la UNED por Clara I. Martínez Cantón y Guillermo Laín Corona, funciona como publicación periódica (ISSN: 2952-0592) en abierto (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International CC BY-NC-ND). Aunque se permite el uso libre de los contenidos de este espacio, es preciso reconocer la autoría, con atribución, según los casos, a los autores individuales o al Proyecto PoeMAS en su conjunto.</p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-44627e3 e-flex e-con-boxed e-con e-child" data-id="44627e3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1bd4811 elementor-widget elementor-widget-image" data-id="1bd4811" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 28-02-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>											<a href="https://www.ciencia.gob.es/" target="_blank">
+							<img src="https://poemas.uned.es/wp-content/uploads/elementor/thumbs/1280px-Logotipo_del_Ministerio_de_Ciencia_Innovacion_y_Universidades.svg-1-qh6cdqv83tzaqmqxw53i1x92ocjcfj645gwukcawow.png" title="1280px-Logotipo_del_Ministerio_de_Ciencia,_Innovación_y_Universidades.svg (1)" alt="1280px-Logotipo_del_Ministerio_de_Ciencia,_Innovación_y_Universidades.svg (1)" loading="lazy" />								</a>
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-81b1405 elementor-widget elementor-widget-image" data-id="81b1405" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://www.aei.gob.es/" target="_blank">
+							<img src="https://poemas.uned.es/wp-content/uploads/elementor/thumbs/logo_aei-qh6chsk7j5iphztustr4krxpxfvsanx1f3au893zls.jpg" title="logo_aei" alt="logo_aei" loading="lazy" />								</a>
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-6ac9bbf elementor-widget elementor-widget-image" data-id="6ac9bbf" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://www.uned.es/universidad/facultades/filologia.html" target="_blank">
+							<picture class="attachment-full size-full wp-image-103675">
+<source type="image/webp" srcset="https://poemas.uned.es/wp-content/uploads/2023/12/uned_filologia.png.webp"/>
+<img width="219" height="104" src="https://poemas.uned.es/wp-content/uploads/2023/12/uned_filologia.png" alt=""/>
+</picture>
+								</a>
+													</div>
+				</div>
+					</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e2a9c48 e-flex e-con-boxed e-con e-child" data-id="e2a9c48" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-bcd1a84 e-con-full e-flex e-con e-child" data-id="bcd1a84" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-3d5799e elementor-widget elementor-widget-text-editor" data-id="3d5799e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>El Proyecto PoeMAS recopila o hace mención en esta página a diferentes productos culturales, incluyendo un amplio número de canciones y textos en su base de datos, solo con el ánimo de dar visibilidad a las relaciones entre música y poesía y alcanzar un conocimiento académico al respecto, al margen de las ideas políticas, sociales, económicas o de cualquier otra índole que puedan contener. Estas ideas no reflejan necesariamente las posturas de los miembros de investigación del Proyecto PoeMAS.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1d1dab6 e-con-full e-flex e-con e-child" data-id="1d1dab6" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-071cd4d elementor-widget elementor-widget-image" data-id="071cd4d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://creativecommons.org/" target="_blank">
+							<img src="https://poemas.uned.es/wp-content/uploads/elementor/thumbs/cc-qh6cn66yn0vgvwnh92kcfs4gw50buqei814flgetc0.png" title="cc" alt="cc" loading="lazy" />								</a>
+													</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b424e56 e-flex e-con-boxed e-con e-child" data-id="b424e56" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-c3ef912 e-flex e-con-boxed e-con e-child" data-id="c3ef912" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c5abb3b elementor-icon-list--layout-inline elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c5abb3b" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://descargas.uned.es/publico/pdf/Politica_privacidad_UNED.pdf" target="_blank">
+
+											<span class="elementor-icon-list-text">Política de privacidad</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://poemas.uned.es/politica-de-cookies-ue/" target="_blank">
+
+											<span class="elementor-icon-list-text">Política de cookies</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</footer>
+		</div>
+
+<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script>
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-1 bottom-right-view-preferences optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Gestionar el consentimiento de las cookies</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label=" ">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin">Para ofrecer las mejores experiencias, utilizamos tecnologías como las cookies para almacenar y/o acceder a la información del dispositivo. El consentimiento de estas tecnologías nos permitirá procesar datos como el comportamiento de navegación o las identificaciones únicas en este sitio. No consentir o retirar el consentimiento, puede afectar negativamente a ciertas características y funciones.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Funcional</span>
+							<span class='cmplz-always-active'>
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox"
+										   id="cmplz-functional-optin"
+										   data-category="cmplz_functional"
+										   class="cmplz-consent-checkbox cmplz-functional"
+										   size="40"
+										   value="1"/>
+									<label class="cmplz-label" for="cmplz-functional-optin" tabindex="0"><span class="screen-reader-text">Funcional</span></label>
+								</span>
+								Siempre activo							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Preferencias</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-preferences-optin"
+									   data-category="cmplz_preferences"
+									   class="cmplz-consent-checkbox cmplz-preferences"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-preferences-optin" tabindex="0"><span class="screen-reader-text">Preferencias</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">El almacenamiento o acceso técnico es necesario para la finalidad legítima de almacenar preferencias no solicitadas por el abonado o usuario.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Estadísticas</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-statistics-optin"
+									   data-category="cmplz_statistics"
+									   class="cmplz-consent-checkbox cmplz-statistics"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-statistics-optin" tabindex="0"><span class="screen-reader-text">Estadísticas</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">El almacenamiento o acceso técnico que es utilizado exclusivamente con fines estadísticos. </span>
+					<span class="cmplz-description-statistics-anonymous">El almacenamiento o acceso técnico que se utiliza exclusivamente con fines estadísticos anónimos. Sin un requerimiento, el cumplimiento voluntario por parte de tu proveedor de servicios de Internet, o los registros adicionales de un tercero, la información almacenada o recuperada sólo para este propósito no se puede utilizar para identificarte.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-marketing-optin"
+									   data-category="cmplz_marketing"
+									   class="cmplz-consent-checkbox cmplz-marketing"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-marketing-optin" tabindex="0"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Administrar opciones</a>
+		<a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Gestionar los servicios</a>
+		<a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Gestionar {vendor_count} proveedores</a>
+		<a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/">Leer más sobre estos propósitos</a>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Aceptar</button>
+		<button class="cmplz-btn cmplz-deny">Denegar</button>
+		<button class="cmplz-btn cmplz-view-preferences">Ver preferencias</button>
+		<button class="cmplz-btn cmplz-save-preferences">Guardar preferencias</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Ver preferencias</a>
+			</div>
+
+	<div class="cmplz-links cmplz-documents">
+		<a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a>
+			</div>
+
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Gestionar consentimiento</button>
+
+</div>    <script>
+        jQuery(function($) {
+            // Function to adjust scroll for anchor links
+            function adjustAnchorScroll() {
+                var hash = window.location.hash;
+                if (hash) {
+                    var $anchor = $(hash);
+                    if ($anchor.length) {
+                        var scrollTop = $anchor.offset().top - 100; // Your desired offset
+                        $('html, body').scrollTop(scrollTop);
+                    }
+                }
+            }
+
+            // Adjust scroll for within-page navigation
+            $(window).on('elementor/frontend/init', function() {
+                elementorFrontend.hooks.addFilter('frontend/handlers/menu_anchor/scroll_top_distance', function(scrollTop) {
+                    return scrollTop - 100; // Adjusting scroll position for Elementor's anchor handling
+                });
+            });
+
+            // Adjust scroll for cross-page navigation with an anchor
+            $(window).on('load', function() {
+                // Delay adjusting the scroll to ensure Elementor has fully initialized and layouts are set
+                setTimeout(adjustAnchorScroll, 500); // Adjust the timeout as needed
+            });
+        });
+    </script>
+<script id="generate-a11y">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><script id="poemas_custom_scripts-js-extra">
+var ajax_object = {"ajax_url":"https:\/\/poemas.uned.es\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="https://poemas.uned.es/wp-content/themes/generatepress_child/inc/js/poemas_custom_scripts.js" id="poemas_custom_scripts-js"></script>
+<!--[if lte IE 11]>
+<script src="https://poemas.uned.es/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.4.0" id="generate-classlist-js"></script>
+<![endif]-->
+<script id="generate-menu-js-extra">
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Abrir el submen\u00fa","closeSubMenuLabel":"Cerrar el submen\u00fa"};
+</script>
+<script src="https://poemas.uned.es/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.4.0" id="generate-menu-js"></script>
+<script id="cmplz-cookiebanner-js-extra">
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"13","version":"7.0.2","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/poemas.uned.es\/wp-json\/complianz\/v1\/","locale":"lang=es&locale=es_ES","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"16","cookie_path":"\/","categories":{"statistics":"estad\u00edsticas","marketing":"m\u00e1rketing"},"tcf_active":"","placeholdertext":"Haz clic para aceptar cookies de marketing y permitir este contenido","css_file":"https:\/\/poemas.uned.es\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=13","page_links":{"eu":{"cookie-statement":{"title":"Pol\u00edtica de cookies ","url":"https:\/\/poemas.uned.es\/politica-de-cookies-ue\/"},"privacy-statement":{"title":"Declaraci\u00f3n de privacidad","url":"https:\/\/descargas.uned.es\/publico\/pdf\/Politica_privacidad_UNED.pdf"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Haz clic para aceptar cookies de marketing y permitir este contenido"};
+</script>
+<script defer src="https://poemas.uned.es/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1709191289" id="cmplz-cookiebanner-js"></script>
+<script id="cmplz-cookiebanner-js-after">
+		if ('undefined' != typeof window.jQuery) {
+			jQuery(document).ready(function ($) {
+				$(document).on('elementor/popup/show', () => {
+					let rev_cats = cmplz_categories.reverse();
+					for (let key in rev_cats) {
+						if (rev_cats.hasOwnProperty(key)) {
+							let category = cmplz_categories[key];
+							if (cmplz_has_consent(category)) {
+								document.querySelectorAll('[data-category="' + category + '"]').forEach(obj => {
+									cmplz_remove_placeholder(obj);
+								});
+							}
+						}
+					}
+
+					let services = cmplz_get_services_on_page();
+					for (let key in services) {
+						if (services.hasOwnProperty(key)) {
+							let service = services[key].service;
+							let category = services[key].category;
+							if (cmplz_has_service_consent(service, category)) {
+								document.querySelectorAll('[data-service="' + service + '"]').forEach(obj => {
+									cmplz_remove_placeholder(obj);
+								});
+							}
+						}
+					}
+				});
+			});
+		}
+    
+    
+		
+			document.addEventListener("cmplz_enable_category", function(consentData) {
+				var category = consentData.detail.category;
+				var services = consentData.detail.services;
+				var blockedContentContainers = [];
+				let selectorVideo = '.cmplz-elementor-widget-video-playlist[data-category="'+category+'"],.elementor-widget-video[data-category="'+category+'"]';
+				let selectorGeneric = '[data-cmplz-elementor-href][data-category="'+category+'"]';
+				for (var skey in services) {
+					if (services.hasOwnProperty(skey)) {
+						let service = skey;
+						selectorVideo +=',.cmplz-elementor-widget-video-playlist[data-service="'+service+'"],.elementor-widget-video[data-service="'+service+'"]';
+						selectorGeneric +=',[data-cmplz-elementor-href][data-service="'+service+'"]';
+					}
+				}
+				document.querySelectorAll(selectorVideo).forEach(obj => {
+					let elementService = obj.getAttribute('data-service');
+					if ( cmplz_is_service_denied(elementService) ) {
+						return;
+					}
+					if (obj.classList.contains('cmplz-elementor-activated')) return;
+					obj.classList.add('cmplz-elementor-activated');
+
+					if ( obj.hasAttribute('data-cmplz_elementor_widget_type') ){
+						let attr = obj.getAttribute('data-cmplz_elementor_widget_type');
+						obj.classList.removeAttribute('data-cmplz_elementor_widget_type');
+						obj.classList.setAttribute('data-widget_type', attr);
+					}
+					if (obj.classList.contains('cmplz-elementor-widget-video-playlist')) {
+						obj.classList.remove('cmplz-elementor-widget-video-playlist');
+						obj.classList.add('elementor-widget-video-playlist');
+					}
+					obj.setAttribute('data-settings', obj.getAttribute('data-cmplz-elementor-settings'));
+					blockedContentContainers.push(obj);
+				});
+
+				document.querySelectorAll(selectorGeneric).forEach(obj => {
+					let elementService = obj.getAttribute('data-service');
+					if ( cmplz_is_service_denied(elementService) ) {
+						return;
+					}
+					if (obj.classList.contains('cmplz-elementor-activated')) return;
+
+					if (obj.classList.contains('cmplz-fb-video')) {
+						obj.classList.remove('cmplz-fb-video');
+						obj.classList.add('fb-video');
+					}
+
+					obj.classList.add('cmplz-elementor-activated');
+					obj.setAttribute('data-href', obj.getAttribute('data-cmplz-elementor-href'));
+					blockedContentContainers.push(obj.closest('.elementor-widget'));
+				});
+
+				/**
+				 * Trigger the widgets in Elementor
+				 */
+				for (var key in blockedContentContainers) {
+					if (blockedContentContainers.hasOwnProperty(key) && blockedContentContainers[key] !== undefined) {
+						let blockedContentContainer = blockedContentContainers[key];
+						if (elementorFrontend.elementsHandler) {
+							elementorFrontend.elementsHandler.runReadyTrigger(blockedContentContainer)
+						}
+						var cssIndex = blockedContentContainer.getAttribute('data-placeholder_class_index');
+						blockedContentContainer.classList.remove('cmplz-blocked-content-container');
+						blockedContentContainer.classList.remove('cmplz-placeholder-' + cssIndex);
+					}
+				}
+
+			});
+		
+		
+
+	let cmplzBlockedContent = document.querySelector('.cmplz-blocked-content-notice');
+	if ( cmplzBlockedContent) {
+	        cmplzBlockedContent.addEventListener('click', function(event) {
+            event.stopPropagation();
+        });
+	}
+</script>
+<script src="https://poemas.uned.es/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
+<script defer src="https://poemas.uned.es/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.11" id="mc4wp-forms-api-js"></script>
+<script src="https://poemas.uned.es/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.19.3" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://poemas.uned.es/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.4" id="elementor-webpack-runtime-js"></script>
+<script src="https://poemas.uned.es/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.4" id="elementor-frontend-modules-js"></script>
+<script src="https://poemas.uned.es/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://poemas.uned.es/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://poemas.uned.es/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://poemas.uned.es/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script src="https://poemas.uned.es/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/poemas.uned.es\/wp-admin\/admin-ajax.php","nonce":"a6d065265b","urls":{"assets":"https:\/\/poemas.uned.es\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/poemas.uned.es\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/poemas.uned.es\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://poemas.uned.es/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.19.3" id="elementor-pro-frontend-js"></script>
+<script src="https://poemas.uned.es/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="https://poemas.uned.es/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.19.4","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"theme_builder_v2":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true,"e_global_styleguide":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/poemas.uned.es\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes"},"post":{"id":103073,"title":"Palabras%20para%20Julia%20%E2%80%93%20Jos%C3%A9%20Agust%C3%ADn%20Goytisolo%20%E2%80%93%20PoeMAS","excerpt":"","featuredImage":false}};
+</script>
+<script src="https://poemas.uned.es/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.4" id="elementor-frontend-js"></script>
+<script src="https://poemas.uned.es/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.19.3" id="pro-elements-handlers-js"></script>
+<script src="https://poemas.uned.es/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.19.3" id="e-sticky-js"></script>
+
+</body>
+</html>
