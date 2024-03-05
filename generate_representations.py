@@ -116,10 +116,10 @@ def export_vectors_to_file(vectors, file_path):
 """ Execute program """
 def main():
     # Process the documents from each collection
-    # Collection 1
-    tweets_en = process_documents('./colecciones/tweets_en', 'english', False)
-    # Collection 2
-    tweets_es = process_documents('./colecciones/tweets_es', 'spanish', False)
+    # # Collection 1
+    # tweets_en = process_documents('./colecciones/tweets_en', 'english', False)
+    # # Collection 2
+    # tweets_es = process_documents('./colecciones/tweets_es', 'spanish', False)
     # Collection 3
     web_en = process_documents('./colecciones/web_en', 'english', True)
     # Collection 4
@@ -130,20 +130,20 @@ def main():
     export_vectors_to_file(web_tf_en, './results/tf_web_en.txt')
     web_tf_es = tf_vectorizer.fit_transform(web_es)
     export_vectors_to_file(web_tf_es, './results/tf_web_es.txt')
-    tweet_tf_es = tf_vectorizer.fit_transform(tweets_es)
-    export_vectors_to_file(tweet_tf_es, './results/tf_tweets_es.txt')
-    tweet_tf_en = tf_vectorizer.fit_transform(tweets_en)
-    export_vectors_to_file(tweet_tf_en, './results/tf_tweets_en.txt')
+    # tweet_tf_es = tf_vectorizer.fit_transform(tweets_es)
+    # export_vectors_to_file(tweet_tf_es, './results/tf_tweets_es.txt')
+    # tweet_tf_en = tf_vectorizer.fit_transform(tweets_en)
+    # export_vectors_to_file(tweet_tf_en, './results/tf_tweets_en.txt')
     
     # TF representation
     web_tfidf_en = tfidf_vectorizer.fit_transform(web_en)
     export_vectors_to_file(web_tfidf_en, './results/tfidf_web_en.txt')
     web_tfidf_es = tfidf_vectorizer.fit_transform(web_es)
     export_vectors_to_file(web_tfidf_es, './results/tfidf_web_es.txt')
-    tweet_tfidf_en = tfidf_vectorizer.fit_transform(tweets_en)
-    export_vectors_to_file(tweet_tfidf_en, './results/tfidf_tweets_en.txt')
-    tweet_tfidf_es = tfidf_vectorizer.fit_transform(tweets_es)
-    export_vectors_to_file(tweet_tfidf_es, './results/tfidf_tweets_es.txt')
+    # tweet_tfidf_en = tfidf_vectorizer.fit_transform(tweets_en)
+    # export_vectors_to_file(tweet_tfidf_en, './results/tfidf_tweets_en.txt')
+    # tweet_tfidf_es = tfidf_vectorizer.fit_transform(tweets_es)
+    # export_vectors_to_file(tweet_tfidf_es, './results/tfidf_tweets_es.txt')
 
 
     # Semantic Vector Representations
@@ -167,25 +167,25 @@ def main():
         export_vectors_to_file([additive_vector], './results/additive_web_es.txt')
         export_vectors_to_file([average_vector], './results/average_web_es.txt')
 
-    for doc in tweets_en:
-        # Tokenize document
-        tokens = doc.split()  # Assuming `clean_text` returns a space-separated string of tokens
-        # Generate vectors
-        additive_vector = document_vector_additive(model_en, tokens)
-        average_vector = document_vector_average(model_en, tokens)
-        # Export vectors
-        export_vectors_to_file([additive_vector], './results/additive_tweets_en.txt')
-        export_vectors_to_file([average_vector], './results/average_tweets_en.txt')
+    # for doc in tweets_en:
+    #     # Tokenize document
+    #     tokens = doc.split()  # Assuming `clean_text` returns a space-separated string of tokens
+    #     # Generate vectors
+    #     additive_vector = document_vector_additive(model_en, tokens)
+    #     average_vector = document_vector_average(model_en, tokens)
+    #     # Export vectors
+    #     export_vectors_to_file([additive_vector], './results/additive_tweets_en.txt')
+    #     export_vectors_to_file([average_vector], './results/average_tweets_en.txt')
 
-    for doc in tweets_es:
-        # Tokenize document
-        tokens = doc.split()  # Assuming `clean_text` returns a space-separated string of tokens
-        # Generate vectors
-        additive_vector = document_vector_additive(model_es, tokens)
-        average_vector = document_vector_average(model_es, tokens)
-        # Export vectors
-        export_vectors_to_file([additive_vector], './results/additive_tweets_es.txt')
-        export_vectors_to_file([average_vector], './results/average_tweets_es.txt')
+    # for doc in tweets_es:
+    #     # Tokenize document
+    #     tokens = doc.split()  # Assuming `clean_text` returns a space-separated string of tokens
+    #     # Generate vectors
+    #     additive_vector = document_vector_additive(model_es, tokens)
+    #     average_vector = document_vector_average(model_es, tokens)
+    #     # Export vectors
+    #     export_vectors_to_file([additive_vector], './results/additive_tweets_es.txt')
+    #     export_vectors_to_file([average_vector], './results/average_tweets_es.txt')
 
 
 
